@@ -1,0 +1,17 @@
+{
+  "name": "granado-espada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "fs-extra": "latest",
+    "http-server": "^0.12.3",
+    "node-fetch": "latest"
+  },
+  "scripts": {
+    "update": "node update.js",
+    "serve": "http-server ./docs",
+    "start": "npm run serve"
+  }
+}
