@@ -1,0 +1,5187 @@
+[
+  {
+    "id": "1",
+    "slug": "aclla",
+    "name": "Aclla",
+    "description": "The day Orden was defeated, the gods knew that he would one day resurrect, so his power was sealed deep within the Occulta Fortress. After Orden's power slowly began to manifest again, a mysterious woman named Aclla emerged from the depths of the Fortress.",
+    "status": {
+      "str": "30",
+      "agi": "60",
+      "hp": "50",
+      "dex": "60",
+      "int": "90",
+      "sen": "50"
+    },
+    "icon": "1ad6b4e4e2f07c27c736109a593e1d38.jpg",
+    "portrait": "e19e6aba8e0b85a6d92482841baea68c.png",
+    "background": "626f5b947437ed1692556ed62c24bc21.jpg",
+    "images": [
+      {
+        "thumbnail": "6a4f5702b12e8105a76e9d33f40739c2.png",
+        "src": "66f50c58a74839f8aded3a2d11a9c957.png"
+      },
+      {
+        "thumbnail": "f34047ed176cb8c018043e4b7d038894.png",
+        "src": "9d35832b8e8b73f279c53dc383e9a3f7.png"
+      },
+      {
+        "thumbnail": "00a95c148d03f515b523e9bb37df4993.png",
+        "src": "2f772639c2b8eae4e6a7442ca8919c37.png"
+      }
+    ],
+    "screenshots": [
+      "20c23eb96d1e0f1490b80f8819a134b8.png",
+      "cb7c464e320ef7920478496a921e2ac9.png",
+      "a42041fe89605428594f9b8eed73e3fe.png",
+      "15f6d2b31c0e1a42b4f5247965feec1b.png",
+      "bd2c05eb49f8dedda417f873ffa2dba7.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Aclla"
+  },
+  {
+    "id": "2",
+    "slug": "becky",
+    "name": "Becky",
+    "description": "Former member of renowned Captain Bernardo's old pirate crew, she was also Bane's rival. After the crew was disbanded, she saw an opportunity in helping new pioneer families and began cooperating with them for profit.",
+    "status": {
+      "str": "40",
+      "agi": "75",
+      "hp": "55",
+      "dex": "55",
+      "int": "85",
+      "sen": "50"
+    },
+    "icon": "6676b0e80d7653662cca8fc1f59d7747.jpg",
+    "portrait": "b00995a115e205fd534523d2ef55cca3.png",
+    "background": "4b1a7c55e322517cc1f222b1fc39e692.jpg",
+    "images": [
+      {
+        "thumbnail": "ac6d0f6a63c2a52d9b69ec54fdc956b6.png",
+        "src": "364aa58fbe19284abc93cbeda52809a1.png"
+      },
+      {
+        "thumbnail": "61fa4f76db7ecc3b3783164e704a9feb.png",
+        "src": "72daf41485c86f91d58a2a63200548cc.png"
+      },
+      {
+        "thumbnail": "d5350fa685c98a96345d3571abf79be1.png",
+        "src": "52ec242f3c7edd4acdc127f0f6fa0eca.png"
+      }
+    ],
+    "screenshots": [
+      "2d9e8af568143e41ac9697026656ed12.png",
+      "6d1c529066a3bd7a6dcd2eb9bd79ff5a.png",
+      "e6fa1ec85d1d7ce9dbc7613d3883e2e3.png",
+      "ca159f1b34444e71013a727bbbd558cc.png",
+      "26926fd8370d227397a51a4b390beff3.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Becky"
+  },
+  {
+    "id": "3",
+    "slug": "bloodnavycano",
+    "name": "Blood Navy Cano",
+    "description": "Blood Navy the 1st Regiment Commander. After she failed to talk with the governor, in order to break the governor's will and hold fast to her views, she returned to Blood Navy. She seems to always sensitive because of lots of works. It said whenever she meets the governor, there was a big or small arguments.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "55",
+      "dex": "40",
+      "int": "85",
+      "sen": "70"
+    },
+    "icon": "80db936b703c29da52bde461cfb22ceb.jpg",
+    "portrait": "d4f93408f87d4c8bca812513ec57b6ee.png",
+    "background": "327151a2d1d9f4cdd981b806971a3482.jpg",
+    "images": [
+      {
+        "thumbnail": "87c1ae7e3b3db6ad2cc38a8ed0a966c7.png",
+        "src": "33a5a01ae5088a204e49c73570940cd9.png"
+      },
+      {
+        "thumbnail": "903ef64653719104a72ab1d5064ef525.png",
+        "src": "ace123d29ae3cdc81c65e9fe8cf2f759.png"
+      },
+      {
+        "thumbnail": "16b32a7fd8024e0927b09455ef28cc92.png",
+        "src": "1f9c4bad696a93dcd83d2983db9afb78.png"
+      }
+    ],
+    "screenshots": [
+      "eeab228e6e3233a461c71156a9dff616.png",
+      "460df762b1db35a4b07e33cd989e8277.png",
+      "d03081c8d3bb95ead8ce339469388bb2.png",
+      "c124cf3713f3923a6651ef5f930bad2b.png",
+      "11022ad1546f57d510c867cdc85f0b60.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Blood%20Navy%20Cano"
+  },
+  {
+    "id": "4",
+    "slug": "ciel",
+    "name": "Ciel",
+    "description": "Middle child and leader of the Sainquis sisters, she puts her heart and soul into looking after her siblings. She made her way to the New Continent with them, certain that she'll find someone who holds an important clue to her past.",
+    "status": {
+      "str": "70",
+      "agi": "70",
+      "hp": "75",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "51aa572e192647966a85213cfccd321a.jpg",
+    "portrait": "ad52f09236f05cb9c0ea0100510e094b.png",
+    "background": "11f71032bcd9067e240c15d0f662a9b3.jpg",
+    "images": [
+      {
+        "thumbnail": "afd5bd1888e2c78dcbb3dd68306f6f08.png",
+        "src": "fb256ac4d589d38d13b3e38bc0e57785.png"
+      },
+      {
+        "thumbnail": "184fc2250fd77a8dbfec800935fdd261.png",
+        "src": "e761be8dade037e09f5af61937dd5cfd.png"
+      },
+      {
+        "thumbnail": "a1c35df4c6a0919752684cea8cfeab50.png",
+        "src": "68f292505a8b7a3eead453a38a54a93b.png"
+      }
+    ],
+    "screenshots": [
+      "3b90ec603e933e8debeaa0f12013c559.jpg",
+      "ed52e8b5e6fc3557f90e28377245e47d.jpg",
+      "715f58ff4465c61c01857bf81f41dfae.jpg",
+      "c783a6ac61c700653db7a4bbdcc88288.jpg",
+      "7cba96ae13229eefd9dabefea2d2ad48.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Ciel"
+  },
+  {
+    "id": "5",
+    "slug": "consuldietrich",
+    "name": "Consul Dietrich",
+    "description": "225th Consul of Illier. She was elected with full support from the people of Illier after the war with Patrikyon. She runs the nation based on the ideals of Machia, and since the end of the civil war, her attention has been known to turn towards foreign affairs.",
+    "status": {
+      "str": "80",
+      "agi": "60",
+      "hp": "70",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "00dc63a5d8d3a82c816695b18c47a8ae.jpg",
+    "portrait": "14aa3e7df4caa50ea00f12153aee4949.png",
+    "background": "83e82fae75f5cf51a04844576276046c.jpg",
+    "images": [
+      {
+        "thumbnail": "95393d0004bab01b4c82c534e2f9584c.png",
+        "src": "8dc0c7bff9d1b96dd4e705e731559fca.png"
+      },
+      {
+        "thumbnail": "4e2e29015b64bc68cd27174cda2be959.png",
+        "src": "54f668096fdffe4b7600b8fe0050f4be.png"
+      }
+    ],
+    "screenshots": [
+      "aed404870a138cc5df17485265220655.png",
+      "ea8910ad3ccb1c6cbddd99635fe89cc3.png",
+      "0ef586ed1141a9bf7b0e91788e82bb4b.png",
+      "d4d7cf3ce8bf4248e1323097d9e24017.png",
+      "8ca4ffef676c4df2ba5db5a386a24961.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Consul%20Dietrich"
+  },
+  {
+    "id": "6",
+    "slug": "daisy",
+    "name": "Daisy",
+    "description": "Daughter of the Hunter Jaison, Daisy was born in Bedel Plain. She often grew bored of playing with friends her age, preferring to learn hunting skills from real hunters. Daisy is naturally curious and dreams of uncovering a new world.",
+    "status": {
+      "str": "20",
+      "agi": "70",
+      "hp": "50",
+      "dex": "80",
+      "int": "50",
+      "sen": "60"
+    },
+    "icon": "04dcac2b7245ffff871073645b0539f1.jpg",
+    "portrait": "05b0a7bdf9e8dfe1699012e17c4903b7.png",
+    "background": "958b45e2ba52bc012915e8f0f26ca252.jpg",
+    "images": [
+      {
+        "thumbnail": "18d8463a2a87a246f7a46d35a6741808.png",
+        "src": "cea9c7105a454b67aba42c8760a065f7.png"
+      },
+      {
+        "thumbnail": "720e065e8447f88a207715bb0a756cbb.png",
+        "src": "a0810e55b384e32760f88e17cea627e0.png"
+      },
+      {
+        "thumbnail": "9d4d67f5f83d0a3e93ede2fb4220d8cc.png",
+        "src": "a77ba2f66e1e94af69873e0e4b3af173.png"
+      }
+    ],
+    "screenshots": [
+      "4c4035b2030e394f9ef0c216de061cfc.png",
+      "465f1a3777cf9794ac25be54bc611074.png",
+      "4ea41f83cd80c3eb314b83fbf9496732.png",
+      "92a0289b15f745fcf76ec0e7ea6320aa.png",
+      "5ef91088c1ed83184846be1a8e29ba44.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Daisy"
+  },
+  {
+    "id": "7",
+    "slug": "dietrich",
+    "name": "Dietrich",
+    "description": "Head of Evora and current commander of Illier's imperial guard. She puts great effort into developing her nation under the ideals of Machia, the previous consul. Dietrich understands the flow of the world and has a keen eye for influencing others. The people of Illier often praise her virtues as the commander.",
+    "status": {
+      "str": "70",
+      "agi": "60",
+      "hp": "80",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "75765eeb53a7402c9d67f7c2c2747c92.jpg",
+    "portrait": "8c502ee2b82e4fe9db989abb8a29553d.png",
+    "background": "1a05332fc499c973610bd065999378a5.jpg",
+    "images": [
+      {
+        "thumbnail": "814fd65bed1b7625ecda6c930877cdc1.png",
+        "src": "0011685ab39f5740a5b16b9ea308d06a.png"
+      },
+      {
+        "thumbnail": "b359a1ef2f915a8c7d015a59ed294b90.png",
+        "src": "ac537f95d5dc9ddcda53b5730de5f5a7.png"
+      },
+      {
+        "thumbnail": "5badd518184bbb311d99022220870193.png",
+        "src": "b9c548d7f711bc8c26f00d495e178f9b.png"
+      }
+    ],
+    "screenshots": [
+      "82a8feea21f3b57e199f69eb1ce5e0f4.png",
+      "8f5498357cab4dbbc2a9b49d0ba7fede.png",
+      "cb775968ec015043128656d72d50b7fe.png",
+      "2ce61c7d332dcdcdc05906c23e9b6fd8.png",
+      "323cf6cafac4dd3d76e1a757a3ab5f50.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Dietrich"
+  },
+  {
+    "id": "8",
+    "slug": "hector",
+    "name": "Hector",
+    "description": "Blood Navy officer. He became a member of the Blood Navy after graduating from military school. After Lenold died in battle, Hector began cooperating with pioneer families to amend the effects of the Blood Navy civil war.",
+    "status": {
+      "str": "75",
+      "agi": "70",
+      "hp": "55",
+      "dex": "60",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "8b16aabfa79876493d04291fd7d9cc54.jpg",
+    "portrait": "793d35d040f74c879c25961a12573ed4.png",
+    "background": "644c52c9b7dafbbf00b175a23b71155b.jpg",
+    "images": [
+      {
+        "thumbnail": "d63478f8c2654c8b3c723ee56d4fb248.png",
+        "src": "b24e5f8e6243e9a7f4be40b24f31277a.png"
+      },
+      {
+        "thumbnail": "b9b5d90b4792d22b7dd0fc6ddea8d4a9.png",
+        "src": "35074daeb38b28a1786bafb74b0d119d.png"
+      },
+      {
+        "thumbnail": "99fc86456d37e0088169cb8115939802.png",
+        "src": "2b4b65634893545652eb5944174fc01d.png"
+      }
+    ],
+    "screenshots": [
+      "b097f8a1cff8578ffee5bad79c7ba094.png",
+      "fa2960a61cd6dc5a90fdb18859c272ce.png",
+      "fd36738a2ffde74e41130ddd5f5c66a7.png",
+      "e8975030581e1573ab5a4fb03c058997.png",
+      "0f408ea0a0a1c210175597d520062504.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Hector"
+  },
+  {
+    "id": "9",
+    "slug": "hermes",
+    "name": "Hermes",
+    "description": "Hermes, the eldest of the Sainquis sisters and a fugitive in her own country, has a notorious reputation of being the ultimate sniper. She is in a conflict with Ciel because of her love for jewelry, but that hasn't affected their sisterly relationship. Venturing into the new continent with her two sisters in tow, she is confident that she will find a clue from her childhood there.",
+    "status": {
+      "str": "40",
+      "agi": "60",
+      "hp": "55",
+      "dex": "80",
+      "int": "50",
+      "sen": "60"
+    },
+    "icon": "814b4b5b0428c69e30d5d27c0094b3a1.jpg",
+    "portrait": "bdc8a4fa33c2543c24c4b1af1208fd85.png",
+    "background": "aa8d3b3bb467fe80221625154dbdf167.jpg",
+    "images": [
+      {
+        "thumbnail": "22c7208c7968ca9c81272d1c3bf6ed9b.png",
+        "src": "eae1a26cf52aca184ca00533504b278d.png"
+      },
+      {
+        "thumbnail": "1ba2be1d4f75c5b05dfdb535c58a5aeb.png",
+        "src": "d92d641f1b245dac363e91253f7bf471.png"
+      },
+      {
+        "thumbnail": "40f49697dc48433750553bc4c18d398b.png",
+        "src": "508daa2579ba8bd715989e8b88a90ac1.png"
+      }
+    ],
+    "screenshots": [
+      "fbde7c3ca9de9f274dfa6281a29840ff.png",
+      "3eb27e910c08d20f3e2e05e30e41e24f.png",
+      "35cb23b63dbb9edc79de87ebca7b6e0d.png",
+      "20d9d025c30879a7c90e06052896a277.png",
+      "72c86f5d4be69382c81580132debabd3.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Hermes"
+  },
+  {
+    "id": "10",
+    "slug": "jaina",
+    "name": "Jaina",
+    "description": "A maid of Dr. Fernando Torsche. She received the name of Jane after her contributions during the Three-Year War were recognized and she became an imperial maid. Not long after that, however, she returned to the mansion of  Dr. Torsche. Because of her fiery character, she is often associated with all sorts of accidents happening in Dr.Torsche's mansion.",
+    "status": {
+      "str": "30",
+      "agi": "70",
+      "hp": "55",
+      "dex": "90",
+      "int": "50",
+      "sen": "50"
+    },
+    "icon": "cad9a878f85392d772d6f26fc78d1733.jpg",
+    "portrait": "eb2f89377565f4a4df2e3afec99c9836.png",
+    "background": "f80c515c9f20280aa696779b231ccae8.jpg",
+    "images": [
+      {
+        "thumbnail": "4b34a2a011b9513c8ff9893637b07252.png",
+        "src": "f23a21f6e14019e49cefd81eaa2a3178.png"
+      },
+      {
+        "thumbnail": "045b97dc3080a706b07ce3145b592cbb.png",
+        "src": "cab36637e9873ae14f7e48e9e9015c84.png"
+      },
+      {
+        "thumbnail": "6c2a37431dc17099350b84668a7359c4.png",
+        "src": "8a63b03b0fd87a424f6aed1113903b91.png"
+      }
+    ],
+    "screenshots": [
+      "09657d6b70cb6c289c6e671458089812.png",
+      "4912aca79c4565e0a3e1339d38953400.png",
+      "106d03098e67d4f560cbf28c729eabc9.png",
+      "df9daadb08dd15d1fd8defbc1f9bb8d4.png",
+      "432a8caed1a0614b263344a1efcc6329.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Jaina"
+  },
+  {
+    "id": "11",
+    "slug": "joshua",
+    "name": "Joshua",
+    "description": "Descendant of the Baselrane family and Deputy Commander of the Magic Corps. Joshua uses the magic of Golden Fireworks with her alchemy techniques. After finding herself involved in the civil war of Illier, she is trying to think of ways to get rid of her tedious tasks.",
+    "status": {
+      "str": "30",
+      "agi": "50",
+      "hp": "55",
+      "dex": "50",
+      "int": "85",
+      "sen": "70"
+    },
+    "icon": "26dfe0b11ffdcacc5d14c1469cba6dcc.jpg",
+    "portrait": "8e4cf8e5efcbdcfc34525e5a9e301455.png",
+    "background": "b6ad31207d0e67c19e1782b58f609c2f.jpg",
+    "images": [
+      {
+        "thumbnail": "e72ed08c2708603f64aaadbcb9b976d5.png",
+        "src": "a124c097b4526a8037e0c9f80454cdc8.png"
+      },
+      {
+        "thumbnail": "131ef34f70a1187afd51ea4972bf0209.png",
+        "src": "b3a9e3da8580c4f38f7c91556adcd204.png"
+      },
+      {
+        "thumbnail": "6ca1271c8a897c662c6de357d439f30e.png",
+        "src": "01cfe33c53f9953ece78da0369ae4529.png"
+      }
+    ],
+    "screenshots": [
+      "b1f2443adac0d6a8df28547ba796f6f9.jpg",
+      "09c5a03c21a20ffa53d833be14092c99.jpg",
+      "7ff46c85ec749a669c856a24ef140a8a.jpg",
+      "4ad254a973a45dac6a90e02cb3b8452b.jpg",
+      "7a666e8bf13e0052f67159e03849efdd.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Joshua"
+  },
+  {
+    "id": "12",
+    "slug": "kay",
+    "name": "Kay",
+    "description": "Guard to the original prophet, Lira, before history was written. On the day Orden was defeated, he was sealed along with him in his eternal prison. With Orden liberated, Kay also escaped to follow him into the East side of the continent.",
+    "status": {
+      "str": "80",
+      "agi": "70",
+      "hp": "45",
+      "dex": "50",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "b3b8f8ac3b207a5cee72686f333e3b66.jpg",
+    "portrait": "d3a704ed8760fc356d002345f8e98b43.png",
+    "background": "93128d4cd19a827a8db7b3c5b98796dd.jpg",
+    "images": [
+      {
+        "thumbnail": "6c32c2c56bdd3d1c2cd485a42d7466e1.png",
+        "src": "950cb4fa02762fbcaf2c35a5439b9dad.png"
+      },
+      {
+        "thumbnail": "5b65ed214ab94cf0553776e091d23334.png",
+        "src": "116b120903837e12c872d44cec876bf3.png"
+      },
+      {
+        "thumbnail": "4011aa6f5e845ff2848a2ad7495d7f23.png",
+        "src": "bb96a9209066a39c02583c14bb9a2cea.png"
+      }
+    ],
+    "screenshots": [
+      "0c1fbb4d4984a7ca6d90dd6b20b991dc.png",
+      "e4c1057c2beed615c27f7024a334b6c0.png",
+      "71a8560073e80380bc7c5a470b30a649.png",
+      "03400b5c3bef0ace07e6715aaeb4d498.png",
+      "8f61d02590be41191d48dacb54c9387f.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Kay"
+  },
+  {
+    "id": "13",
+    "slug": "nina",
+    "name": "Nina",
+    "description": "Blood Navy officer. When Lenold died in the war for Bristia's independence, she resolved the Blood Navy's internal crisis by leading her troops.",
+    "status": {
+      "str": "75",
+      "agi": "70",
+      "hp": "55",
+      "dex": "60",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "1e98220e4c104e5f19373f765ba1445f.jpg",
+    "portrait": "71ebe45906c23cd1ae67c7cd0adfc7b4.png",
+    "background": "3efceb64c8042800f352fad6310d583d.jpg",
+    "images": [
+      {
+        "thumbnail": "fcfb49a055825e5737eca67a7ba0c971.png",
+        "src": "d9a183d172a9f0379e0c98c90f4b113d.png"
+      },
+      {
+        "thumbnail": "6d9b7f5ee7a049fa1d8721cac5f0c1dd.png",
+        "src": "f3621febbcdb9c1a72fb7f9cbd62d38d.png"
+      },
+      {
+        "thumbnail": "c2376684525de21ccc16e2ca9ecb1724.png",
+        "src": "30eeae6ea00e005b6c8b0f97942e2f6e.png"
+      }
+    ],
+    "screenshots": [
+      "a6b2e44fba1e8f362c29f451a0f6b728.png",
+      "4b21905e71db1457dbd55a4ae3a594b2.png",
+      "214c3d6c6d02f0728b51b66192e97d4c.png",
+      "76212f9ad1c15cdf2a806feac25e528a.png",
+      "73ca39f7a0c1e1f84cde759887c15731.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Nina"
+  },
+  {
+    "id": "14",
+    "slug": "queencernyjoshua",
+    "name": "Queen Cerny Joshua",
+    "description": "Winner of Illier's 420th Ball. For her stage performance, she used her renown Golden Fireworks technique. That is also the name she became known for after defeating the Black Scorpion mercenaries and thwarting their invasion plans.",
+    "status": {
+      "str": "30",
+      "agi": "50",
+      "hp": "60",
+      "dex": "50",
+      "int": "85",
+      "sen": "65"
+    },
+    "icon": "1f69ec18f06bb2dad88955199612aa5e.jpg",
+    "portrait": "ab9b006bd029d147332a8af5a26405a6.png",
+    "background": "967e34c95eb7416494c42336945e4346.jpg",
+    "images": [
+      {
+        "thumbnail": "b88026c233deac331ac00b6689468644.png",
+        "src": "16dd375f4dcf49424147a807d6326517.png"
+      },
+      {
+        "thumbnail": "14589f7ce12e3fe332d59f529d5e20c7.png",
+        "src": "10e5cdac0baf8620c798c597094ff0ca.png"
+      },
+      {
+        "thumbnail": "1f18f02e30c7bf902ae613e05f0f2f7f.png",
+        "src": "e3b470ff0863225f532690e880ed388b.png"
+      }
+    ],
+    "screenshots": [
+      "432281be26a1bfdc91e4125f03c7bb65.jpg",
+      "6939dd1daf6f7e22df1eb105855baafe.jpg",
+      "4aa82291b5c1b7e7ca1220e7969c57c0.jpg",
+      "10ae717847248e3ecc5a867247871220.jpg",
+      "039342c123339a024cddac4bd4939abf.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Queen%20Cerny%20Joshua"
+  },
+  {
+    "id": "15",
+    "slug": "scarlet",
+    "name": "Scarlet",
+    "description": "The youngest of the infamous Sainquis sisters. She is said to commit murders while talking in an unknown language with her doll Candy, which she always holds in her arms.",
+    "status": {
+      "str": "90",
+      "agi": "50",
+      "hp": "40",
+      "dex": "60",
+      "int": "40",
+      "sen": "60"
+    },
+    "icon": "a6e6d26576a89a8357bbfa4394f0ecca.jpg",
+    "portrait": "4ba4637f7e90c8bdaeded8e9f2463932.png",
+    "background": "044f2258b69e1d61d5cae43a5ee6a293.jpg",
+    "images": [
+      {
+        "thumbnail": "fe956b65c655dc967d515412d1e6f145.png",
+        "src": "2911274f0959102e1b1f810d885cc16a.png"
+      },
+      {
+        "thumbnail": "9b061618ce543bb4a6a94bf1809bfdda.png",
+        "src": "40267c0478b7479c871db4d7f6a66010.png"
+      },
+      {
+        "thumbnail": "cd4b3797ab860bf389cb7fe07057a388.png",
+        "src": "f2fc4ee141d3e4a7e876997e0f8680f2.png"
+      }
+    ],
+    "screenshots": [
+      "a3782a58ba49c1b070403c49cfbb56c4.png",
+      "ea400c371678ec71267e9bee3d236531.png",
+      "025ad0b7a04d807c9c607835dca98fe4.png",
+      "80338540ddf6eb9c5fd4998f41500b4b.png",
+      "708b7e91c27c4fe3deacc875a1171c33.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Scarlet"
+  },
+  {
+    "id": "16",
+    "slug": "scavenger",
+    "name": "Scavenger Yeganeh",
+    "description": "First-rate killer of Kalbath, the main organization controlling crime in the Orpesia continent. He's called the Scavenger, a lawless man exchanging people's lives for money without ever shedding a tear, or a drop of his own blood.",
+    "status": {
+      "str": "90",
+      "agi": "50",
+      "hp": "75",
+      "dex": "55",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "493645b60db8aab2fbc73756029ff55f.jpg",
+    "portrait": "61bbe07116b16a52043b4baffde76743.png",
+    "background": "da034fd808f755680bff3076cc098de7.jpg",
+    "images": [
+      {
+        "thumbnail": "fc691124e1996b8565bea1890c3ddbb1.png",
+        "src": "05bd66a10c1a44de5a2f81928151b007.png"
+      },
+      {
+        "thumbnail": "1925fa4d9aa5b89cc18c08502449a094.png",
+        "src": "f3eabcf3604a21e21dacffe9e3a201ed.png"
+      },
+      {
+        "thumbnail": "983cb13745ffb0a7d197bae1b67aa900.png",
+        "src": "be2bdf312ea9239828bbec2267add465.png"
+      }
+    ],
+    "screenshots": [
+      "711e0dc6cde273053047e1657295e230.jpg",
+      "e1aa43cb5b2ce10cdbec5e92e1936e1e.jpg",
+      "49fe8926eec6adb61e72af2cd75baab8.jpg",
+      "a9ff5a6dba02525a828a0e0840446515.jpg",
+      "a21bfe24594fe80a30edcdf744aa4478.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Scavenger%20Yeganeh"
+  },
+  {
+    "id": "17",
+    "slug": "snowflakebertheandcharles",
+    "name": "Snowflake Berthe and Charles",
+    "description": "Berthe and Charles, dressed up like a king and queen of the ice kingdom. It was Charles who made Berthe wear her dress, although Berthe doesn't seem to hate it.",
+    "status": {
+      "str": "50",
+      "agi": "60",
+      "hp": "40",
+      "dex": "50",
+      "int": "90",
+      "sen": "60"
+    },
+    "icon": "5555557e970a4be12b81c43a1aeb4ad4.jpg",
+    "portrait": "543e3e7f9e220be53bd7eb92d727bb31.png",
+    "background": "94bea77fc09bdaa66d1ef688f41dca76.jpg",
+    "images": [
+      {
+        "thumbnail": "2a7d5b419ca396b03062053d19b55213.png",
+        "src": "088be148c64711de3100c1798c6968d4.png"
+      },
+      {
+        "thumbnail": "b6f00adcc2d647c502f1a5cbfbe1ca84.png",
+        "src": "e930e9d05caf48dc15b14697403c8a8f.png"
+      },
+      {
+        "thumbnail": "0e0988ff1a69962378351f1efb427e04.png",
+        "src": "66d8629f7f989336a5c8a6ad2daf7274.png"
+      }
+    ],
+    "screenshots": [
+      "1d40802ff4f3d37c1703571e9fa54a10.png",
+      "3901c62043cdd95ab0e9a52e4cce61d4.png",
+      "f72d572ce33b40f9981f8c7bb9075f78.png",
+      "adf50d7b83934ddbaea57bcd118daaf4.png",
+      "6f2ba48699363e76e78046a9c57f1a47.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Snowflake%20Berthe%20and%20Charles"
+  },
+  {
+    "id": "18",
+    "slug": "supremecommandercano",
+    "name": "Supreme Commander Cano",
+    "description": "Current Supreme Commander of the Bristia Army. She and the governor were able to understand each other through their conversations, and Cano received full support from Bristians before being appointed as their supreme commander. She is still timid, but when she knows that she is right, nothing can make her change her mind.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "55",
+      "dex": "40",
+      "int": "90",
+      "sen": "70"
+    },
+    "icon": "9654b5bbeedaae57fe63c1bde7a9da4a.jpg",
+    "portrait": "c0a4eca9e400bff880aaa7fa29a1ac6b.png",
+    "background": "391a810e83391460bbd792c06cc2e72b.jpg",
+    "images": [
+      {
+        "thumbnail": "5ee7fd24e34f11b597f71077c85a9390.png",
+        "src": "23a66ad51c37f7d6b31d10bda1a5f852.png"
+      },
+      {
+        "thumbnail": "3d0ea48b00286f0599d7b6eb866b44cd.png",
+        "src": "f2cbb3fd1c3e7a2f42bd3b281b5bd20b.png"
+      },
+      {
+        "thumbnail": "82f110a9b8bca98c1a6e9bf46a29bb2f.png",
+        "src": "024b09957afdf51376218b2d91cee17c.png"
+      }
+    ],
+    "screenshots": [
+      "22db7d3c7fd7073418a63b7386cbb92a.png",
+      "39a4c3d21413abc59c3f9d1ed614d2f8.png",
+      "f32aea076256786382895da7d96812bd.png",
+      "5b0feabce6e69cb6784c73e7404db154.png",
+      "28201a91c3d00b7554b74fb37f7d9b96.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Supreme%20Commander%20Cano"
+  },
+  {
+    "id": "19",
+    "slug": "vanessa",
+    "name": "Vanessa",
+    "description": "One of Pegadilla's mercenaries, known for having the best battle skills. She regards Calyce as a rival.",
+    "status": {
+      "str": "80",
+      "agi": "80",
+      "hp": "70",
+      "dex": "40",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "7e65cdf233be686ca3af8f06d41c4117.jpg",
+    "portrait": "20568bf8e07153fd95c137d013ee009d.png",
+    "background": "55ae603f715683c5addf0bae402aa477.jpg",
+    "images": [
+      {
+        "thumbnail": "ddcf83541618a8fc94a9076d8e741ec2.png",
+        "src": "b964b8e8822509f9102fe8ad2814d0db.png"
+      },
+      {
+        "thumbnail": "a40ae4a467856ab7c0e4311a47d2b258.png",
+        "src": "55f7066fd139b8a7c5b02e2005a78dcc.png"
+      }
+    ],
+    "screenshots": [
+      "adafafc3c2d7d34827c4292e48a9d830.png",
+      "726ac13de139ea954c62da3f082afe40.png",
+      "91a874787e3dbd14f6a5039bf1e5085f.png",
+      "95d86ab3a1b8d96b2e54d5c95f1586c4.png",
+      "bde80aaf6cab5ab9d5a326d988500d7a.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Vanessa"
+  },
+  {
+    "id": "20",
+    "slug": "vansheenatalie",
+    "name": "Vanshee Natalie",
+    "description": "Natalie was always proud of her older sister, who studied in an elite course to become a soldier, but that also gave her a certain sense of inferiority. Because of these feelings, she left her country to join the Rescue Knights in the New Continent.",
+    "status": {
+      "str": "50",
+      "agi": "65",
+      "hp": "60",
+      "dex": "90",
+      "int": "30",
+      "sen": "60"
+    },
+    "icon": "cd81c89b31a91a59cbd02b8380239c6f.jpg",
+    "portrait": "7d3d441765cf26fac57f5f4dc60d2271.png",
+    "background": "55a233e468fd390bed331a060995cc53.jpg",
+    "images": [
+      {
+        "thumbnail": "da38d72a69a1bd763f7421bba165a701.png",
+        "src": "9a22cdb5a1b37bc3d32f0ba0f3386c2e.png"
+      },
+      {
+        "thumbnail": "fd2989b5e2c135ab9b051b2b9da7b8b7.png",
+        "src": "12c48949e916b730671549ceaceea9aa.png"
+      },
+      {
+        "thumbnail": "419fa07f43eed2f4d1d3c69e27ffd22b.png",
+        "src": "ab059a2ea53f9027e698625628c773aa.png"
+      }
+    ],
+    "screenshots": [
+      "3ec73b20b3787a7149ee9aded3a98ad2.png",
+      "680ef4a979919dcc57cd197121d1b99e.png",
+      "7866ddacc7746ee403cda00838427905.png",
+      "eaf41a32451d376e90b4de2fb6da03a1.png",
+      "f5d3a02215a4c9624163c8aa450cfab2.png"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Vanshee%20Natalie"
+  },
+  {
+    "id": "21",
+    "slug": "juliana",
+    "name": "Juliana",
+    "description": "Lora Constans' younger sister and member of the Armonia Crusaders. During the 2nd Holy War, she took on the mission to support resistance against the Abyss army. The main Armonian forces were able to retreat safely to Apostadero, but their defense forces were completely exterminated.",
+    "status": {
+      "str": "30",
+      "agi": "70",
+      "hp": "50",
+      "dex": "90",
+      "int": "50",
+      "sen": "50"
+    },
+    "icon": "a66eb6aa67ea885f43c5db3da4662dcf.jpg",
+    "portrait": "8e6d9fc5ebd840ba76b98b2e13c54bab.png",
+    "background": "0063b76ffc42f2c7a4c98d677eb10233.jpg",
+    "images": [
+      {
+        "thumbnail": "737b6442bb43beb7ec62b14fb56df29b.png",
+        "src": "607c367b9ab2fb6a9e83ca35eb80c4ed.png"
+      },
+      {
+        "thumbnail": "3c8a9e0def0a0437e49130c6e1451ab2.png",
+        "src": "c431befb515c864566e09954ea3daf2e.png"
+      },
+      {
+        "thumbnail": "61f76f85998abc24f57933e612d6e1c3.png",
+        "src": "9a4fe64d66456147c0cfcc962d9366bc.png"
+      }
+    ],
+    "screenshots": [
+      "c03a780f1bd6e95d1834554c1938ea3f.jpg",
+      "0f8835d5d6e031fb245d04aaeb6f0621.jpg",
+      "033b8cb856156a6651a3b417207dbb2f.jpg",
+      "49e38dfd118e8602cad1d85760407e47.jpg",
+      "55ec8c20a885e3ac4051054f4c2c4510.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Juliana"
+  },
+  {
+    "id": "22",
+    "slug": "cadetamy",
+    "name": "Cadet Amy",
+    "description": "A cadet in Illisia's military academy. Her wild personality is often a source of trouble for those around her, but she is top of the class and no one can deny her brilliance. People call her the 'Blonde Witch of Shausen'.",
+    "status": {
+      "str": "30",
+      "agi": "50",
+      "hp": "50",
+      "dex": "50",
+      "int": "80",
+      "sen": "50"
+    },
+    "icon": "af09fd6f4d81aa51140ae84e4d80eed5.jpg",
+    "portrait": "3a1511339f7b568ed56773bb5188cd47.png",
+    "background": "7b766495af439193e454f67ce3ef6036.jpg",
+    "images": [
+      {
+        "thumbnail": "3d0d3590ad00cb74877e9d8ca20d65fc.png",
+        "src": "9c9ed41e41337df81849d80e16e48b99.png"
+      },
+      {
+        "thumbnail": "15574872f1de756d2d201fe700b70cbb.png",
+        "src": "a5ef6365befb58435af3085f69eb9a50.png"
+      }
+    ],
+    "screenshots": [
+      "4378c9581ab662c9ef7cc2cb6dd2a4fd.jpg",
+      "d337ca9c77e33f25a5fb0044d876c3d3.jpg",
+      "c10edecfad6854b0fe83ba257cd28573.jpg",
+      "bcca18ce717c04ee8297034b7bc24624.jpg",
+      "c66e4cc96b11bb92d9bbd49dcdd5c223.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Cadet%20Amy"
+  },
+  {
+    "id": "23",
+    "slug": "amy",
+    "name": "Amy",
+    "description": "Second daughter of Marquis Illier Shausen, she works as an operation officer in the Illier State Department, being in charge of Evora staff for the progress of the nation. Though level-headed and smart, Amy has to be extra careful not to let her uncontrollable fiery character interfere with her work.",
+    "status": {
+      "str": "30",
+      "agi": "50",
+      "hp": "60",
+      "dex": "50",
+      "int": "70",
+      "sen": "50"
+    },
+    "icon": "b6d1f02ecb53773cf76e1ddf0c77c687.jpg",
+    "portrait": "9b85c35890afe2d3c9c05453e45afd19.png",
+    "background": "c31937d88683d372f5d015f82d0c7f3e.jpg",
+    "images": [
+      {
+        "thumbnail": "438a026f506b311bd27a980fdd2b818b.png",
+        "src": "92d78cb076c05de2e044edd565a4e2a9.png"
+      },
+      {
+        "thumbnail": "e8cab8b21f3962e5bcd531553b093227.png",
+        "src": "1405ac4583c08082a44c018947d2842d.png"
+      },
+      {
+        "thumbnail": "aeec94c8b9d857efa000e3e776a7db9c.png",
+        "src": "faf6939101ab78acfe1c1d67435973ec.png"
+      }
+    ],
+    "screenshots": [
+      "03edc650209bd78d1994ccf3b3a6f59d.jpg",
+      "cc1c5c226c465f2629675dc0279aa846.jpg",
+      "447c57b8120920521cd6fa573e9ed0db.jpg",
+      "19fca260ea6908b8b42483e7480ff70e.jpg",
+      "179b941868e930a9c7e80c2195996e26.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Amy"
+  },
+  {
+    "id": "24",
+    "slug": "risky",
+    "name": "Risky",
+    "description": "One of the many descendants of the head of Arsene. Originally an orphan, she was adopted by the head of Arsene, who made her the Risky she is today. Her main job was to steal information from high-class ministers and, because her missions never allowed for the use of weapons, she still uses the card magic she learned from the head of Arsene.",
+    "status": {
+      "str": "20",
+      "agi": "60",
+      "hp": "50",
+      "dex": "50",
+      "int": "80",
+      "sen": "60"
+    },
+    "icon": "b6dd0d1cb9f023d01f055991843c847d.jpg",
+    "portrait": "919b11955ac1133c50cb4aa3d077af7b.png",
+    "background": "15dc53ad940799030f05dc3873639bf0.jpg",
+    "images": [
+      {
+        "thumbnail": "e73d7d5da9b025eb9d52b37c2af48400.png",
+        "src": "d226f485cb577516ff031d14badc53b0.png"
+      },
+      {
+        "thumbnail": "d29707bbfb5d790c6f59b2e65cf38521.png",
+        "src": "858dc915f0a12e859bb808f754bb53f1.png"
+      },
+      {
+        "thumbnail": "dac66bfbfdd5dd6227e3057f098c11ad.png",
+        "src": "b61266ddd6b3ef5a5d5d97575cbf48e6.png"
+      }
+    ],
+    "screenshots": [
+      "7ee988a85f57e29646c6822882b15b0e.jpg",
+      "7dc3f265ee15d6cbf056b50fdd624f4f.jpg",
+      "b0c5350a5c9be3f647da6c2c6374922f.jpg",
+      "b1b3e9c0635524e57e3effa67c446a94.jpg",
+      "ce61458b78c649a08bd55f29502d2a40.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Risky"
+  },
+  {
+    "id": "25",
+    "slug": "empyriumjudith",
+    "name": "Empyrium Judith",
+    "description": "Her outstanding performance led her to gain recognition and become an Empyrium Level 1 Judge. She is vastly admired, with many of her colleagues calling her \"God's Judgement\".",
+    "status": {
+      "str": "90",
+      "agi": "50",
+      "hp": "85",
+      "dex": "50",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "e7d3955b7e5b4e8822c9a46d76a1a579.jpg",
+    "portrait": "b368fc9dadc6cc7bf2a794cb547245bf.png",
+    "background": "387ddd0c50adac83c1e7d4e0b1405feb.jpg",
+    "images": [
+      {
+        "thumbnail": "ef21e79e432e93da615aa53a918233ba.png",
+        "src": "7e50d20003a113359269160fc6ab58a2.png"
+      },
+      {
+        "thumbnail": "64975770d6ec401a85e3475a6cf434ea.png",
+        "src": "294b796e3505d1a4b9315cf76754fcf5.png"
+      },
+      {
+        "thumbnail": "aff542f1dd61af0a56ca46048bec9fe7.png",
+        "src": "82fc71fd673767e523cf09641e40f023.png"
+      }
+    ],
+    "screenshots": [
+      "162779d014e5c55663865329057d834b.jpg",
+      "62cc31e15509aa5625f2516fe9861679.jpg",
+      "37d854772b864dff3b557ade6a71a864.jpg",
+      "4890e80b5ddd3dda94782048ac3d4b8b.jpg",
+      "71f1a83f81fda0acb8422ddc50eb933f.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Empyrium%20Judith"
+  },
+  {
+    "id": "26",
+    "slug": "judith",
+    "name": "Judith",
+    "description": "She abandoned her wealthy family to enter the Armonian Order, where she became a Judge. Judges are called the \"shadows\" of Armonia, holy knights working secretly to destroy those who defile the light.",
+    "status": {
+      "str": "85",
+      "agi": "50",
+      "hp": "85",
+      "dex": "50",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "d12ee7c7035528461441852d26431381.jpg",
+    "portrait": "f05eaf7424d35ae5398cfc7c5361c5cc.png",
+    "background": "8c0b92940ac1de69e95860a3c26fe902.jpg",
+    "images": [
+      {
+        "thumbnail": "76f9d16e3790c9f23c5d420beabde9f4.png",
+        "src": "8f2525e6f6691b2fe2528f5f5871dabe.png"
+      },
+      {
+        "thumbnail": "b612b635951ce4e97e2753c0fcbcb0ee.png",
+        "src": "458c12c18c368de3be481262f0578ff4.png"
+      },
+      {
+        "thumbnail": "18a0c9d7c559eb85614d60396e025723.png",
+        "src": "78541a4009fb4b6a743d8e77726690be.png"
+      }
+    ],
+    "screenshots": [
+      "9b4432d9497819e9658b3cd86c164bf9.jpg",
+      "fc44148a7e9ecae6379492df8815120b.jpg",
+      "4f690abf6396e856656f78dee7c19a07.jpg",
+      "7a0d616658c1ffd00c6cc4e3e70b1e79.jpg",
+      "022cf1b49772fcdae55cbd50a0207ed1.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Judith"
+  },
+  {
+    "id": "27",
+    "slug": "reapersariel",
+    "name": "Reaper Sariel",
+    "description": "Sariel's only goal is the annihilation of his enemies. He wanders through the battlefield wearing armor made with the crushed bones and souls of his victims.",
+    "status": {
+      "str": "45",
+      "agi": "35",
+      "hp": "60",
+      "dex": "70",
+      "int": "95",
+      "sen": "50"
+    },
+    "icon": "82a42468494d5edaebb411d6c1636407.jpg",
+    "portrait": "315fb78480bc1a69449c320a150f6ab1.png",
+    "background": "9b4443e7189d79b2ed9d297f3f05245d.jpg",
+    "images": [
+      {
+        "thumbnail": "74b869bcd60734e06346625d421051b5.png",
+        "src": "b02f2395b5b0deca487304755e8a9010.png"
+      },
+      {
+        "thumbnail": "09818eda8ebd8430ab8fc41461379768.png",
+        "src": "7e42624583f9f06128748e94170f7f7b.png"
+      },
+      {
+        "thumbnail": "fc1e0bf1f954dcf826b70b850421ea4a.png",
+        "src": "1245ee99eea49ab81dc8a4db42988b2d.png"
+      }
+    ],
+    "screenshots": [
+      "73594878e4068c69e8456d0ef8582442.jpg",
+      "9ae5a85138f6a6a53b3389725c533fa1.jpg",
+      "185a12f25cb0dfb15122edf1b6685640.jpg",
+      "f9d8d10ffec51eccf509bb5c1153f947.jpg",
+      "f1448eec3be066370f0ec94ce231d3c2.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Reaper%20Sariel"
+  },
+  {
+    "id": "28",
+    "slug": "sariel",
+    "name": "Sariel",
+    "description": "He is a priest working in a secret agency under the Armonia Pope. His combat skills, which are based on his strong faith, are said to be similar to those of a reaper.",
+    "status": {
+      "str": "45",
+      "agi": "35",
+      "hp": "60",
+      "dex": "70",
+      "int": "90",
+      "sen": "50"
+    },
+    "icon": "afcf92aca4d46a61bf25a8daeddfab56.jpg",
+    "portrait": "c0d2165ec2bbcde08b8dba5e894a8f99.png",
+    "background": "660467a08b63c59158330496d26b3d28.jpg",
+    "images": [
+      {
+        "thumbnail": "269a242a462f23037072e46fea3c35db.png",
+        "src": "58b43c215b3e518b8a9d710ad77f043a.png"
+      },
+      {
+        "thumbnail": "153eedc0ff4a5bfc3c23a85d4de0195a.png",
+        "src": "f230f891f09225f973e3bd88f26f06b4.png"
+      }
+    ],
+    "screenshots": [
+      "b5d1d04e9cdddc3874171124756763a4.jpg",
+      "2aeaa071e4101de1399d74196a8d25ad.jpg",
+      "78247f8ea4bb7f23605e7b238d616df1.jpg",
+      "4127d78cdad73ea67816fd8a2e3ce8cd.jpg",
+      "c663f10c440ff30bfe6a41b5f69e7915.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Sariel"
+  },
+  {
+    "id": "29",
+    "slug": "codenamel",
+    "name": "Code Name L",
+    "description": "While working in Stratavista, Leona was active under Code Name L. She is known to have assassinated several ruling-class leaders in nations opposing Stratavista with her silent and furtive techniques. Believing it to be the only way to achieve revenge, she focused entirely on her missions during that period.",
+    "status": {
+      "str": "90",
+      "agi": "60",
+      "hp": "75",
+      "dex": "60",
+      "int": "30",
+      "sen": "40"
+    },
+    "icon": "38470e501cd03bd41723b61e95250674.jpg",
+    "portrait": "30372c9814afcb55452e6db715aefcef.png",
+    "background": "625983d7146f861adf0fe8e468f9efd2.jpg",
+    "images": [
+      {
+        "thumbnail": "82ae5d4581de5445b8d9cc5dab7bf09f.png",
+        "src": "37ed653ddd99553a1e32a8a6b2961682.png"
+      },
+      {
+        "thumbnail": "2cc22bbdc82ec13393d981d311374d3e.png",
+        "src": "adb0bd0b3ff11a80ae8e867bc3cf9989.png"
+      },
+      {
+        "thumbnail": "8ad0f7293387739bda1795c612318e3d.png",
+        "src": "703025fd3fc8b5b720fb9ecc70990030.png"
+      }
+    ],
+    "screenshots": [
+      "16b411580575a64473b718c3f28f2e4a.jpg",
+      "cd9f0bd5fb88b409c7e891a957befcd3.jpg",
+      "4a528f3f67a9364ccc8d021e9642fe96.jpg",
+      "9edbc71e630b904ab2d2e3c1b94e638f.jpg",
+      "fdff0289f333da57f0dacbf72b8b9e34.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Code%20Name%20L"
+  },
+  {
+    "id": "30",
+    "slug": "leona",
+    "name": "Leona",
+    "description": "Illier's number one duke and last survivor of the Vernier family. She is fond of roses and decorated her entire garden with them, earning her the nickname of Rose Duke.",
+    "status": {
+      "str": "85",
+      "agi": "60",
+      "hp": "75",
+      "dex": "60",
+      "int": "30",
+      "sen": "40"
+    },
+    "icon": "3a6537acdd5a69ffbcc7d3d81e9a45e0.jpg",
+    "portrait": "5f1d6e8f129e709a0df83d66894f2340.png",
+    "background": "f52f8204fbb6dd00c77bdf68ed1f6881.jpg",
+    "images": [
+      {
+        "thumbnail": "cccbfd20520f3f8e4f72b6965ba7e8b6.png",
+        "src": "bcce1e571233d552d94f20e0ffac06ba.png"
+      },
+      {
+        "thumbnail": "de4c0f9d8dfca1ca0d39aabf3c753bce.png",
+        "src": "52d21e8cd6a2c5f658f8341e183f751c.png"
+      },
+      {
+        "thumbnail": "f4ab54f5e6561cadbad1650ed7f974f1.png",
+        "src": "a5f85a7644d581c90e7a051c185229e0.png"
+      }
+    ],
+    "screenshots": [
+      "b056366f1574980fc6362f10d31893d2.jpg",
+      "2e35bfaed4b28a72177c670b4dad8cef.jpg",
+      "27958dfae2dc0f2c9dbfce61133dc4a3.jpg",
+      "1205f89444723832aebb99e042897ad0.jpg",
+      "4794cef9ff8f6a0d8f5143d08d80d943.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Leona"
+  },
+  {
+    "id": "31",
+    "slug": "kevin",
+    "name": "Kevin",
+    "description": "Truman's only son. Not far from the time when Catherine was kidnapped, he succumbed to a disease that had taken over his weak body. He liked birds and flowers, but most of all peace, and he always worried about his father's military research. He was particularly interested in magnetic fields and displayed great talent in controlling them, much to the approval of his father.",
+    "status": {
+      "str": "40",
+      "agi": "40",
+      "hp": "50",
+      "dex": "50",
+      "int": "90",
+      "sen": "70"
+    },
+    "icon": "7fb795a683d147f4492783158a5f6fb3.jpg",
+    "portrait": "a57adcd0356377f3c525c9968517261d.png",
+    "background": "e96982de01768193393ef8ce17a1e496.jpg",
+    "images": [
+      {
+        "thumbnail": "6ff7160b8aa732bed04d369b56e7a3a2.png",
+        "src": "2fb3509cef14fc826506b426048b675d.png"
+      },
+      {
+        "thumbnail": "c56d42295270eecbab1dd2c48347854d.png",
+        "src": "40520986963015eece8267d27e761d84.png"
+      },
+      {
+        "thumbnail": "4e969b29aba27fd28d64e5bc9676db51.png",
+        "src": "6608c7d5485993a7f2232139f966ce24.png"
+      }
+    ],
+    "screenshots": [
+      "0f8caab8e2ea5d670a24100937cbdd73.jpg",
+      "c5b596177dbcfbf579ef418671c63fda.jpg",
+      "6f4ee15cacbbcb158e8c46dbb8c6f40d.jpg",
+      "3a26b03efc196d458b37efcd7ac3e001.jpg",
+      "c50224e5c40b8a6de722f39c45e3cded.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Kevin"
+  },
+  {
+    "id": "32",
+    "slug": "evil",
+    "name": "Evil",
+    "description": "Weapon of human annihilation created through the combination of Stratavista's ancient knowledge and Truman's technological skill. He contains the memories and intelligence of Kevin, Truman's only son, a pacifist at heart and well-versed in the control of magnetic fields. He rejected his body, created for murder, inducing a critical error in the main circuit system.",
+    "status": {
+      "str": "40",
+      "agi": "40",
+      "hp": "50",
+      "dex": "50",
+      "int": "90",
+      "sen": "60"
+    },
+    "icon": "6b0b8eb329ee6b8ab1b960036da01c45.jpg",
+    "portrait": "9ba0d63183b7fe05ee1dd01a6bd6047b.png",
+    "background": "e383ed27072908dda9f8dd9a495cf1c8.jpg",
+    "images": [
+      {
+        "thumbnail": "f28150cdc809e62f7e9a3a2e5164daab.png",
+        "src": "2b645ff1c02e4c276a31c6eb7c7ba0fe.png"
+      },
+      {
+        "thumbnail": "ef6c20e027f5b8db614bc6fbbc6fc754.png",
+        "src": "356decb6f688b3af003f42346d6dad38.png"
+      },
+      {
+        "thumbnail": "c5bb230536aa57045ced55b222bf199f.png",
+        "src": "dcba80ebe7ec47b307f3cf35ee6c0f1e.png"
+      }
+    ],
+    "screenshots": [
+      "78834223f07011d94242fde0936f5ed8.jpg",
+      "de44f33d4f51bcf05cef4048c83e2c16.jpg",
+      "0575fe717f373a104e74253ddbb8077b.jpg",
+      "47594a31cc76054861e5370fbc8cf5c0.jpg",
+      "0e4249566b9843f39096d150f49030fe.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Evil"
+  },
+  {
+    "id": "33",
+    "slug": "silverflashlynn",
+    "name": "Silver Flash Lynn",
+    "description": "Second daughter of Herberthe, Illier's reputed knight family. She was expected to become an imperial guard, but she took a vow to the little princess of Vernier instead. Lynn followed her master into Vespanola, where she impressed the knights and made a name for herself.",
+    "status": {
+      "str": "80",
+      "agi": "70",
+      "hp": "70",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "e18d8b268e856f0285178f4ca309b4da.jpg",
+    "portrait": "482af725d79fab60bbb5da4403066290.png",
+    "background": "f9933c9e961e2061e7d06eb09a79afa2.jpg",
+    "images": [
+      {
+        "thumbnail": "873f347d08ceb198c984daa20c23b3d4.png",
+        "src": "e23d47d563c679e8a22537b6b0ceccb7.png"
+      },
+      {
+        "thumbnail": "195785dc01d8fbdbc16aa45a28255d8c.png",
+        "src": "f22df3d4bff7f5eebd9ecea2ee4f8756.png"
+      },
+      {
+        "thumbnail": "a4dd495b57e08022f65d37cf66388250.png",
+        "src": "48c1b30c515941a6d6e92f6a3846f9d8.png"
+      }
+    ],
+    "screenshots": [
+      "9a2dd6307cd4ee4dca4900b88bc0d971.jpg",
+      "f32f1c08daf82294eb290c31a5a0872b.jpg",
+      "2dbe3b21b7951a2b61c7ba380b7cda7d.jpg",
+      "72707c72abd67aa846cc2734b9439c07.jpg",
+      "66d8b1c59c21510e0c5f8afff4b1fba7.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Silver%20Flash%20Lynn"
+  },
+  {
+    "id": "34",
+    "slug": "lynn",
+    "name": "Lynn",
+    "description": "Second daughter of Herberthe, Illier's reputed knight family. Lynn was the youngest person ever to pass the knight test on the first try and receive knighthood. In the incident that later would be known as \"Bloody Vernier\", she infiltrated Vernier territory and saved their daughter, getting her name out to the world.",
+    "status": {
+      "str": "80",
+      "agi": "60",
+      "hp": "70",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "31a8d6192992607239c89f80af0a7cd2.jpg",
+    "portrait": "83eb56bc4b2855fe115dca5a7417d309.png",
+    "background": "4fb5841c7650a89053b0212dd587b920.jpg",
+    "images": [
+      {
+        "thumbnail": "e4439ee9b342d902d7748f7772bf0c42.png",
+        "src": "a9cbfcaac7cde5892e11f8524509e6be.png"
+      },
+      {
+        "thumbnail": "4a24d09cf5885b52f4273be1ba77e606.png",
+        "src": "dc99601519c1fd373e2e771b2295c9d3.png"
+      },
+      {
+        "thumbnail": "45f9b851d7309253f8c46502b6891389.png",
+        "src": "be15b4ad4648e4688d32e5761b79e649.png"
+      }
+    ],
+    "screenshots": [
+      "f8199b44390bf06de37d248cae2f9bf2.jpg",
+      "6672b03c3363a8d80fcaa386657a4b39.jpg",
+      "fa1ba1739a4e849c49739b5110c2b287.jpg",
+      "90d21cf3792270c27d9a2a5a070bac0c.jpg",
+      "070c93886da99bd00108dd2e992a43ea.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Lynn"
+  },
+  {
+    "id": "35",
+    "slug": "bane",
+    "name": "Bane",
+    "description": "Former member of Captain Bernardo's notorious pirate crew. After the death of their leader, the crew disbanded and Bane became a wandering bounty hunter.",
+    "status": {
+      "str": "40",
+      "agi": "70",
+      "hp": "55",
+      "dex": "60",
+      "int": "80",
+      "sen": "55"
+    },
+    "icon": "3462eedcd0456a50803cf3b61e203969.jpg",
+    "portrait": "7106365f194c9d2e5354da73a8b6c7a3.png",
+    "background": "d6bdc7b8cdafcf59bfe3f00220431b6f.jpg",
+    "images": [
+      {
+        "thumbnail": "a9cdfdafd62bd5506ae49439b7769e20.png",
+        "src": "000b8130c3af48c539ba7117613ec227.png"
+      },
+      {
+        "thumbnail": "c3f711dfca07a59f4faa54c3b86eb5e2.png",
+        "src": "0208bd496827a633a7ce179ee7bc6637.png"
+      },
+      {
+        "thumbnail": "91d7dea5760b3b2b04ea185dee2b6e22.png",
+        "src": "c4edaf504ad981dc1c33d47188ba69fb.png"
+      }
+    ],
+    "screenshots": [
+      "5902d6ea8a0ce4ac80afa8a9b74ac93d.jpg",
+      "6b365ee060faafad4248c4df26090986.jpg",
+      "86e64123a4ede86adab91ec0c621d045.jpg",
+      "cd05a188c54ff7afe208789f9047001a.jpg",
+      "49904713a958cdfaa9221d0430699191.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Bane"
+  },
+  {
+    "id": "36",
+    "slug": "divinehammerbryan",
+    "name": "Divine Hammer Bryan",
+    "description": "Bryan was the only woman of the Iron Hammer family to take part in Armonia's 2nd Holy War. She became known as \"Divine Hammer\", after the enormous mace she used in battle to fight against evil.",
+    "status": {
+      "str": "90",
+      "agi": "50",
+      "hp": "70",
+      "dex": "40",
+      "int": "50",
+      "sen": "50"
+    },
+    "icon": "76d8c17ecd1210bd66ea67288b115283.jpg",
+    "portrait": "5772e5695c096047b25fc7978361d9b3.png",
+    "background": "8ddea0b4f2df40652f7cf46a8fffb46c.jpg",
+    "images": [
+      {
+        "thumbnail": "792f9938833470e0d198ef4b9852d392.png",
+        "src": "9c627a969ba0bf44b3af55901829fe43.png"
+      },
+      {
+        "thumbnail": "adc4727197468372f6325d161e5b2960.png",
+        "src": "ce007ae85e5f879139d359c865f8321a.png"
+      },
+      {
+        "thumbnail": "e28f139bdc8832c8099d64096b196ae8.png",
+        "src": "2c4b983c92e067c55f74aab50495660d.png"
+      }
+    ],
+    "screenshots": [
+      "8455875bf455f7f91b9a77e6d5ddc8f2.jpg",
+      "5a660fc5e67f6d7ed24a5efe742878be.jpg",
+      "bd73615e6a3e586d4fb6d61ea76e46e2.jpg",
+      "526bf11370dd194a95891fc5922c876c.jpg",
+      "f450eb03cfff5464d5f3c17c3d3dd791.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Divine%20Hammer%20Bryan"
+  },
+  {
+    "id": "37",
+    "slug": "bryan",
+    "name": "Bryan",
+    "description": "In the Iron Hammer family, men traditionally work as blacksmiths from an early age, with only the most gifted being taught the craft of sacred weapon production. The boy chosen to learn them, however, was killed during Armonia's 2nd Holy War, and Bryan became the one to inherit the crafting techniques instead.",
+    "status": {
+      "str": "90",
+      "agi": "40",
+      "hp": "70",
+      "dex": "40",
+      "int": "50",
+      "sen": "50"
+    },
+    "icon": "c5ade41e03fe30b4c5863bbac92a7b86.jpg",
+    "portrait": "d3e3c9a187eae4a380cd47b31609409a.png",
+    "background": "3e4203f41faa6ba75fc7097dff0f7d4a.jpg",
+    "images": [
+      {
+        "thumbnail": "054b38bde624257daea2437e1074078b.png",
+        "src": "d68d518cbee2372bd71bd283d710f05f.png"
+      },
+      {
+        "thumbnail": "52d982b853951f88e563bb7c2764aa93.png",
+        "src": "c1c8def5b31b4b333b58c8b643403f76.png"
+      }
+    ],
+    "screenshots": [
+      "fc65c83e8c4f780fc8b9cce9a541def6.jpg",
+      "8903abb8a3e52aff50b3e3948af7c351.jpg",
+      "7998af8da5548e847aaecaec220a4151.jpg",
+      "74ea30d6f137969ec47c8c9be8ecf297.jpg",
+      "4eff79ed3d877672190fe777b0e30832.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Bryan"
+  },
+  {
+    "id": "38",
+    "slug": "loraine",
+    "name": "Loraine",
+    "description": "Daughter of Ilier's Baselrane family and the older of two twins. Compared to her younger sister Dolores, she has a quieter personality. She enjoys drinking tea with her and Rev, although Dolores is not too fond of it. Loraine is usually the one to clean up after the messes Dolores creates.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "40",
+      "dex": "40",
+      "int": "90",
+      "sen": "60"
+    },
+    "icon": "09c5081b579b75766309aafc4b6d8785.jpg",
+    "portrait": "56bf20d6a9aef816fffc8ba0a60e90c9.png",
+    "background": "819e8f842480a5273375a7274a7a5d52.jpg",
+    "images": [
+      {
+        "thumbnail": "008ead86d9b34570da3858e3cd0af7a6.png",
+        "src": "adf6953550a07f78fb50a67aa48ab94c.png"
+      },
+      {
+        "thumbnail": "873e61d4bfecc416d5ffc70c8fa078ea.png",
+        "src": "47689dc7df3fc4e722a91f435d6093fa.png"
+      },
+      {
+        "thumbnail": "f9b39c16da95572a85fa8a4d0e3d5a30.png",
+        "src": "388747e6749c2025eea0141a5838d943.png"
+      }
+    ],
+    "screenshots": [
+      "7c79d0a63482ffdac8bc6db3060cd39e.jpg",
+      "f516d287f2a7cd62cf5c19ce968d0c2c.jpg",
+      "722470904df7d95d7ec846bf5dda7cb2.jpg",
+      "1ade489ca8ddad53c5f14d9a015d65f6.jpg",
+      "84040963a0dc4741bff14a4444ef14b2.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Loraine"
+  },
+  {
+    "id": "39",
+    "slug": "dolores",
+    "name": "Dolores",
+    "description": "Daughter of Ilier's Baselrane family and the younger of two twins. She attends a private school in Vespanola, where she is recognized as a talented and intelligent student. Because of her playful personality, however, she ends up causing trouble more often than not. It's said that, whenever one of her accidents happens, Hare is always by her side.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "40",
+      "dex": "40",
+      "int": "80",
+      "sen": "70"
+    },
+    "icon": "3645b753e94ae3501a75e3902bce862a.jpg",
+    "portrait": "36e245a5ab9772ad004996b2915960e8.png",
+    "background": "c67e4820d4cb50444fa5ba839375d2b2.jpg",
+    "images": [
+      {
+        "thumbnail": "5addc5334c932326377e99ef3cc13f5d.png",
+        "src": "2e9257271486c18c76da8f89d98fa801.png"
+      },
+      {
+        "thumbnail": "4015c7491864e7b59c992e7cb2f6929e.png",
+        "src": "9c18c5c1e8ef71db4eaad4a753ef1c48.png"
+      },
+      {
+        "thumbnail": "65781242edbb75543a17b9c8277334f4.png",
+        "src": "9384c1718441f4118f6ee70f1ba04205.png"
+      }
+    ],
+    "screenshots": [
+      "04d255047552da997464232cca5fc1ec.jpg",
+      "4f4bdc7ec86bb139bb982ae2c7300633.jpg",
+      "f85906e46fdad634d4afc3968447cd2e.jpg",
+      "3af418b80a7c395e8b8137612e3743a5.jpg",
+      "5cd9fd377c6f7712232b702f90663ea4.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Dolores"
+  },
+  {
+    "id": "40",
+    "slug": "elizabeth",
+    "name": "Elizabeth",
+    "description": "She became a famous painter at quite a young age. Because she doesn't know much of the world yet, she isn't fully aware of her reputation, painting solely for the pleasure of seeing people react to her works. She has created countless masterpieces, although some would make anyone go, \"What the hell!\" This happens because her works vary greatly according to her mood and physical condition.",
+    "status": {
+      "str": "20",
+      "agi": "50",
+      "hp": "50",
+      "dex": "60",
+      "int": "90",
+      "sen": "70"
+    },
+    "icon": "64c16922b1521f14a865cc4a7910d469.jpg",
+    "portrait": "0e37eaf4231716defc2d9ec3d552430c.png",
+    "background": "5ace99ac575c3a4cf75fbff0bdb25bb7.jpg",
+    "images": [
+      {
+        "thumbnail": "c1ea343c1c04ae50d90a9ede7534d8c9.png",
+        "src": "c2572c3bcbf82c9cefc9e85169368c13.png"
+      },
+      {
+        "thumbnail": "bfd80e15c4938ac6467eee1b24dd45d1.png",
+        "src": "0f660e0498136bd609c98c7d6ea77267.png"
+      }
+    ],
+    "screenshots": [
+      "41b8e7c63910f2563e621b4a70a482de.jpg",
+      "4c076a953f5cf70fac78cef41037f161.jpg",
+      "86a10048d4ec709d3c74e9bd58d9e04f.jpg",
+      "797a848cfd76ea2528783612b8bf8a2e.jpg",
+      "4214cc2f586bbac58d9e20e0c5712c68.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Elizabeth"
+  },
+  {
+    "id": "41",
+    "slug": "snowflakemontoro",
+    "name": "Snowflake Montoro",
+    "description": "Montoro, dressed to celebrate Christmas. He loves the festive atmosphere, but he doesn't seem to know the actual meaning of Christmas.",
+    "status": {
+      "str": "40",
+      "agi": "40",
+      "hp": "50",
+      "dex": "50",
+      "int": "90",
+      "sen": "70"
+    },
+    "icon": "ac6c45f1f6e7595448d1a8ca4e22e07d.jpg",
+    "portrait": "ac6392c042b9386f8598f939cdf9ab96.png",
+    "background": "d6f8d302f284399c59efe98b67868b73.jpg",
+    "images": [
+      {
+        "thumbnail": "5e0a3b3e89922c7e22be73c7e494e99b.png",
+        "src": "67ea019e8f29bb7f90d1aa5d197f6421.png"
+      },
+      {
+        "thumbnail": "5d6163b02d36eeba67535537f798f160.png",
+        "src": "11cb1bf9903ba192ffe80abb9d460352.png"
+      },
+      {
+        "thumbnail": "6727b8fd3dae8390b0ad1e397966b401.png",
+        "src": "963a32c92858d025c6bfb3f054543e7c.png"
+      }
+    ],
+    "screenshots": [
+      "45d5ba75e0d9037e0d7b05cc84d60f94.jpg",
+      "983d728ee1a7c71b0746d1c92d2ec0f9.jpg",
+      "7c0af861df5f62e4835a58d37ca6b580.jpg",
+      "d45e004eb70baaac817c2151c3d8d10c.jpg",
+      "f2df0e0153ff2ce5c05608f816871b79.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Snowflake%20Montoro"
+  },
+  {
+    "id": "42",
+    "slug": "van",
+    "name": "Van",
+    "description": "Originally a member of dark organization Memento Mori. He is working towards making the world envisioned by them a reality.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "70",
+      "dex": "50",
+      "int": "90",
+      "sen": "40"
+    },
+    "icon": "ff01f20861a0e6a5800de12f616c4581.jpg",
+    "portrait": "c17351c4ff702b7125178c8f1915dfea.png",
+    "background": "ac9e3927d041a120e533529d93d0d7ab.jpg",
+    "images": [
+      {
+        "thumbnail": "f26fb161ba417414a05ba64179e89e0e.png",
+        "src": "8e4adfae11e48aa9c8e5f44161bc3d36.png"
+      },
+      {
+        "thumbnail": "abb6e2db55ff1f03b1ed2e53119bde46.png",
+        "src": "294ad00d29502214bacd3443b79d1349.png"
+      },
+      {
+        "thumbnail": "c2f2914f27b0c1ca23d2922fefc86209.png",
+        "src": "95a3438ed51cb70077ad301601e2d910.png"
+      }
+    ],
+    "screenshots": [
+      "a20376886fb06ef20fffbacb9115464f.jpg",
+      "5919c8d4c0746f54c1fa7c6d7e14e3cb.jpg",
+      "a677dcacf1a23e8c78799058d054e437.jpg",
+      "0aa0e747fcaa73e6ebbfb07a3b54b3aa.jpg",
+      "2f27bc6c70df522f1c093562ecb1ca2a.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Van"
+  },
+  {
+    "id": "43",
+    "slug": "cadetleonele",
+    "name": "Cadet Leonele",
+    "description": "As a student of Vespanola's Military Academy, Leonele was a troublemaker. Unlike Adriana, who always followed her field manuals, his personality was definitely on the wild side.",
+    "status": {
+      "str": "45",
+      "agi": "80",
+      "hp": "45",
+      "dex": "80",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "e756f224d690e9e4bdf3200619d3ffab.jpg",
+    "portrait": "1f46d79913a953ed0de0d33030b73afc.png",
+    "background": "d7aa2984306a98bfdf98dbce74c043fa.jpg",
+    "images": [
+      {
+        "thumbnail": "e647e9e9323635586320234caaa80673.png",
+        "src": "43cdf40055de220c70e2ba34e33442ab.png"
+      },
+      {
+        "thumbnail": "e34c3bebb201baefa56df991ca3a41e1.png",
+        "src": "ee5989712d097f2c6c86173d57960523.png"
+      },
+      {
+        "thumbnail": "8e9968a63ab3683e0bc695cbcc75e632.png",
+        "src": "95aa37ad24ac4c9027eb5b6edda02977.png"
+      }
+    ],
+    "screenshots": [
+      "aaee45ed27824bd9a5a2e52582461d61.jpg",
+      "7d0efb2c24c5afdee4b3f9fa57e931e0.jpg",
+      "097869f71957d857e923c0813748ab25.jpg",
+      "5f89192f51855af3cf845562cfc7b8fe.jpg",
+      "ece37816b005253ee8de5ffdb4b2e7f3.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Cadet%20Leonele"
+  },
+  {
+    "id": "44",
+    "slug": "anis",
+    "name": "Anis",
+    "description": "Current Saint of Armonia. She lived as a regular girl until Ornella passed and she became the next saint. Friends with Sirius and Cepheus.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "45",
+      "dex": "40",
+      "int": "85",
+      "sen": "50"
+    },
+    "icon": "84f7068fff912b63aac868ab921abe5f.jpg",
+    "portrait": "6c66e4920319cc8b3521217666a0fbd1.png",
+    "background": "5bc758c3cfe8dac085f721704888cacd.jpg",
+    "images": [
+      {
+        "thumbnail": "c95e133617b50d4eeb4c16beca2d89aa.png",
+        "src": "98c2a0268c9b8afb97190af489a78462.png"
+      },
+      {
+        "thumbnail": "8ecd95fc7c3fc1fcfd419b4fd1ba3fdd.png",
+        "src": "0328f96647222eea35e9091566721952.png"
+      },
+      {
+        "thumbnail": "42579f45809eab2c51b938b6902f177a.png",
+        "src": "f186ce68e6a6cce34801b300392c061b.png"
+      }
+    ],
+    "screenshots": [
+      "5b91d712527ec48cbc9d4a9ff68fc95e.jpg",
+      "949c94922571afbaf7c5775b6b6e1002.jpg",
+      "05cf98374b5dde9b33b44fd698445a06.jpg",
+      "8819300373d7627ea58e50e829e3c440.jpg",
+      "a3da9e7ed3b834a933f7c1f0a56efc96.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Anis"
+  },
+  {
+    "id": "45",
+    "slug": "jin",
+    "name": "Jin",
+    "description": "A ninja who came from the East with a mission. No one knows her purpose in the New Continent, and she will not disclose it. Her father was close friends with Asoka's, so the two spent a lot of time together since they were young.",
+    "status": {
+      "str": "80",
+      "agi": "60",
+      "hp": "65",
+      "dex": "60",
+      "int": "40",
+      "sen": "45"
+    },
+    "icon": "a05d1bd9d67dc1a128955bff76777404.jpg",
+    "portrait": "b7eaf26cd4be538d3a9e3a2435a5c004.png",
+    "background": "58de16fd2ad65f2a52027a3e222652a9.jpg",
+    "images": [
+      {
+        "thumbnail": "0dd2312afa472ac09433e1a4ed0c5e01.png",
+        "src": "18fa524461f42e9a81c1f0d66620beb6.png"
+      },
+      {
+        "thumbnail": "3860d199eaf5f9beecad11346c5a8ee2.png",
+        "src": "cfabfea87b5b85056b572e3fba04576e.png"
+      },
+      {
+        "thumbnail": "1930c614ce33d0725a2def304cc87f60.png",
+        "src": "52d94bd278842d90de4c3de5f7189dd8.png"
+      }
+    ],
+    "screenshots": [
+      "5efae0079ec4a297e69bb20bcd43d9ba.jpg",
+      "65db89793b10b42e90a64c2ff2f8b2a6.jpg",
+      "d146eda2a8e75ce438b88cfff4343eb0.jpg",
+      "a1a7129733d31c32171cd9cb4a8fcba0.jpg",
+      "099c6b86c3220af18d819377cd003e1c.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Jin"
+  },
+  {
+    "id": "46",
+    "slug": "janechristie",
+    "name": "Jane Christie",
+    "description": "Senior reporter of the reputable 'Auch Standard Paper'. She made a name for herself with her outstanding pistol skills and impressive reasoning power. Jane has a really good memory for everything, but she still has the habit of taking notes.",
+    "status": {
+      "str": "20",
+      "agi": "65",
+      "hp": "55",
+      "dex": "90",
+      "int": "60",
+      "sen": "60"
+    },
+    "icon": "437c4a602ae59e4ad9838230259e7458.jpg",
+    "portrait": "1c0f57616f6b16f7f8b61966d3a61155.png",
+    "background": "1f203317802e2f9111598b639ba9d43b.jpg",
+    "images": [
+      {
+        "thumbnail": "1b74efbf78c9274323d0fd7b97fee715.png",
+        "src": "147e6265a83939eb89c8bfd6259392c3.png"
+      },
+      {
+        "thumbnail": "c3afc6f6a28eed853919a5e6be3b86f8.png",
+        "src": "8c39f1eea4a7e4cbdc6661309f9ea4fb.png"
+      },
+      {
+        "thumbnail": "231d12246bb7b100a259694841aa504a.png",
+        "src": "a996c50d337e45fbe30beaf5fb5bab53.png"
+      }
+    ],
+    "screenshots": [
+      "947a865435aa49d6faaf9240248fb94b.jpg",
+      "7557dea78dbfd7ced71fd510ccb6c961.jpg",
+      "bb387ec95cebdc58375b836ea35832d9.jpg",
+      "2bc6208278a58d4364af300accefbc34.jpg",
+      "e7802d337e3103c721a2b09cb37799a7.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Jane%20Christie"
+  },
+  {
+    "id": "47",
+    "slug": "bertheandcharles",
+    "name": "Berthe and Charles",
+    "description": "Memento Mori and a shadow of Van. She was set to become a saint, but by conspiracy of the church her voice was stolen and she was banished to the underground. Later she became a Memento Mori with the help of Van and gained the ability to summon the dead and resist against the darkness of Armonia. Charles is the skull that accompanies her and speaks on her behalf.",
+    "status": {
+      "str": "50",
+      "agi": "60",
+      "hp": "40",
+      "dex": "50",
+      "int": "90",
+      "sen": "50"
+    },
+    "icon": "7fab84f5466b39a5a63964c331ccf3c2.jpg",
+    "portrait": "d0e639f48a0ceeccbd08ab51f007656a.png",
+    "background": "5f67e24d6225f464a3d636329fd266b2.jpg",
+    "images": [
+      {
+        "thumbnail": "8c79424629ef47bdb2f88da4b88f7101.png",
+        "src": "6859f679c0be1d529d5325baebf18d8f.png"
+      },
+      {
+        "thumbnail": "475a4d635e306a2ac9b22938205f441c.png",
+        "src": "ec6dbc2122c4c9819c642c73ae82d03a.png"
+      },
+      {
+        "thumbnail": "eaded172e387a6de4fa20a2d591e5f94.png",
+        "src": "567eb1fbaeba1feccaa13ccf7940feba.png"
+      }
+    ],
+    "screenshots": [
+      "12cfce2a13c40203553ecd00aec67f02.jpg",
+      "ccd209eef74b8ac2edb7dae7a5726306.jpg",
+      "bdc26c189a9680ab38d2f1f2676c60d1.jpg",
+      "509304ab48cd15f0b04cdfb64f2e84e7.jpg",
+      "d56abcf20037f20063357ecbd93322cf.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Berthe%20and%20Charles"
+  },
+  {
+    "id": "48",
+    "slug": "patrick",
+    "name": "Patrick",
+    "description": "Patrick is the same age as William, the Commander of the Crusaders. He hasn't grown old since his left arm was sealed. Patrick originally belonged to the Memento Mori Crusaders, but he moved to the Armonia Crusaders in order to have his arm looked at by St. Ornella. Patrick went missing during the Armonia's 2nd Sacred War and returned looking almost unrecognizable.",
+    "status": {
+      "str": "80",
+      "agi": "40",
+      "hp": "70",
+      "dex": "50",
+      "int": "50",
+      "sen": "50"
+    },
+    "icon": "d826bafeb0b65ffb676721a23a93dd9b.jpg",
+    "portrait": "38139c8651b734bb142a3f86bb781a6d.png",
+    "background": "e3ff57839863b800734c8c30e1dbdf91.jpg",
+    "images": [
+      {
+        "thumbnail": "6f4c410395ccca0646fc0d380074d787.png",
+        "src": "2714512ab7f646c6396ebc06f3cd378a.png"
+      },
+      {
+        "thumbnail": "2a4ce8e8a9e61cb6919654ddfd3f0cff.png",
+        "src": "687809830a7546c9821435ad0acfccaf.png"
+      },
+      {
+        "thumbnail": "eab8aa27e7b88079ffebb4f74939b3ef.png",
+        "src": "fc8da7120373b3a55960c6166aaf46b0.png"
+      }
+    ],
+    "screenshots": [
+      "4877a4adee7c1d1c1e4baab7dbcbfeb9.jpg",
+      "6f2d694e11e251f5cc3588b1e32c11f1.jpg",
+      "2e34eb24a84223e4ca7acfc68ff89852.jpg",
+      "5bef5b0117b94258957c109deb30b2b7.jpg",
+      "08342c254590b9cf3f8959f9c149c7f1.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Patrick"
+  },
+  {
+    "id": "49",
+    "slug": "loreta",
+    "name": "Loreta",
+    "description": "Without a regular profession, she lives around Coimbra, taking any odd jobs for protecting people, getting rid of enemies and anything that requires fighting.",
+    "status": {
+      "str": "80",
+      "agi": "65",
+      "hp": "70",
+      "dex": "45",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "4d17e37fb86a633c3bb7ed5d6f4a7022.jpg",
+    "portrait": "fdf85f6eb6b8fb90670c93df1906e00c.png",
+    "background": "d889634a7f1e37a3ec564ca967beaa1e.jpg",
+    "images": [
+      {
+        "thumbnail": "a8d7aef1762971f0f1f7e11e7bbdbe58.png",
+        "src": "56ffb3930efc370ab677f157453b20a6.png"
+      },
+      {
+        "thumbnail": "4ffe2b4ba80471061bab755942cbffd9.png",
+        "src": "d3aa36a628276ba7384a10d2206ca1a0.png"
+      },
+      {
+        "thumbnail": "46a0092ace974e263df92e6f0c8243f9.png",
+        "src": "63626e99614ac83b7acbf4bdd677d112.png"
+      }
+    ],
+    "screenshots": [
+      "d9b60055dceaf9023f0afcb2448bc667.jpg",
+      "815874314a72c1a03d2cf06c91eebed0.jpg",
+      "e4eb5058353984f54dbcf457af4f4213.jpg",
+      "e988c7079bde7a834c3954b8a4860fe1.jpg",
+      "7470432193af04e724cae78634f4660f.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Loreta"
+  },
+  {
+    "id": "50",
+    "slug": "studentpresidentludin",
+    "name": "Student President Ludin",
+    "description": "16-year-old Ludin is the student president of the prestigious private school of Vespanola. She doesn't work at all, but that is never a problem thanks to her competent vice-president.",
+    "status": {
+      "str": "40",
+      "agi": "40",
+      "hp": "50",
+      "dex": "50",
+      "int": "95",
+      "sen": "70"
+    },
+    "icon": "3167d32ab4a1677220bf9308d5c823e3.jpg",
+    "portrait": "53fb67b73b22aac8914694a064842f2e.png",
+    "background": "2098b3ddbd027e75b46ca45a0020c062.jpg",
+    "images": [
+      {
+        "thumbnail": "85de809c6d50325146c580d13703656b.png",
+        "src": "2a3a8ac1f8f3c9b6a19667983d298386.png"
+      },
+      {
+        "thumbnail": "c4fb7c8d14b1d3c90607e886758a26f1.png",
+        "src": "a8fd0f84f09bac28dc8a4bf3e44df107.png"
+      },
+      {
+        "thumbnail": "5a519720c2749f1ddd708b6d5ce9415a.png",
+        "src": "50b9976193482535b71569efe3fc030f.png"
+      }
+    ],
+    "screenshots": [
+      "b8168fc49ff6c78676d90ff3f103452d.jpg",
+      "ee1476c804d41ae7d46b6ae7c9aea366.jpg",
+      "c0f371a3a9a9b4329b15968b14c2f690.jpg",
+      "2fdf4cb9dc41921dc115ffef7ed9dcbd.jpg",
+      "b1cc89b3c802b84a1ec41e33a5c7e303.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Student%20President%20Ludin"
+  },
+  {
+    "id": "51",
+    "slug": "blueflameludin",
+    "name": "Blue Flame Ludin",
+    "description": "16-year-old Ludin. Without a lot of effort, she was able to reach a level at which she can produce blue flames of extremely high temperatures.",
+    "status": {
+      "str": "40",
+      "agi": "40",
+      "hp": "50",
+      "dex": "50",
+      "int": "90",
+      "sen": "70"
+    },
+    "icon": "7afcc81819898d385f1bf065f695545c.jpg",
+    "portrait": "d1a151dbc1ead6b4dbee264836db8be7.png",
+    "background": "3c9e90ce3722d9700cde6bacaff1a3ef.jpg",
+    "images": [
+      {
+        "thumbnail": "69963591a25182b3718ededed2145fe7.png",
+        "src": "0e315c48d1b5f93612b3597c7f8d05b2.png"
+      },
+      {
+        "thumbnail": "ff851054493ccd263d2cb13f56f6da34.png",
+        "src": "3db4a0a9514c1b0b1bf6586b7b022aac.png"
+      },
+      {
+        "thumbnail": "806b5bac44f6f10333fc90a4edec9789.png",
+        "src": "dc40ee73caa6157627738f84c235b3ee.png"
+      }
+    ],
+    "screenshots": [
+      "cc26c640dc5ccbb9ce03a1370e0df5b8.jpg",
+      "c7636981694e2e033d8ca22a07fc104b.jpg",
+      "50af79b875b5157fddafbf8dc93205cf.jpg",
+      "52d20897d5b15b74e116c6df1a2251ed.jpg",
+      "a9f6de9935d90fe9480a0b3437fb18a6.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Blue%20Flame%20Ludin"
+  },
+  {
+    "id": "52",
+    "slug": "kael",
+    "name": "Kael",
+    "description": "Younger brother of Baron Pei, he is a representative of Gadapia's Great Assembly. He is never serious and loves to play around, but it looks as if he is preparing for something.",
+    "status": {
+      "str": "75",
+      "agi": "60",
+      "hp": "75",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "0864c5935a15e20ab7fd4208e7adff79.jpg",
+    "portrait": "0658877b6d6e7dba2bc883138bf8057e.png",
+    "background": "9abc3c2b7052fdfe7741a916512be7b8.jpg",
+    "images": [
+      {
+        "thumbnail": "b5d7045af1be1f7793e7cc226d7382ee.png",
+        "src": "edc785d6936938ceee5dd2cf0c923e32.png"
+      },
+      {
+        "thumbnail": "8e47be29fc7160728d21629a8cbb743d.png",
+        "src": "d21fb00dab1f0dcd70dc0015463180a5.png"
+      },
+      {
+        "thumbnail": "1bb4021b4657087a2379f2f05502b12d.png",
+        "src": "2f4a8472f0fb3f79e5180fe4cdd2a95c.png"
+      }
+    ],
+    "screenshots": [
+      "adee76b1550c31f4ee9ce684eee24f72.jpg",
+      "334ef7ee58327f19ed719c3a2502e7f2.jpg",
+      "aacfccfbe54c01c26f650194a3ac391a.jpg",
+      "930caf6d7f6f48ab81cbd3690dd97fa2.jpg",
+      "46b33843b2e7dff94fc4f6ba7e90cf04.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Kael"
+  },
+  {
+    "id": "53",
+    "slug": "whitewolf",
+    "name": "White Wolf",
+    "description": "The mysterious dire wolf that's causing a sensation in Illier. His interventions in today's nobility are proof of his own brand of Khan del Jenna.",
+    "status": {
+      "str": "75",
+      "agi": "70",
+      "hp": "65",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "9a8981323da0e13e2800ad322b5c27f6.jpg",
+    "portrait": "632ddcd085562ebf878651492183c34e.png",
+    "background": "8fac189086596977806169a7784cb5d7.jpg",
+    "images": [
+      {
+        "thumbnail": "08d682f6d66ec8bef307676e9b114ef0.png",
+        "src": "c826d50673d2c09a0f1289387beab9af.png"
+      },
+      {
+        "thumbnail": "0a9f293f68bee12366417ebb878f8166.png",
+        "src": "740c9f3a783abceab3e4d4d18aee9fc8.png"
+      },
+      {
+        "thumbnail": "3888c6ead78624ccd0a656d027a113d8.png",
+        "src": "02cf2d48c90d18fb85337023e4f0251f.png"
+      }
+    ],
+    "screenshots": [
+      "b8e533f418222fafaf600360beeac4a6.jpg",
+      "85ca5d8a2b8309c23fbb93997e330cae.jpg",
+      "e57b6f004a66d32d83cd8d9cac176c14.jpg",
+      "f1045ec1884d9736e279e743f15cd611.jpg",
+      "525c3478acc58753c9a13d34a61e8cef.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20White%20Wolf"
+  },
+  {
+    "id": "54",
+    "slug": "ladyrachel",
+    "name": "Lady Rachel",
+    "description": "Daughter of Bristia's Sheffield family. She is on the run again to meet her beloved childhood friend Ludin.",
+    "status": {
+      "str": "20",
+      "agi": "45",
+      "hp": "55",
+      "dex": "85",
+      "int": "80",
+      "sen": "50"
+    },
+    "icon": "b3f1505acd0081f575655d95b8a70ba6.jpg",
+    "portrait": "7683cdceaa43170cebcb10e66d679bfb.png",
+    "background": "03663f504c96dc0388b9b2cbe284f92e.jpg",
+    "images": [
+      {
+        "thumbnail": "84119cc5a55aeb84e707dbc608630845.png",
+        "src": "20a11dd905165ce37b6ab3ea564a5f77.png"
+      },
+      {
+        "thumbnail": "27f3aab78bc2e8c99528fcd134f4598a.png",
+        "src": "44476c6c19a8de36e9e9554a42f8f529.png"
+      },
+      {
+        "thumbnail": "0055cd0a5a36770467993d1ccea56348.png",
+        "src": "d2a3efeb2d43a6a02341c74dfb48dbf4.png"
+      }
+    ],
+    "screenshots": [
+      "5186fd70eddcc8cf2fd1e6a4faa7e958.jpg",
+      "ba122251ffe6b91f811fe2d404ba52d7.jpg",
+      "e134f8050958bed4999cb8cd698eadcd.jpg",
+      "625a6f2b62d921a29207d371e63f4c6b.jpg",
+      "580b4509a7ef75c66e7f2ebfbc996b6d.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Lady%20Rachel"
+  },
+  {
+    "id": "55",
+    "slug": "leadmanagerrachel",
+    "name": "Lead Manager Rachel",
+    "description": "Manager of the student council at Vespanola's prestigious private school. She transferred to Ludin's school and joined the student council as her assistant in order to become closer to her.",
+    "status": {
+      "str": "20",
+      "agi": "45",
+      "hp": "55",
+      "dex": "90",
+      "int": "80",
+      "sen": "50"
+    },
+    "icon": "ffc444ed1694bc70e748c31e924f038f.jpg",
+    "portrait": "01bbc2d58f6214178ae18a2d91a2910e.png",
+    "background": "a36508a1df52ae86a217eee5674a65a8.jpg",
+    "images": [
+      {
+        "thumbnail": "c02ce182e7dee79de0f405dfc7b647c8.png",
+        "src": "16a39e7eb5ed8af6773b3e218bd79909.png"
+      },
+      {
+        "thumbnail": "7990a6ff294538ca227b6de20c056fa6.png",
+        "src": "074017951687c4b83cb7795f13f550e3.png"
+      },
+      {
+        "thumbnail": "09c0bac2b64551303ef4c26d2c034c97.png",
+        "src": "a243056bc74ea4b8e9ae219fec2ae154.png"
+      }
+    ],
+    "screenshots": [
+      "10cf7296301fc4fd4047de246aa9fb7a.jpg",
+      "1222bd0c8a46aba6d9dcd7fdf0c96822.jpg",
+      "7544705cdeb11d79105cd7028afcc91c.jpg",
+      "5c2c82f61625972eac2661312be8d320.jpg",
+      "e42d7555445b91bb176f1c14406a800f.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Lead%20Manager%20Rachel"
+  },
+  {
+    "id": "56",
+    "slug": "crusaderdaria",
+    "name": "Crusader Daria",
+    "description": "Armonia Peacekeeping Forces, 1st Captain of ATX. Dispatched to the war-torn Royal Road of Illier to mediate between the two opposing factions. Known to be one of the only two people in Armonia capable of controlling Balisada, they are considered one of the region's finest knights.",
+    "status": {
+      "str": "90",
+      "agi": "70",
+      "hp": "80",
+      "dex": "40",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "471fd9e332fce994b721bce1c03006b3.jpg",
+    "portrait": "c358ccf9a22dfb7a8cfd86065b5b6be7.png",
+    "background": "b86cc01640d68f783dd6b3c4bf3b2e05.jpg",
+    "images": [
+      {
+        "thumbnail": "f0fdb51c86dad04b355011a1cb0fca6d.png",
+        "src": "3721a7a3770283179a9dee3214f2947d.png"
+      },
+      {
+        "thumbnail": "7f526137f5372e2c912af604f6933385.png",
+        "src": "f35d48878291a5297a8edcefe8f9ef68.png"
+      },
+      {
+        "thumbnail": "3db1cdc47256ee733c8fe718b4ba7785.png",
+        "src": "df4e115cc0b17daf7b89a04f9cf6da44.png"
+      }
+    ],
+    "screenshots": [
+      "66e601f83833df044f8b23196e4f38f0.jpg",
+      "1fbcd38d71ea3e721052c6b6d4881ca7.jpg",
+      "ec8e1c41cadc0ee8eef7779badebcb49.jpg",
+      "c3208497c9f9daa0c8ce765bdd133f78.jpg",
+      "058ce11d26c90905fb409ea35a8bd9c9.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Crusader%20Daria"
+  },
+  {
+    "id": "57",
+    "slug": "loraconstans",
+    "name": "Lora Constans",
+    "description": "Captain of the Armonia Guard, in charge of escorting popes, saints and other high-rank individuals. Her bullets contain a divine protection that deals greater damage to all followers of evil. Once a sweet and kind woman, now she is mostly cold towards others.",
+    "status": {
+      "str": "40",
+      "agi": "70",
+      "hp": "50",
+      "dex": "85",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "f992e70038b5f2355f955a6460ed36ff.jpg",
+    "portrait": "7310e8d7b78de596bd9450196d39ba9d.png",
+    "background": "f2f91123498211230f6b9b8385755d01.jpg",
+    "images": [
+      {
+        "thumbnail": "44110d846c127105399e4e5e2b268303.png",
+        "src": "c7b3d9bdc7dd85fc2803e4fa94ca5258.png"
+      },
+      {
+        "thumbnail": "f861c6f7535a7adc3653aa31347c1187.png",
+        "src": "1d5f5881ff195d97272e24380f2eaa12.png"
+      },
+      {
+        "thumbnail": "58dfcb66fdeb539dfd6fe3bb39967385.png",
+        "src": "5c47bb12ebb953be3fb87b4fd1cb2502.png"
+      }
+    ],
+    "screenshots": [
+      "d8013e9e9b71007629753ba9f860248e.jpg",
+      "be2bc9e12d90a200d6046dc0db017370.jpg",
+      "4da284c1e7fa3fb997cd378bdaa55199.jpg",
+      "5675239415f40cffdf4e3f22adc6be68.jpg",
+      "d5f8c01d6be0767785c531a190f664a5.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Lora%20Constans"
+  },
+  {
+    "id": "58",
+    "slug": "cecille",
+    "name": "Cecille",
+    "description": "Hunter working in the areas around Armonia. She uses a bow as her main weapon. Her excellent ability to tame beasts, remarkable archery skills, and the help of her domesticated wolf Grey make her an infallible hunter.",
+    "status": {
+      "str": "40",
+      "agi": "60",
+      "hp": "60",
+      "dex": "90",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "d996a450f5ba15677012c9c9553e5fbe.jpg",
+    "portrait": "ce544aabdecbdd412755d57a5454974d.png",
+    "background": "2ae093f2d2eb7a0235bbfc21bdefffc6.jpg",
+    "images": [
+      {
+        "thumbnail": "47b9e002ba0d58572516394937c104ee.png",
+        "src": "417db5692e72454267ab0bda71340608.png"
+      },
+      {
+        "thumbnail": "645db32fc27c3c1ee90478f12ca3d1e8.png",
+        "src": "59ec8273de651e60aaa9260665e56906.png"
+      },
+      {
+        "thumbnail": "809482e6a02e299c5c776aeda85dd890.png",
+        "src": "af142decacbef448add07653a0b37e17.png"
+      }
+    ],
+    "screenshots": [
+      "ccaa2e36075bcfeb29049bf54c25d322.jpg",
+      "6d5baeeaa1e2af6cecc283b0f46fb559.jpg",
+      "3ef89b04bb7260a0fceba634802abae9.jpg",
+      "a7a839be59e218e97c916653919fb57f.jpg",
+      "44fde440c979009628ecf2e78c7d1843.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Cecille"
+  },
+  {
+    "id": "59",
+    "slug": "mireille",
+    "name": "Mireille",
+    "description": "One day, when she was in danger in the Armonia woods, a man in a black hood saved her. After repeated training, she became a skilled swordswoman and went on a journey to find him.",
+    "status": {
+      "str": "65",
+      "agi": "50",
+      "hp": "65",
+      "dex": "40",
+      "int": "80",
+      "sen": "50"
+    },
+    "icon": "db14a830b9c588834b2074e4e27db720.jpg",
+    "portrait": "a39f5784dc0bc03e40ad2efe307bfb73.png",
+    "background": "08e883cc36eaf4c034e33a686b0ab1fd.jpg",
+    "images": [
+      {
+        "thumbnail": "d5168426909c2f0f511920f71f2a4fee.png",
+        "src": "e1910ec0cdd32e747e887e040252c628.png"
+      },
+      {
+        "thumbnail": "57b52d4f81cffe05b2d20a351299aeb1.png",
+        "src": "76140522b0341d4f91169ba105645bb7.png"
+      },
+      {
+        "thumbnail": "ff4b90a45bb7ee2ef3ede827adfa1274.png",
+        "src": "3f318fca59d2e899dbdcf61888e5831e.png"
+      }
+    ],
+    "screenshots": [
+      "cd40724e6deb62a18906e660432fbc85.jpg",
+      "8f0f592ef68623a7176928400c1b5759.jpg",
+      "9fd7f3600573c1ba4f88f9d719060086.jpg",
+      "dc93dc2c1d563be3bbb899d547174a82.jpg",
+      "5335aeb29f0bc91b26df89b344b53ef9.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Mireille"
+  },
+  {
+    "id": "60",
+    "slug": "cutieclaire",
+    "name": "Cutie Claire",
+    "description": "Claire at the age of 17. She has tried handling more graceful weapons but eventually chose a cannon. She learned how to handle the cannon by using an equipment called Cartridge in order to double the weapon's power and speed.",
+    "status": {
+      "str": "40",
+      "agi": "60",
+      "hp": "60",
+      "dex": "85",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "6a08534627b9bfcebce2dfa707767eb1.jpg",
+    "portrait": "2fe4c6ed3438724b62d9b0c5dae32217.png",
+    "background": "a70a8d4c683e9d5764ada908e5a3d83c.jpg",
+    "images": [
+      {
+        "thumbnail": "6373f9eda00810ca3b778519a48bf283.png",
+        "src": "60b60909a98ddad68ccdac24563b4a7e.png"
+      },
+      {
+        "thumbnail": "c3a24537afae0eb360c01760e3cd7892.png",
+        "src": "e5965d3905b6b37fc24fec55e838b92c.png"
+      },
+      {
+        "thumbnail": "a043195fed3189c97509a3e30c92a486.png",
+        "src": "22fcd18edf0397f2f46735d5b89500dc.png"
+      }
+    ],
+    "screenshots": [
+      "340e9b3656b4319a34213f51ef917611.jpg",
+      "f39b9d1bc37da60b86d8b09595a0321c.jpg",
+      "1afdaf1fd00778d9c21aca8c01e9daa9.jpg",
+      "a7d6fad0c4fd3737a693083e0fac3f25.jpg",
+      "46aa38e2d7d7f631e6c048c21a1660ad.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Cutie%20Claire"
+  },
+  {
+    "id": "61",
+    "slug": "cannonshooterclaire",
+    "name": "Cannon Shooter Claire",
+    "description": "Claire at the age of 17. She has tried handling more graceful weapons but eventually chose a cannon. She learned how to handle the cannon by using an equipment called Cartridge in order to double the weapon's power and speed.",
+    "status": {
+      "str": "40",
+      "agi": "60",
+      "hp": "60",
+      "dex": "80",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "4fe4ac149bb015ff5ccf150321f95e85.jpg",
+    "portrait": "932cedb0ecd1fa3116719f73f769511f.png",
+    "background": "1465b37c8acb742d266d49b1af4ca396.jpg",
+    "images": [
+      {
+        "thumbnail": "1e83a6c41e7f5b9b795deb02cfdd07cf.png",
+        "src": "eb25f54cd3fe8629229c2249e7c96b47.png"
+      },
+      {
+        "thumbnail": "ef3611a7b76a5fe7e95806c6670a0252.png",
+        "src": "7ebddc3310b2987b7bd58feed44fe1b8.png"
+      },
+      {
+        "thumbnail": "27ebfd23162cce67d0c419cd014154a9.png",
+        "src": "c729b88a216e32c6c564fdbc8e3380c9.png"
+      }
+    ],
+    "screenshots": [
+      "9162a879afa620a406bc75b0912dfa0b.jpg",
+      "1b568dfe10949dc7cb020aa0e32f2e77.jpg",
+      "20b1d69d497fe31db0f1a8b650d027e5.jpg",
+      "fe2ab12f07dc18e7a84701db7e75204c.jpg",
+      "8d784c4052ee1d8b1d2db6e4b7113f74.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Cannon%20Shooter%20Claire"
+  },
+  {
+    "id": "62",
+    "slug": "sirius",
+    "name": "Sirius",
+    "description": "A crusader of Armonia. He lost his parents at an early age and was raised in the monastery of Armonia. He rose through the ranks as deputy leader of the crusaders through his firm conviction and talent in battle. He believes his sacred duty from God is to purify the herd of Abyss.",
+    "status": {
+      "str": "60",
+      "agi": "60",
+      "hp": "80",
+      "dex": "50",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "9b71ba2a3ddc4737586940c22016ac9d.jpg",
+    "portrait": "81406d329af7991596c95ddaa8c0ae8b.png",
+    "background": "7bae1e753c6225771c6491cfc40ed7de.jpg",
+    "images": [
+      {
+        "thumbnail": "5a0cd1131e4440167ffb7424f4b3fb15.png",
+        "src": "ccd3cb384e90010966bea0f611afca3c.png"
+      },
+      {
+        "thumbnail": "d7a5ce3f8f92f1f167a620e8b25608fa.png",
+        "src": "3f735f8f7b7f7e22abbdf423fda99472.png"
+      },
+      {
+        "thumbnail": "01f2e151273c8a929aa9e743a76b77a4.png",
+        "src": "20249039a4fd0da48775aa4a4651d5f9.png"
+      }
+    ],
+    "screenshots": [
+      "b56eeb8b36235346ff9028bee26eed88.jpg",
+      "a136d5e334f554085f2d088a1d300a2b.jpg",
+      "654573bac160ac98465676242cf5689c.jpg",
+      "a7c77b2ecae2a6bcd52ad1881f73f3da.jpg",
+      "b00613c2e8eb22a76043b627999ba947.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Sirius"
+  },
+  {
+    "id": "63",
+    "slug": "levine",
+    "name": "Levine",
+    "description": "Montoro's guardian. Levine has a wound on his chest due to an incident that happened before he fell asleep in the deeper part of Lucifer Castle. One day, after waking up from his long sleep, Levine found Montoro as a child and decided to protect him forever.",
+    "status": {
+      "str": "80",
+      "agi": "50",
+      "hp": "70",
+      "dex": "50",
+      "int": "60",
+      "sen": "50"
+    },
+    "icon": "9a3a5f57a137eb86fb0b50cf09b65232.jpg",
+    "portrait": "c0a704169e36fc52a5266d528e11ac12.png",
+    "background": "b75dc35ac2511de6453189aee6133601.jpg",
+    "images": [
+      {
+        "thumbnail": "1ca98207de8844b19e710032b9aeb02b.png",
+        "src": "59ffb8887c87b199fcca195d99d00136.png"
+      },
+      {
+        "thumbnail": "5d6ce6120bcf235ab89d067fb0270176.png",
+        "src": "1ad54974c33c3dc7e3d1ba1b7114ca80.png"
+      },
+      {
+        "thumbnail": "58369e7983b3a05f63d03eab3c4892a1.png",
+        "src": "13ebba8f68b6d5f2ea1d26d837be334e.png"
+      }
+    ],
+    "screenshots": [
+      "db9c9345e71829579d3d2e63df477be9.jpg",
+      "514124a6fcc4e2dcd82816cf8c090c4b.jpg",
+      "96c967183d9e3635374397126a0df81b.jpg",
+      "6183d6f3a170d47abf6892bc3c959eed.jpg",
+      "b556754f0ca4d8aabd5eac6f6901107f.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Levine"
+  },
+  {
+    "id": "64",
+    "slug": "snowflakecherlyn",
+    "name": "Snowflake Cherlyn",
+    "description": "She was under Hernandez' command, in charge of collecting unique phenomena and items throughout Granado Espada. She never wanted to start a feud with any Family, so she decided to cooperate with them.",
+    "status": {
+      "str": "40",
+      "agi": "40",
+      "hp": "45",
+      "dex": "55",
+      "int": "80",
+      "sen": "60"
+    },
+    "icon": "8506216b8de8cdc19053d1a745bbd85e.jpg",
+    "portrait": "f6e4e84fb63459e9f7d6b0c761ab1678.png",
+    "background": "8bae0253bda1f0550cdaecb2d8c9cb3e.jpg",
+    "images": [
+      {
+        "thumbnail": "aed78972bd2a088dac8b5bb452d3b826.png",
+        "src": "0969236d7dc983d940fa9cec5b52fce9.png"
+      },
+      {
+        "thumbnail": "52664cf815c299ab1afc163d14697fce.png",
+        "src": "93d76653a82c31c6f98b4a57205b2e6d.png"
+      },
+      {
+        "thumbnail": "d0406e223acf30d8109decd69bf76755.png",
+        "src": "980b92a2ac1c1e4febf33b61ca53347b.png"
+      }
+    ],
+    "screenshots": [
+      "b21940837b05daa9b8fb5718734b6412.jpg",
+      "383cc052fe745475f3f7dde7de2077f9.jpg",
+      "5ad56d2cd73946dc907fdfca07866bba.jpg",
+      "4517353b3add0caae265e66f95d1a015.jpg",
+      "b10243b178fc9a6af70bdffc6bba0203.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Snowflake%20Cherlyn"
+  },
+  {
+    "id": "65",
+    "slug": "illusion",
+    "name": "Illusion",
+    "description": "Another guardian protecting the dark and dangerous streets of Kielche at night. People who have seen her say that it was like watching a fantastic magic show.",
+    "status": {
+      "str": "70",
+      "agi": "70",
+      "hp": "60",
+      "dex": "50",
+      "int": "40",
+      "sen": "60"
+    },
+    "icon": "44b67714c55c728dce948be336322981.jpg",
+    "portrait": "552c3993d8acc054e9304d2bd3c4b088.png",
+    "background": "e218904b07dc98eb299361a6adf7f62a.jpg",
+    "images": [
+      {
+        "thumbnail": "95fa88224109f2e13e91645c46e65e1e.png",
+        "src": "d4157c0b4d9787ff654989dc73f0a496.png"
+      },
+      {
+        "thumbnail": "15b37d574f2bb1ab2847a423e9e0e3e6.png",
+        "src": "4852818e963dea010eef32188245f137.png"
+      },
+      {
+        "thumbnail": "45606bdbcfc6b46393c5cd6fc85f0b18.png",
+        "src": "d9f7ad07ff6571f8b76b67350d34242a.png"
+      }
+    ],
+    "screenshots": [
+      "cf2c94f8d56016fb30212657db176c39.jpg",
+      "8cfb8577d1297c2b4bb1a5d459b00580.jpg",
+      "5a7f037a9d9860bd851db7721e8ccc11.jpg",
+      "0d687db73835da25c4d04eb45c932023.jpg",
+      "300506700d630f9eadfa2e155b736b7d.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Illusion"
+  },
+  {
+    "id": "66",
+    "slug": "nena",
+    "name": "Nena",
+    "description": "Last survivor of the Vigilar tribe, who protected Bahamar for ages. One day, after Lorenzo arrived in Bahamar, the Vigilar tribe disappeared, but as the secret of the 5 Elements was solved he met Nena, the forest's last guardian.",
+    "status": {
+      "str": "80",
+      "agi": "70",
+      "hp": "60",
+      "dex": "50",
+      "int": "20",
+      "sen": "50"
+    },
+    "icon": "ee8d19fdc3d4c1650f2081f851b70adf.jpg",
+    "portrait": "2ba2b731bc2d0167787586d6a93e6c6c.png",
+    "background": "edbf563965a3208c5aff6446569aba9c.jpg",
+    "images": [
+      {
+        "thumbnail": "21c90c53675c489eca91f0a9798f7b27.png",
+        "src": "4811942efa8adb47425f12385328a5cb.png"
+      },
+      {
+        "thumbnail": "dde51dcef88334d61a7648f91eba5e4b.png",
+        "src": "9c34316d97e26bc4e29635b311a6b41c.png"
+      },
+      {
+        "thumbnail": "c8d4d7f831d3059d72c3ea08344ac7f4.png",
+        "src": "18f2229ef3b356680bbe89c2ee55b9b7.png"
+      }
+    ],
+    "screenshots": [
+      "01dda2fd95d1adfb5f5e36e2a1dd8ce4.jpg",
+      "5f5c1d494baba39978cea5fcdedadc8c.jpg",
+      "2fd992929fb9e99606ec9e769301fd91.jpg",
+      "26d9a6b64cc6211b44e09ce077c2010b.jpg",
+      "ca1e56a304e8cdd2a992bf5431dbfac1.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Nena"
+  },
+  {
+    "id": "67",
+    "slug": "sierraros",
+    "name": "Sierra Ros",
+    "description": "Last key of Ferruccio Espada's 5 Elementals. She is a young witch with Corazon in her heart. She still cannot control her power on her own will.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "40",
+      "dex": "50",
+      "int": "90",
+      "sen": "70"
+    },
+    "icon": "35870b41e7eca95dafa1d55633b4ed43.jpg",
+    "portrait": "565b35b84f7acbbc0f9fb6e256d58fdd.png",
+    "background": "a4333d7aa5641ec1d595a7bc6ca6791c.jpg",
+    "images": [
+      {
+        "thumbnail": "e1e448dca33ed1593faa10bd67da0987.png",
+        "src": "3bda2cd558cdbb188b25c0abe78288d7.png"
+      },
+      {
+        "thumbnail": "8408825e84bafa1e823a3d616c5bc043.png",
+        "src": "013dc4a58fab2adc482837672159b4f3.png"
+      },
+      {
+        "thumbnail": "219ce9fed6fe976c9e26d6033080904e.png",
+        "src": "66e6cd5f678233f7b1435815bf712971.png"
+      }
+    ],
+    "screenshots": [
+      "6f2f6a0a8323d05a041b4044499a63d3.jpg",
+      "cf25fc5e7bfeb74bdf4333adfd5ee62e.jpg",
+      "7c8c1fb96f9200f0d76291e5950ea25e.jpg",
+      "da61f505fa8d26e6317a75ee10e58a9d.jpg",
+      "093f1eefe0a5eb0de17a93334456e17f.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Sierra%20Ros"
+  },
+  {
+    "id": "68",
+    "slug": "aileen",
+    "name": "Aileen",
+    "description": "A great thief taking Illier by storm. People think that she is rivals with White Wolf. However, they have actually been a team for a long time. Everything about her is a mystery. No one knows her name, age, or where she came from.",
+    "status": {
+      "str": "30",
+      "agi": "70",
+      "hp": "60",
+      "dex": "40",
+      "int": "85",
+      "sen": "60"
+    },
+    "icon": "d246d48af21126911804a82ffef0e0c5.jpg",
+    "portrait": "38577b8f1fdaedb29a725518afa9cb88.png",
+    "background": "2e433e8b758dc42f348f225ea0c06dbd.jpg",
+    "images": [
+      {
+        "thumbnail": "3ab3f769719d42d0a3863f4c9e26a477.png",
+        "src": "1174bfa8d0acb04f606d4537b972156e.png"
+      },
+      {
+        "thumbnail": "ead2796bbf930494a3cf32cd8ed2a25c.png",
+        "src": "fb8fd3f4a0bd0b0ecadcad9e792e5693.png"
+      },
+      {
+        "thumbnail": "efea0997a2b03359e706a95414091bdd.png",
+        "src": "7cc663eb406678f028eebbccd8544af5.png"
+      }
+    ],
+    "screenshots": [
+      "21889162f95edd227b1b166b4d023955.jpg",
+      "4c581ba169cd11fd6f3777ef444db8c1.jpg",
+      "ef983ef5c3f85005dbbc14be05b86b15.jpg",
+      "d435e8a2e9a60c572be3219cd03605cb.jpg",
+      "f32ad902cadf29f50a5f7cf3e3ac021c.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Aileen"
+  },
+  {
+    "id": "69",
+    "slug": "rubiana",
+    "name": "Rubiana",
+    "description": "Princess of Illier and 1st in the line of succession. Her cold-hearted father instigated a quarrel for power within her family, and she was called the Blood Princes for killing all the siblings who challenged her. She's kind to the lower classes, but cold to the upper class. She's made the Imperial Guard and their commander suffer, but she is called a kindhearted princess by the imperial court. She has practiced Khan del Jenna more than anyone, and she firmly believes that the empire will be unified someday.",
+    "status": {
+      "str": "30",
+      "agi": "60",
+      "hp": "55",
+      "dex": "40",
+      "int": "90",
+      "sen": "80"
+    },
+    "icon": "75a7ceffe4f249ff793aec2760846732.jpg",
+    "portrait": "b34420581a7b68015175216e3fc06969.png",
+    "background": "8746c6270144ec285072a4c1667e62ce.jpg",
+    "images": [
+      {
+        "thumbnail": "4b01ae6f2b5e74c6a460487492ae2154.png",
+        "src": "2e73b7061ccbf9a4950ad8c6b2a0b040.png"
+      },
+      {
+        "thumbnail": "97a954cecbdfaa2fc9b87870de176def.png",
+        "src": "3b790e37c8d64e0d5fef706fbb04214a.png"
+      },
+      {
+        "thumbnail": "1011951fddcf761d52f53a46255ff1ab.png",
+        "src": "91036b7331c6e4df84ba31c8c3c63957.png"
+      }
+    ],
+    "screenshots": [
+      "a2a03589510207ae0c40557e8e139adb.jpg",
+      "8bb29a995e819b694340d750b0894525.jpg",
+      "8aff9000c2a5b6f1a37d68cf72c8990b.jpg",
+      "1909fb6dc5a1e7bfd64095c267bfadf1.jpg",
+      "9b0487dae6981364587ddcaba499ffd1.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Rubiana"
+  },
+  {
+    "id": "70",
+    "slug": "battlefieldclaude",
+    "name": "Battlefield Claude",
+    "description": "Claude Baudez during his golden years as a famous mercenary. He has a specialized combat style built around Polearms. His great combat skills are said to strike fear in his enemies.",
+    "status": {
+      "str": "80",
+      "agi": "60",
+      "hp": "70",
+      "dex": "50",
+      "int": "20",
+      "sen": "50"
+    },
+    "icon": "272ce75c0b249043438d9d2357e214a5.jpg",
+    "portrait": "5436fb4791c286ffae3e93d3ac46c5af.png",
+    "background": "b26546ef2e44ced1ab4ea8b4d7e3458b.jpg",
+    "images": [
+      {
+        "thumbnail": "0155061206b47b407cfec895124d09f8.png",
+        "src": "d12eeba4d9c4515f97d42bae6bd7eeab.png"
+      },
+      {
+        "thumbnail": "393a35f5c6149fe58eabbb7edd795d77.png",
+        "src": "8251f79ab7a6a9e45a83730f13e3be21.png"
+      },
+      {
+        "thumbnail": "b769ed0a6177dcfcc11aef1d203c032c.png",
+        "src": "f05a7460b39750417853aa25349eebf7.png"
+      }
+    ],
+    "screenshots": [
+      "f5e8dd5c41f898076590bbd4ff506a8c.jpg",
+      "a33b6bc7d18ebb4722c756d059e2e0ed.jpg",
+      "892a401744305043ea261ccd7754af45.jpg",
+      "e155edcdef17f5e8d7dfd391b9ceee5d.jpg",
+      "8d9f5f2e25b8b441b97e58c19939e565.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Battlefield%20Claude"
+  },
+  {
+    "id": "71",
+    "slug": "montoro",
+    "name": "Montoro",
+    "description": "In the last moment, he moved his spirit to a new body that he had prepared earlier. His previous ambitions have disppeared by a certain reason but his evil mind still remains.",
+    "status": {
+      "str": "40",
+      "agi": "40",
+      "hp": "50",
+      "dex": "50",
+      "int": "90",
+      "sen": "70"
+    },
+    "icon": "4f6b90e05fd3a9a3eeb68681f4a3b251.jpg",
+    "portrait": "c7122f99c58fdf639954f36bbc1110ca.png",
+    "background": "c3f6519fdbdc5ce643bb8b85b6ed7436.jpg",
+    "images": [
+      {
+        "thumbnail": "d9faa7cbbe77421a29be217e410ca32e.png",
+        "src": "5319da9f0d06bc1bcaad7933496c22bd.png"
+      },
+      {
+        "thumbnail": "a8b349690e9aedb0e99121d18c94b1e1.png",
+        "src": "86af6f77ae20e1d042f1c510c5e68c48.png"
+      },
+      {
+        "thumbnail": "96a5343c25b7c3b53471f3a0d2bcad1a.png",
+        "src": "945db2ede4191c89d20701230d3e46e4.png"
+      }
+    ],
+    "screenshots": [
+      "077afcaa178ce7368c18161eda27f0fb.jpg",
+      "1ae3f88dff136bc26fecc001c34468f4.jpg",
+      "f77cdb5bd7ab9a893cb398726faa5620.jpg",
+      "89f5885e62d083fc7e6e52909c2edb71.jpg",
+      "11d5e676e382be451e66f05cf299b419.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Montoro"
+  },
+  {
+    "id": "72",
+    "slug": "rosa",
+    "name": "Rosa",
+    "description": "She was singing at night time about missing her home town and she suddenly met someone that her song cured him, so she decided to sing for the tired people to give brave and hope.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "50",
+      "dex": "40",
+      "int": "80",
+      "sen": "70"
+    },
+    "icon": "3a07053e2fd5a5daf14c25918a315de7.jpg",
+    "portrait": "12c759af722c4b7758a8f51bc16baf70.png",
+    "background": "42970233938245a977a0082acb5f3b32.jpg",
+    "images": [
+      {
+        "thumbnail": "f77429886886d61127066f68c860adad.png",
+        "src": "5af208d13a6fbf583d41c4d5954cd1b5.png"
+      },
+      {
+        "thumbnail": "713e5751ddc26de65fd62db282e1fe8a.png",
+        "src": "86d0940824497e9e2c4385bc5d11e6bc.png"
+      },
+      {
+        "thumbnail": "f7d248ce464bcffaa5576036a630cfcd.png",
+        "src": "8f6788f845efd9b3a5c4a3a6531f0fcc.png"
+      }
+    ],
+    "screenshots": [
+      "19abcf78d628684b1218cfeb1bf2f002.jpg",
+      "433ba87466a5b86950bbdc78990e8bea.jpg",
+      "a641cbc3117895ec8293caaba3f2f249.jpg",
+      "c1b4ffd15b88836426b8a6ad9457fc39.jpg",
+      "3e6d35493cd4b5cb43245a6cc6da5e4a.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Rosa"
+  },
+  {
+    "id": "73",
+    "slug": "rachel",
+    "name": "Rachel",
+    "description": "She is a senhorita of the upper class of Bristia and a best friend of Ludin's. She travels to the new continent to find Ludin. Her beautiful Illusion Gunner uses a pistol and a magic scroll.",
+    "status": {
+      "str": "20",
+      "agi": "40",
+      "hp": "50",
+      "dex": "75",
+      "int": "85",
+      "sen": "60"
+    },
+    "icon": "7d22470029b43eeba02bfb575163b117.jpg",
+    "portrait": "a574c2809f8152219610b034445b918a.png",
+    "background": "d9f2a44a72ab0a52e31677dea4a5ca59.jpg",
+    "images": [
+      {
+        "thumbnail": "10b354ea6c3a37fe03d52d0f4c37040d.png",
+        "src": "23d83938953861203441207f1123d03d.png"
+      },
+      {
+        "thumbnail": "4999fe65f02a33cc67df7000abc83808.png",
+        "src": "526fb3f9400345f767a2b2f6be042a22.png"
+      },
+      {
+        "thumbnail": "26098dfece81f86da6df40bca3809771.png",
+        "src": "209aa97eb540f484b5d3e6725ff00e52.png"
+      }
+    ],
+    "screenshots": [
+      "ad2d6d67813b9263ac5e9e83c1358e4d.jpg",
+      "ed52aad30d203709459974fa0f51ba67.jpg",
+      "e26731da0f483073e65414be440a4d88.jpg",
+      "7e945ef5e53bc2bbfa77e91ccfae4a6a.jpg",
+      "344ea2221276444d45a06417aa67472e.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Rachel"
+  },
+  {
+    "id": "74",
+    "slug": "rosespirit",
+    "name": "Rose Spirit",
+    "description": "A Homunculus that Montoro made with Rose as a medium. After the death of Montoro, to know the reason why she exists, she started to be with the Pioneer Family.",
+    "status": {
+      "str": "30",
+      "agi": "40",
+      "hp": "60",
+      "dex": "40",
+      "int": "90",
+      "sen": "70"
+    },
+    "icon": "7565f5503c87c061b070e54d841a1ee7.jpg",
+    "portrait": "ef4e303ca32f70ed8e51402379b6e5d3.png",
+    "background": "b30adeca266b5840c7c82779a4ef524a.jpg",
+    "images": [
+      {
+        "thumbnail": "2245de3a79166b4fff1829dd0ff2a0c3.png",
+        "src": "159dd08ec07f46de8fb15a163c3e1a6e.png"
+      },
+      {
+        "thumbnail": "6a00749a651bf3dce929027729b1494f.png",
+        "src": "723a7db7d6075beda315cb7e67ac0cda.png"
+      },
+      {
+        "thumbnail": "998799fe91448c742880669dccd45521.png",
+        "src": "91fa101dd6cc4ae968dc204794519865.png"
+      }
+    ],
+    "screenshots": [
+      "bd13b3a43d0f04c5a67fe705c6c7c609.jpg",
+      "60e2bb200a7c5b32cf7475d47ab54e45.jpg",
+      "ef0e79e7bf8a208a88c4edba802e5a4d.jpg",
+      "6467baff5bb942ee1695cca23441ed11.jpg",
+      "12ca0b6d0a7dedefc97cbded00adea23.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Rose%20Spirit"
+  },
+  {
+    "id": "75",
+    "slug": "selene",
+    "name": "Selene",
+    "description": "One who used to be a maid of Novia. But because of Selene's ineptitude, Novia threw her out and turned her into an ice sculpture. Eventually, Selene was able to free herself, but at the cost of her power. Unable to return to Novia, Selene wandered aimlessly..",
+    "status": {
+      "str": "30",
+      "agi": "50",
+      "hp": "40",
+      "dex": "50",
+      "int": "80",
+      "sen": "70"
+    },
+    "icon": "4f790855df5108a2507bcb4a67a5845b.jpg",
+    "portrait": "c3926036dd70f419ddba416a29c0acbb.png",
+    "background": "d61be6c7be6605edab8ebfae7f6128cf.jpg",
+    "images": [
+      {
+        "thumbnail": "24d781a07a244fc48bedb2525e04bef9.png",
+        "src": "e4117f07204a6acfcc347f9bd1f68dbb.png"
+      },
+      {
+        "thumbnail": "5e6a071b0d9972d2918ad37fa5a4e6ac.png",
+        "src": "7e245511059f64fef7eee742d33c07b8.png"
+      },
+      {
+        "thumbnail": "adda541b2d4c648769d6a6ca68b7f4df.png",
+        "src": "34fdaeb5633712a39c995afd1d5a8a67.png"
+      }
+    ],
+    "screenshots": [
+      "5c2c6c549c01c9f6797bd0dbbc85744d.jpg",
+      "aae95588a029ea5c3bf5e51bbfc0c2c3.jpg",
+      "42dc54b16302780447c5ec04ea8a91e6.jpg",
+      "4cbe9054bd23def2d6d2eb0ece7694d8.jpg",
+      "4199e6e5b67856778ddf9632cab3b551.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Selene"
+  },
+  {
+    "id": "76",
+    "slug": "veil",
+    "name": "Veil",
+    "description": "He is the one who has constructed Resistance leading the remnants to the woods after the Bristia's defeat in the Three-Year War. He is impetuous and likes to receive attentions. According to rumors, he was promoted to captain rapidly by his achievement that he did to look cool during the Three-Year War.",
+    "status": {
+      "str": "50",
+      "agi": "50",
+      "hp": "60",
+      "dex": "90",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "e17a013ff64c9592e9ee8726defd52cf.jpg",
+    "portrait": "7deb8ab56d925a3712295ed14aa64bfa.png",
+    "background": "7ce6087ccd1e8442a83f56908bc3ddf8.jpg",
+    "images": [
+      {
+        "thumbnail": "7ddf0fbb9e68723675e58c32e45a3489.png",
+        "src": "6be4da34240a427cad7e2e6b8154603f.png"
+      },
+      {
+        "thumbnail": "866c41544ea3707b1f5b47eea25939e8.png",
+        "src": "26706cc41220c9d01b69b6468794d2f2.png"
+      },
+      {
+        "thumbnail": "a5733b859174d222a38211fc74faa969.png",
+        "src": "11378370becde75401a2a3c8700f3c6c.png"
+      }
+    ],
+    "screenshots": [
+      "4ab6a7cf45c1b4660b5a082d4759ec05.jpg",
+      "b32a3564109aba64461e82f1e25c3797.jpg",
+      "cc85e88bb741385b6d00b9e75b3d2369.jpg",
+      "0c1f26d36846d2a14143509aa79d545c.jpg",
+      "dea90979062dcb0b120d8d3758afef77.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Veil"
+  },
+  {
+    "id": "77",
+    "slug": "spyolivia",
+    "name": "Spy Olivia",
+    "description": "The figure of Olivia when she was doing spy works. Her combat skills and skills are bit different from Olivia's.",
+    "status": {
+      "str": "70",
+      "agi": "80",
+      "hp": "60",
+      "dex": "50",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "9eb729fea333f564cbf769352ea3fac9.jpg",
+    "portrait": "745e8d3a8870bb11a987d219de04c278.png",
+    "background": "b1b9b19c4137f96ac5dc7c7b1dbff399.jpg",
+    "images": [
+      {
+        "thumbnail": "60104ce46acdd8539188f4e7741e3422.png",
+        "src": "343577b7f064529295fd49776127a491.png"
+      },
+      {
+        "thumbnail": "7cf0bd8533408add77c6f7a6bc25cf26.png",
+        "src": "76f3f45527e16b9ca712be73694bac96.png"
+      },
+      {
+        "thumbnail": "c6ca4126dd2bef0fce9d3cefa89fbd2b.png",
+        "src": "f8530110117873ac053e5ed13b9e5228.png"
+      }
+    ],
+    "screenshots": [
+      "be23f31e8e2adc4a95de3b8926733855.jpg",
+      "e5ba960ca46833287fcb4736a3e18cf7.jpg",
+      "d68a4ffd1103af414a5eb39c5a1c99ad.jpg",
+      "c717bb7d8f587984e6595b15b99c6f1b.jpg",
+      "5e63906c48205b87753f6d7ef58c5086.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Spy%20Olivia"
+  },
+  {
+    "id": "78",
+    "slug": "lhote",
+    "name": "Lhote",
+    "description": "He became a pirate admiring Adelina. He feels bored with the peaceful life after the Three-Year War so heads to the new continent to meet Adelina.",
+    "status": {
+      "str": "80",
+      "agi": "60",
+      "hp": "75",
+      "dex": "55",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "c5867b241d2649eb193c479ef3fa7508.jpg",
+    "portrait": "7fdfde547a35d5ca84bf634978b26926.png",
+    "background": "1c99aefc09fc351f0989b239ce903269.jpg",
+    "images": [
+      {
+        "thumbnail": "5db7b577dd0df55cfa7dd16d0ec6468b.png",
+        "src": "9ca6bcef308991b09d3ae4e24405572f.png"
+      },
+      {
+        "thumbnail": "c91b75a0299b7c7eaec2d57692a6e950.png",
+        "src": "15765684aa0de5a980f8eb12fe89a99d.png"
+      },
+      {
+        "thumbnail": "82a713e8625fe5e5f346651441067cad.png",
+        "src": "9af2087988391bdd7c01d3eacf3a3c8b.png"
+      }
+    ],
+    "screenshots": [
+      "fbc8201d8cc194b35f4a4fa669f1c5bf.jpg",
+      "812b8c6ddb3423835d27d2eaea933a28.jpg",
+      "33519818f3d5be803209cf372b63a6a6.jpg",
+      "46f2defcac3f8bb9c8af44cab2c04069.jpg",
+      "3a9ae2ae2d856a4a4a7bdbc7e6e99a4d.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Lhote"
+  },
+  {
+    "id": "79",
+    "slug": "valeriavendetta",
+    "name": "Valeria Vendetta",
+    "description": "A figure of Valeria who has vanished her innocent by knowing her origin and conspiracies. The only remained things for her are hatred and voidness to her father.",
+    "status": {
+      "str": "65",
+      "agi": "75",
+      "hp": "60",
+      "dex": "50",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "3f20c389e2ad555d617592d4d6667cbf.jpg",
+    "portrait": "a9618c99f0a1907965f67f655e92ec43.png",
+    "background": "36a96bd82f2ea92d4baa324d0c53c122.jpg",
+    "images": [
+      {
+        "thumbnail": "d272b2be82b63645eee38654e8d2044c.png",
+        "src": "1709fac9d15bd64fa9f46351bbf6ff42.png"
+      },
+      {
+        "thumbnail": "49dc4fb430679f101d6e4b63391f08f3.png",
+        "src": "afed1d415e962be0183990ef9151d6de.png"
+      },
+      {
+        "thumbnail": "901e466a8ff549680bb66fabc88554ff.png",
+        "src": "2c5e1fa2718e10efe036504d6550136e.png"
+      }
+    ],
+    "screenshots": [
+      "d59d75550b816754f7359acb92ac63c3.jpg",
+      "33b8d756c1692e5397781d010fa2819d.jpg",
+      "6520f406b54a5f068fd6f553f78d50c9.jpg",
+      "f1ad21d0cd2508f7c16b049aaeea3ea9.jpg",
+      "85f3b9622c7cb9b064155597608256f2.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Valeria%20Vendetta"
+  },
+  {
+    "id": "80",
+    "slug": "lada",
+    "name": "Lada",
+    "description": "Wanders the world as head of the Direwolf mercenaries and earth shaman. After the return of Orden, she and Aclla both resumed their mission to take him down.",
+    "status": {
+      "str": "30",
+      "agi": "60",
+      "hp": "95",
+      "dex": "50",
+      "int": "85",
+      "sen": "30"
+    },
+    "icon": "ec7867105e977bef60dab955aa61630e.jpg",
+    "portrait": "6ef1a5fbfddaa7ceb4aebcbee62cf1bd.png",
+    "background": "cc3600e9261db36ea95ff45d9516cfeb.jpg",
+    "images": [
+      {
+        "thumbnail": "377beae2e3f112b7578a1d348cc6e529.png",
+        "src": "7a34e2c6f1f3afddf85a531c2bb12184.png"
+      },
+      {
+        "thumbnail": "e13c95aabc3fdc2f37a92334355a5c93.png",
+        "src": "9b190136739798b040ab597cec5c1906.png"
+      }
+    ],
+    "screenshots": [
+      "227287fb5ea3f508dd7ba89044b24e81.jpg",
+      "f3e45172eb40533ed62540d3efb1e671.jpg",
+      "d03c230427d2980a114705b7cbd71a47.jpg",
+      "c80c68f07ad1e2bfc56d2c021be29094.jpg",
+      "f4bc192ec0a4647944edb00ec205cd23.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Lada"
+  },
+  {
+    "id": "81",
+    "slug": "mediatorberthe",
+    "name": "Mediator Berthe",
+    "description": "Saint of twisted Armonia. Without the support of the pioneers who fell victim to Orden's plans, Armonia faces its ultimate war. She remains hopeful and tries to gather those around her for the cause.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "55",
+      "dex": "40",
+      "int": "85",
+      "sen": "75"
+    },
+    "icon": "b6668f85775b673815cd7a06c2fa5ec2.jpg",
+    "portrait": "8a1bb9d676f1abff59b799fee5e67e94.png",
+    "background": "027758fe2efa756803bd6ebe0ebaf6db.jpg",
+    "images": [
+      {
+        "thumbnail": "364d972b68a7a5280337bd8ee8187e5e.png",
+        "src": "ecd99120c47ac355d529a8c85321e30e.png"
+      },
+      {
+        "thumbnail": "a077f8ecbd5920cf16595e94f10cc158.png",
+        "src": "b1ab8ba1dca49a459a1e78b6e00168e3.png"
+      },
+      {
+        "thumbnail": "2408a856ad46478baed9addfb4554513.png",
+        "src": "c02159dc9b980a6a56ee80bcde626200.png"
+      }
+    ],
+    "screenshots": [
+      "81ad0cd0a5bd1530f81053607e519c7c.jpg",
+      "fbe2b20bfd3e4163acbd4290fa6ad932.jpg",
+      "8d1e05b5c770d48aa422a0abf73dddce.jpg",
+      "a6242d0b9bb71c95cab6297dbb72f7a5.jpg",
+      "269db3474e7c0b8378f9af8eb9523cf9.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Mediator%20Berthe"
+  },
+  {
+    "id": "82",
+    "slug": "enforceranis",
+    "name": "Enforcer Anis",
+    "description": "The enforcer of twisted Armonia. Without the support of the pioneers who fell victim to Orden's plans, Armonia faces its ultimate war. She lost two close friends in the war and is now lost as to where to go. Anger and hate are all that remains in her.",
+    "status": {
+      "str": "80",
+      "agi": "55",
+      "hp": "80",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "c2848e5a0abd239e1afba98dc62d39aa.jpg",
+    "portrait": "2568e9d782ace0fc2465891542c31154.png",
+    "background": "b3a77011719c6eebcdd63b9ea3f8fb7f.jpg",
+    "images": [
+      {
+        "thumbnail": "5c2f30ba3617e7ace219e00ff7cf8286.png",
+        "src": "bd4201af27cec8e130288148210505fc.png"
+      },
+      {
+        "thumbnail": "700f7a0ee9af1e8b54293346f149842d.png",
+        "src": "f8d9a355f30bdbc25a478df3f9efc86a.png"
+      },
+      {
+        "thumbnail": "379c7fced989501a2dc0a99a5c23bf5b.png",
+        "src": "977593d3d51e76c82d3015c2e26ae299.png"
+      }
+    ],
+    "screenshots": [
+      "03da7b8d8df49ded748547248fed44aa.jpg",
+      "eff7d1ff8503265068e916801933c4d5.jpg",
+      "d8f6e71ff5c5d9b65920c90cadaa368c.jpg",
+      "4072c82b2700cf635fef0dfc29db2d5b.jpg",
+      "a6b1018146dfafa76127cfcc5759bfc9.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Enforcer%20Anis"
+  },
+  {
+    "id": "83",
+    "slug": "liung",
+    "name": "Liung",
+    "description": "He was born to a father from Bristia and a mother from Dang. His combat style, improved from basic lightning magic which is inherited from his parents, is very unique and simple.",
+    "status": {
+      "str": "75",
+      "agi": "50",
+      "hp": "60",
+      "dex": "30",
+      "int": "75",
+      "sen": "50"
+    },
+    "icon": "d9e1fc4f4fe6b80359c5fe9da16fc83e.jpg",
+    "portrait": "37921271d487e91bee1434f3f0a1d451.png",
+    "background": "db383fa989c9cc4a5aab30c129a0d119.jpg",
+    "images": [
+      {
+        "thumbnail": "2230f98fbdb434cd198ecc660ec11108.png",
+        "src": "c75eb83117631e5554da7676cb1dd42f.png"
+      },
+      {
+        "thumbnail": "857c534a578e7169bc12b392c4caf3a9.png",
+        "src": "c044bf38079a24a10e05d0acf885f3eb.png"
+      },
+      {
+        "thumbnail": "bd8e8c0822a9266ea70d4739ca2c5ad4.png",
+        "src": "08c22ae3d6b712253eca93a9084e31f0.png"
+      }
+    ],
+    "screenshots": [
+      "9a6aba43a430a1ab0339f8e713f4c579.jpg",
+      "d27d91b6b466724a2a96d2ee6af36e0b.jpg",
+      "980d1dcc74b4abf39977affd0f513302.jpg",
+      "775ae907f9b1e0b6555359d6d267a97e.jpg",
+      "1cad1233f5c364a2dcd075f471b357af.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Liung"
+  },
+  {
+    "id": "84",
+    "slug": "cherlyn",
+    "name": "Cherlyn",
+    "description": "She was under Hernandez' command and in charge of collecting unique phenomenon and items going through Granado Espada. She didn't think to have a feud with Family, so she joined with them.",
+    "status": {
+      "str": "40",
+      "agi": "40",
+      "hp": "45",
+      "dex": "55",
+      "int": "80",
+      "sen": "60"
+    },
+    "icon": "1f0bd237e63af36b4860b71b0f8c9593.jpg",
+    "portrait": "4c051e53b80658d9b540eed955112995.png",
+    "background": "1202d7abef4a78e008896f6251624443.jpg",
+    "images": [
+      {
+        "thumbnail": "b5d55cdc8745310c458d8be930a82e31.png",
+        "src": "d9735a1c6411c528566e3606da2ae923.png"
+      },
+      {
+        "thumbnail": "18c0e522e035e7babbfd784070493477.png",
+        "src": "0e6d1f5b8250c14fa185c77cd15cb0ca.png"
+      },
+      {
+        "thumbnail": "a1de9fab049d8238a2d7570109261c64.png",
+        "src": "81ea19eb9be7ae02126b1e1499c46aee.png"
+      }
+    ],
+    "screenshots": [
+      "5ac0ba92a881746406fe8676b2da78c2.jpg",
+      "8dfc0f9a030cadd908ea95e91ce478bf.jpg",
+      "48fa76bc9b1ffdb9061ca3f7781ad149.jpg",
+      "d7df789cfd1640f62f03ec0856c76865.jpg",
+      "2228bb33c9f90edb0feb86b0f97e514f.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Cherlyn"
+  },
+  {
+    "id": "85",
+    "slug": "friede",
+    "name": "Friede",
+    "description": "Leader of a rookie band that currently is at no. 1 at Vespanolly charts. Decided to take a vaction for a while.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "50",
+      "dex": "50",
+      "int": "80",
+      "sen": "70"
+    },
+    "icon": "b3fe290504ceadbad0e919084d7a9f51.jpg",
+    "portrait": "97ad4dac0c1cbf9e79a9136237d57fb2.png",
+    "background": "397948b00aeff400b310a953eef29601.jpg",
+    "images": [
+      {
+        "thumbnail": "7fdcbec3abe89b6d77ea35a4c8a733cd.png",
+        "src": "68c21dde10d4e657a06e921560c5b5e2.png"
+      },
+      {
+        "thumbnail": "223ead3127bdd05bf9f14ba8d28fd782.png",
+        "src": "e7346f9387bd5d0dbb342d57682e04f8.png"
+      },
+      {
+        "thumbnail": "9dba09a8e8d5f45484389419c77613b3.png",
+        "src": "bc019cb5b86c889774998bdabb36a8d9.png"
+      }
+    ],
+    "screenshots": [
+      "c5996ce8b81f1b82a6e7207aaf1ec345.jpg",
+      "1db0893405bb926013bf4abe2b76be6c.jpg",
+      "221d447ba95262e5d87d4d435260d720.jpg",
+      "01ad588525ba8cb36b2cfcab616c077b.jpg",
+      "2ede078551e6dd56a05e628c830719b0.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Friede"
+  },
+  {
+    "id": "86",
+    "slug": "doomslave",
+    "name": "Doom Slave",
+    "description": "Currently a berserker of Twisted Armonia, likely an Armonia Paladin in his past. For reasons unknown, he finds himself encroached by The Abyss' energy, attacking enemies indiscriminately.",
+    "status": {
+      "str": "80",
+      "agi": "50",
+      "hp": "85",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "4652b11ee8b43c98d6ae4a1d86deadcd.jpg",
+    "portrait": "36d34ccd1cf4379e7a2d4f9dc23f699a.png",
+    "background": "603cf5702aa8fb35d0dd586f0dae63c7.jpg",
+    "images": [
+      {
+        "thumbnail": "0bb1bcb6d88eaab12432010020d41ade.png",
+        "src": "d7c9dc97725131ec11107a75d19765de.png"
+      },
+      {
+        "thumbnail": "37caca915d974fdfa61fa1f8285d9bcd.png",
+        "src": "0bcb50e3496b12c65f748ca4ca465ee6.png"
+      },
+      {
+        "thumbnail": "16e6fdab2e901861ba4a8d3b63889001.png",
+        "src": "6d14c1248daed53f127c97d49312ebe2.png"
+      }
+    ],
+    "screenshots": [
+      "5e0a1b4944c3e58c3703d83aab96f873.jpg",
+      "143d55c3f2904501788a2dcb93232a98.jpg",
+      "e575c8dad375d22955f65379c562875c.jpg",
+      "e99549cb38bf6d84bb5a278c6a9e02f1.jpg",
+      "20f811a494042eb7231d7ad51a86f9fc.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Doom%20Slave"
+  },
+  {
+    "id": "87",
+    "slug": "mercenarycalyce",
+    "name": "Mercenary Calyce",
+    "description": "Head of the Pegadilla Mercenaries, said to have never failed a mission. Became the current leader of the mercenary group after the death of Gerad Loren.",
+    "status": {
+      "str": "50",
+      "agi": "70",
+      "hp": "60",
+      "dex": "90",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "c7c7207b968a7ca5c91789f5c4cc48ba.jpg",
+    "portrait": "b3dfcb55a3c29c9fb932f09170732dce.png",
+    "background": "103d1b2216172346b18dbb0ac3de6121.jpg",
+    "images": [
+      {
+        "thumbnail": "bd4e46842d621f864faa0ac6da12b3fc.png",
+        "src": "1cf16e56aa07a27c6d0b6d31f55814a2.png"
+      },
+      {
+        "thumbnail": "44c1317e2986c251781b651a38d1d6b3.png",
+        "src": "fc436d4815232fc9ded031f033ea984c.png"
+      }
+    ],
+    "screenshots": [
+      "38e321ad58ed2cca1248680ab5bd07dc.jpg",
+      "8ef4e94f81206fe0ae914d84d492b666.jpg",
+      "1dc7925f11d07488937b0e75e459e358.jpg",
+      "58db1d67eb373895fec2bd9e55e625fd.jpg",
+      "d5595be317e591349351d0c1570bc282.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Mercenary%20Calyce"
+  },
+  {
+    "id": "88",
+    "slug": "queenofpioneergranma",
+    "name": "Queen of Pioneer Granma",
+    "description": "A portrait of Grandies when she was pioneering in the front line while she left Claire with Claude. People praised her calling her Queen of Pioneer.",
+    "status": {
+      "str": "70",
+      "agi": "60",
+      "hp": "100",
+      "dex": "50",
+      "int": "40",
+      "sen": "40"
+    },
+    "icon": "175ae581b83f941ea1a9228924cf6931.jpg",
+    "portrait": "0f1063a85c920f398e4349c8f88447d7.png",
+    "background": "980485419c4a95d06359c568709fd030.jpg",
+    "images": [
+      {
+        "thumbnail": "57a2c288bba7d01a3ed4745046903e92.png",
+        "src": "4165bb7b6945e4736f61f5181e4b9eae.png"
+      },
+      {
+        "thumbnail": "d5ac9ed23243de501afaf96df9be336f.png",
+        "src": "168448c88ade021e864ab64c032d8d4e.png"
+      },
+      {
+        "thumbnail": "2a22951f60c3e273d662184cd6b9cf2e.png",
+        "src": "655613e6531365d474cd9f8c02576a5f.png"
+      }
+    ],
+    "screenshots": [
+      "ca1cf4d24f23295d814ed9d0f5a7bb4f.jpg",
+      "6e6254a98a472a908ab2459afdc57753.jpg",
+      "c571dfc8cadb1d47c600e2b80e8058b2.jpg",
+      "f608da5f0b508acb41e020248254f9fb.jpg",
+      "ae3253391920e566344bf54815d967a6.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Queen%20of%20Pioneer%20Granma"
+  },
+  {
+    "id": "89",
+    "slug": "barrol",
+    "name": "Barrol",
+    "description": "He was a legendary soldier in Bristia. He is currently retired and is a barber. He is fat but he moves unbelievably fast during battle.",
+    "status": {
+      "str": "50",
+      "agi": "70",
+      "hp": "60",
+      "dex": "90",
+      "int": "30",
+      "sen": "60"
+    },
+    "icon": "b8127e54fbf85454b1fc7afc1416af51.jpg",
+    "portrait": "12bf60468998a446ec46a18ce8ff5ee1.png",
+    "background": "4471b32a81ac4c66c698427be2ec88be.jpg",
+    "images": [
+      {
+        "thumbnail": "e6e2418f5a79a98a50d8fdea2756ec06.png",
+        "src": "4eea0eeb85a6830882d5fffbc05daaf0.png"
+      },
+      {
+        "thumbnail": "a39db7b848cabe9976ab2daca81268bf.png",
+        "src": "03dc0533673c51b661603aa3d70a8936.png"
+      },
+      {
+        "thumbnail": "c180bc5ade04e407551d6ad48c873218.png",
+        "src": "30954dfcc69fcebb58e67196b63b5f75.png"
+      }
+    ],
+    "screenshots": [
+      "2add4d8b474fdb65bb8c18489c81db79.jpg",
+      "ef7cbf7b3e98163440e44cf99d5c3563.jpg",
+      "6a9bd9951066ab90fe710b5656ca1f5a.jpg",
+      "577b3fe9a9a7bc6cc0c9bb8a2ced2340.jpg",
+      "9a084d88386ed1485802bf5c91b85ae6.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Barrol"
+  },
+  {
+    "id": "90",
+    "slug": "olivia",
+    "name": "Olivia",
+    "description": "The Governor of Bristia, Caisse's adjutant. Her real identity is a spy from Blood Navy in a command of Renauld. She was supporting Caisse behind to achieve her objectives. Since she can't return to the troops because of some series of cases, she joins the family to achieve her objectives.",
+    "status": {
+      "str": "70",
+      "agi": "80",
+      "hp": "60",
+      "dex": "50",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "e0e44327dba1f703ec35d2644c64bc4b.jpg",
+    "portrait": "97464d8629a380995219dcb544f3c665.png",
+    "background": "8307aad1bf4f86ad2c704440ac0f8fd7.jpg",
+    "images": [
+      {
+        "thumbnail": "9904c2d7e458787dbacdb4af5daf5b83.png",
+        "src": "784ba2b40c4d9b3e648b333450621190.png"
+      }
+    ],
+    "screenshots": [
+      "0ec5e5e222167fc51b6143a5439ea15d.jpg",
+      "4e282796f4ee5e23d30d71e30aa08dcf.jpg",
+      "dfca01b70beea5ea1e1a637b3a71ae47.jpg",
+      "c47b7d7f9c2630e482cd0e1adecdbcb9.jpg",
+      "5e14e7aaa88ba296917021d7c6c32a74.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Olivia"
+  },
+  {
+    "id": "91",
+    "slug": "sharon",
+    "name": "Sharon",
+    "description": "One of the ten nobles, Count Cortes' secretary. Very loyal to Cortes, and would do anything for him, even If blood is shed on one's hands.",
+    "status": {
+      "str": "35",
+      "agi": "60",
+      "hp": "45",
+      "dex": "50",
+      "int": "80",
+      "sen": "50"
+    },
+    "icon": "186bc58024ecb9d596afd9349402f52c.jpg",
+    "portrait": "f6bd8362b1d58676e974a5b40ac8e85c.png",
+    "background": "8ea9c81ca5de8f0373f50ee49e33e6c6.jpg",
+    "images": [
+      {
+        "thumbnail": "9670da994d69c34885dc8b5020f4e73b.png",
+        "src": "7e053dd23ea237f31f5d33281db6f2bf.png"
+      },
+      {
+        "thumbnail": "dd06379c6012f7dd6cce4ac48c5fd5c3.png",
+        "src": "82102bda9e32c34a53e803ecbcccad60.png"
+      },
+      {
+        "thumbnail": "c7bef87b738f8178643c21148c935dfa.png",
+        "src": "753e9f626d06e7f0853520746fcaa459.png"
+      }
+    ],
+    "screenshots": [
+      "ea6110387c20924ae595cbaeacd0008d.jpg",
+      "d53f78473a5ff87ae3b890b856054497.jpg",
+      "25c460ab4a01019c1a5cc27b0e25abb8.jpg",
+      "ef7dbb15e3ac337e4d35657151aaad6a.jpg",
+      "bf23dcda5bda43af5ad62d490028f6b6.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Sharon"
+  },
+  {
+    "id": "92",
+    "slug": "cano",
+    "name": "Cano",
+    "description": "She was commissioned as an officer for the Bloody Navy despite her young age due to her special magic. In contrast to her flashy ability, she is careful and timid. She is quite mature for her age.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "50",
+      "dex": "60",
+      "int": "90",
+      "sen": "60"
+    },
+    "icon": "3b01f688dfa9a81c7fcaa11a8bec7837.jpg",
+    "portrait": "a4bf59d2c687b8a88ef5fa27a47e799f.png",
+    "background": "fad25844b2dc405645f4fef8a07a7abb.jpg",
+    "images": [
+      {
+        "thumbnail": "810fbbaad607cb0903acac684160c4bd.png",
+        "src": "17329b040ec97139db8bf0a1f5a0d163.png"
+      },
+      {
+        "thumbnail": "2bca83cee9f7150ae38a127a020a1e71.png",
+        "src": "ca1822b9e6cce52b28ef2c4d04f599b8.png"
+      },
+      {
+        "thumbnail": "82636db2e085c7094ffc86453c3a0095.png",
+        "src": "d7c9adda9307d629def783ad9b3a018e.png"
+      }
+    ],
+    "screenshots": [
+      "0a6210a0fdd5d0c42704c26753fced0a.jpg",
+      "dbed517b144fac5d75318a7b64a43f2e.jpg",
+      "b471a0e1461116a94e748bbeb8c3b86e.jpg",
+      "ed7b02b33ac64eed10be18e1e85103ee.jpg",
+      "6d426e5911114b5e50acd68d830383c1.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Cano"
+  },
+  {
+    "id": "93",
+    "slug": "caisse",
+    "name": "Caisse",
+    "description": "The new Governor of Bristia. He has succeeded to step forward for an independence of his country through his calculating acts. He has a special talent about using guns and also has understanding of various combat tactics.",
+    "status": {
+      "str": "35",
+      "agi": "80",
+      "hp": "40",
+      "dex": "75",
+      "int": "60",
+      "sen": "50"
+    },
+    "icon": "7d3d56ac27c571a9dd48dda9bfa65144.jpg",
+    "portrait": "793bc8d80a22bc39d8a89a6cbfb04211.png",
+    "background": "83d5cb9b0cbb98abc960d26194cdb0b7.jpg",
+    "images": [
+      {
+        "thumbnail": "0b6842404ad927d28f446961c330ec7b.png",
+        "src": "34e9672083afd310772df12e0d5fe8d3.png"
+      },
+      {
+        "thumbnail": "1be1c1799595480d0e0850d0e95946de.png",
+        "src": "9c8f0d70f19d840ed0644c0eb6e294da.png"
+      },
+      {
+        "thumbnail": "25b3640db5fb2e9c955ea630c77ba8c8.png",
+        "src": "36311e247a2da7e785b675851eda5680.png"
+      }
+    ],
+    "screenshots": [
+      "235bd6b1958be9bdd58be0c75fc67ce6.jpg",
+      "d13c350c43f02f18b8bd0177d9f6f8f5.jpg",
+      "6899d3640d5c0bd3ecf1baccf14090a6.jpg",
+      "47c7865507dde50f9279b269f77bc4d7.jpg",
+      "e757b6d2d22fc6d6d21c3aef9e70a1a6.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Caisse"
+  },
+  {
+    "id": "94",
+    "slug": "tora",
+    "name": "Tora",
+    "description": "The son of Bardi and legendary Burlon, the grandson of Oswalt. He is always dreaming to revenge on Adelina since his father has been killed by her when he was young.",
+    "status": {
+      "str": "80",
+      "agi": "80",
+      "hp": "70",
+      "dex": "40",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "e0aa0b120c0d1e938a5208130209649b.jpg",
+    "portrait": "79955190f2df1c2cb7c224b64e316cf4.png",
+    "background": "e11d8e7ec1fe322a011dd83e2818e3e0.jpg",
+    "images": [
+      {
+        "thumbnail": "66de5ccc29860c1153a83d57eaf871a1.png",
+        "src": "4f440cbf14f908ad7e9cf586caa78bd6.png"
+      },
+      {
+        "thumbnail": "0d34f55817367ec5a07372be5453ccf4.png",
+        "src": "bac315912e8da6ee93b6dee0ef31b5d1.png"
+      },
+      {
+        "thumbnail": "0241e09a751d5e6db7371a0272050a13.png",
+        "src": "f38b7d0f448b1dba8f27ba8261d0e899.png"
+      }
+    ],
+    "screenshots": [
+      "7cd280d40b56121851644fc95eea5288.jpg",
+      "7bb1ee5884108659a70d905591689c6f.jpg",
+      "ad74ea774801db04e744824db4ac1732.jpg",
+      "da75a5c04381b57c9b9ecab35f90f6a9.jpg",
+      "a5f597364e28c57096ad1de1bc67eaca.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Tora"
+  },
+  {
+    "id": "95",
+    "slug": "marie",
+    "name": "Marie",
+    "description": "She is a daughter of the maid leader who worked for Dr.Torsche when he was in Vespanola.",
+    "status": {
+      "str": "50",
+      "agi": "70",
+      "hp": "50",
+      "dex": "85",
+      "int": "45",
+      "sen": "50"
+    },
+    "icon": "f1aade107214c879abbdc1848461dec6.jpg",
+    "portrait": "a8f23953234b2f5b10713205a23f22a0.png",
+    "background": "d6e0078fbdc383d999dee0f14304ce02.jpg",
+    "images": [
+      {
+        "thumbnail": "daa128cdf0382f2b5db930dab22989bd.png",
+        "src": "594de5949e11cbff137098118c5d49ad.png"
+      },
+      {
+        "thumbnail": "f4c2b660764a1daf504293a6005e6bfc.png",
+        "src": "ead46f9a400d7be3f01aed362ee3b7f9.png"
+      },
+      {
+        "thumbnail": "586675b13e342e58c5b63323ac6d7efa.png",
+        "src": "0d2e0e0b9cf1a28d9a1b3bbb4416740a.png"
+      }
+    ],
+    "screenshots": [
+      "e93a2953d3236b36e37e4bf71bf67cd5.jpg",
+      "f17292472fef180d92670b3a34b7a48c.jpg",
+      "5a6d49bd32c75f3c8c54202fb0e872de.jpg",
+      "f4a868f469f50da10167e5f27e98cac7.jpg",
+      "c04d66de999c0e34a112d4f675f7f367.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Marie"
+  },
+  {
+    "id": "96",
+    "slug": "misa",
+    "name": "Misa",
+    "description": "Truman's first experiment and so-called prototype of Evil. Treasuring her sole memory of Evil, she destroyed Truman's laboratory and came into the new continent...",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "65",
+      "dex": "85",
+      "int": "50",
+      "sen": "50"
+    },
+    "icon": "49e47211d2b7dacc57e527f2ec29bfb7.jpg",
+    "portrait": "170ff925d8bf6797dfe7232c9b47a98b.png",
+    "background": "d366450706fec6e27c9df32aa5e1da2d.jpg",
+    "images": [
+      {
+        "thumbnail": "b2f067cd76a12bcc8829e70ac0faa6e2.png",
+        "src": "7613e5f4e072dec9102f0af19ada2976.png"
+      },
+      {
+        "thumbnail": "62ad9f35f45733341663e0555f4109aa.png",
+        "src": "28f456def3a599921c30de891d0dafe3.png"
+      }
+    ],
+    "screenshots": [
+      "4bdb3132851674a793506599908ecd52.jpg",
+      "836223fe2dd3c4b0d8aafebcb77cf214.jpg",
+      "9232da567c35ef43ad7f5f32e9030a9a.jpg",
+      "d2adb925cb65402c623412fe5cb7e2fa.jpg",
+      "e1c8e0b06969e239bc8bdef605b6b061.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Misa"
+  },
+  {
+    "id": "97",
+    "slug": "elisa",
+    "name": "Elisa",
+    "description": "She is a nurse officer in the 2nd fleet and helping lots of things to Castilla exploration. Lots of fleet soldiers are faithful with her.",
+    "status": {
+      "str": "50",
+      "agi": "30",
+      "hp": "40",
+      "dex": "60",
+      "int": "90",
+      "sen": "50"
+    },
+    "icon": "f616adcd52052f54d280d44f3a6574b8.jpg",
+    "portrait": "1820061fd2b8fcca162b2c864fb36e35.png",
+    "background": "a3bfc61997a609ae7fedadfd0627fbcd.jpg",
+    "images": [
+      {
+        "thumbnail": "089c56fbdfe6d17da0ee3222f99f1498.png",
+        "src": "c97de02959e37e08d79529395b4f02cb.png"
+      },
+      {
+        "thumbnail": "d0b8b47435036075f802f66936d9fe07.png",
+        "src": "f3a1c0497733ee87ca3dc3d6fdad91c3.png"
+      },
+      {
+        "thumbnail": "75015e2aedfd460b2803d73a5c2d2d4d.png",
+        "src": "f70b0cea2284d343912d1a3ef60f97af.png"
+      }
+    ],
+    "screenshots": [
+      "a55fb0df57fdb8b6ac76cf48626b64b3.jpg",
+      "08e129d385eeb4ac289c1cf0257db764.jpg",
+      "a4a5229b9ef3382e747be701ab320bfe.jpg",
+      "54fb54e21b7fd8df11eb94bb1c605a35.jpg",
+      "cbafb693ebc453c0afc39286e1f162d6.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Elisa"
+  },
+  {
+    "id": "98",
+    "slug": "kurtlyndon",
+    "name": "Kurt Lyndon",
+    "description": "Kurt was a young commander leading the invincible legion during the Three-Year War. But, due to the discord with Lyndon, he became the leader of Burlons. He has high ATK skills and the ability to summon a Grim-ripper.",
+    "status": {
+      "str": "70",
+      "agi": "70",
+      "hp": "60",
+      "dex": "50",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "7287ded250a99361b253afdca105c219.jpg",
+    "portrait": "c60f9d9e3d4231de34727c1915f541dd.png",
+    "background": "b53c4abb64ce3bae7cd2ae53f43312ea.jpg",
+    "images": [
+      {
+        "thumbnail": "c3c6ae958e5f07c353ed4a5cba1a0389.png",
+        "src": "d826935cee431a04ea00ac329455b134.png"
+      },
+      {
+        "thumbnail": "218298725b0a3f5fe3bd8075cab13eac.png",
+        "src": "d7d210e8f44dcea75b15cc98092fc698.png"
+      },
+      {
+        "thumbnail": "ca548b9fd6aee7b0ca668ac6c79f13b3.png",
+        "src": "d25c072bbf7c041584afa3c3827d10a7.png"
+      }
+    ],
+    "screenshots": [
+      "af0b62e1ffddbb4919ac701666e68b48.jpg",
+      "c1f8a88eed06b8f8f8e51fff232da9f1.jpg",
+      "f5021841afccfa3c80bca6126ba6714a.jpg",
+      "e7c3585e14add2e9b7fbb714317d692e.jpg",
+      "596139cf59f75bafbc5ac082a36f8c00.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Kurt%20Lyndon"
+  },
+  {
+    "id": "99",
+    "slug": "guardiancoa",
+    "name": "Guardian Coa",
+    "description": "Guardian of a snake-worshipping clan of ancient Altria. She may be gentle and warm-hearted by nature, but she will not hesitate to destroy anyone who threatens the clan.",
+    "status": {
+      "str": "70",
+      "agi": "80",
+      "hp": "60",
+      "dex": "50",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "e2428860e25272303771ea2dccfdf1e7.jpg",
+    "portrait": "e4e40b192aa072a9581bc9457f704cda.png",
+    "background": "1120aaeb752ca520cd94ca02cfae9850.jpg",
+    "images": [
+      {
+        "thumbnail": "7f9795dd297a4e5528f02beac1449310.png",
+        "src": "d5697f8dcc2cd50ee99555a50fd75e85.png"
+      },
+      {
+        "thumbnail": "4f0b81030bb6424b6bb67d3a4e480868.png",
+        "src": "cae94c8c77759582276ed77b76d7a4ba.png"
+      },
+      {
+        "thumbnail": "dad267e1212dd815091ce572d967a987.png",
+        "src": "9fd2d9a75d555aa7d34e8fa009a147bb.png"
+      }
+    ],
+    "screenshots": [
+      "0c7f792fdab7d283deac33b1450da2da.jpg",
+      "17ef182b6bd0973ffb3293d5266c2b42.jpg",
+      "088564a2afe563932df504421e8f5a8f.jpg",
+      "8a8d94cda01b4ad6cf3920b49cc4008f.jpg",
+      "344dd1f88a83e180595e1a19617759fd.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Guardian%20Coa"
+  },
+  {
+    "id": "100",
+    "slug": "coa",
+    "name": "Coa",
+    "description": "Survivor in the barren lands of the fallen civilization of ancient Altria. Her body became inhabited by the spirits of snakes after a cruel experiment by an ancient chief priest. She always ran on pure animal instinct, but a fateful encounter with a girl nicknamed the \"Master of Fire\" forced her to reconnect with her human side.",
+    "status": {
+      "str": "80",
+      "agi": "60",
+      "hp": "70",
+      "dex": "50",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "7d49d8fb0a9724377e5e603cf45ed3af.jpg",
+    "portrait": "71cd6059cd455a0b6f8afe912f32c895.png",
+    "background": "c3dd0fa939a7457d249c72dfaf060692.jpg",
+    "images": [
+      {
+        "thumbnail": "29b12b4db86c94157ef85e20b02fe738.png",
+        "src": "2bb3d5c5318adf96e69c57d93d18a8e5.png"
+      },
+      {
+        "thumbnail": "3b0c043df123e77283b83732a7c42597.png",
+        "src": "dcca0da8468c2ea5a7e3bf3ed3437bbb.png"
+      }
+    ],
+    "screenshots": [
+      "ead6d68295fe9e06227e7a6a04d7e074.jpg",
+      "58236ddca1ae9d894a0c65a714190595.jpg",
+      "ca84b99f1d21781e2e0ed50e05c3c904.jpg",
+      "ce94013fdc5104ced500e53af84ebb04.jpg",
+      "14fa18fcccd78ecf7ff00ad494f99968.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Coa"
+  },
+  {
+    "id": "101",
+    "slug": "keith",
+    "name": "Keith",
+    "description": "The second son of Vespanola's Fluke family, famous for their proficiency in magic. Uses a unique stance called Electrica Villar, which combines his knowledge of traditional lightning magic and his love of billiards.",
+    "status": {
+      "str": "50",
+      "agi": "50",
+      "hp": "60",
+      "dex": "50",
+      "int": "90",
+      "sen": "50"
+    },
+    "icon": "20109ea0939a43655d74278ea771269c.jpg",
+    "portrait": "2cd24954e3ab011dbf15746bb08355a9.png",
+    "background": "9c23df6f886c2b0378ef42cb54c85ff2.jpg",
+    "images": [
+      {
+        "thumbnail": "10d24a789a40c78202dc4a783d8852bd.png",
+        "src": "afac960dd041cd663a20efaa7faf3d5f.png"
+      },
+      {
+        "thumbnail": "f92c29f8ff6a7b6fe6476b528e91e20c.png",
+        "src": "f86d96601fa7e503a4c9465450fb35a9.png"
+      },
+      {
+        "thumbnail": "795de0182f44800384c2ac4f2af91a6b.png",
+        "src": "a46c4be37b5e62963aad1485593795b8.png"
+      }
+    ],
+    "screenshots": [
+      "0a8d160d8f4a11abd0dd47bdaedbf715.jpg",
+      "92f8055e939b0209d015ba5f36740074.jpg",
+      "5c17c1d955434071350178ff749a4058.jpg",
+      "3ca4a9c2c15c1e46744ce2f6be366f91.jpg",
+      "9e4f69e729158a4aa183c995bdfebfb9.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Keith"
+  },
+  {
+    "id": "102",
+    "slug": "sakura",
+    "name": "Sakura",
+    "description": "Youngest daughter of the [Yoshino], a noble family from the Island Nation of the Far East. Yearning to become a warrior, she escaped to the New Continent without telling her father.",
+    "status": {
+      "str": "75",
+      "agi": "60",
+      "hp": "80",
+      "dex": "50",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "acadc7c79ab411d37679643ff2c8bae2.jpg",
+    "portrait": "70bd6f58b732312dd9f5044d4e620944.png",
+    "background": "16aecc8a9ce41ff2655d2a0186e9ab43.jpg",
+    "images": [
+      {
+        "thumbnail": "01ecc355abdc68aabda4a1054dd51022.png",
+        "src": "d5bb1f6c6d2b1365338975acbebd8bfd.png"
+      },
+      {
+        "thumbnail": "e1ed7eee1d0f57da023c36e981628c16.png",
+        "src": "53d203c66f25c5882c33472949cb4dd6.png"
+      }
+    ],
+    "screenshots": [
+      "66f82595e1f19728293d807ab44cfd00.jpg",
+      "c99fd7ffd028a9c728e659210687c79f.jpg",
+      "eab570ff9bfb87698f614882c095e6c3.jpg",
+      "155d62b61d3428ca751fced16cec3cb7.jpg",
+      "71e848362274d9c413f1a42aa45b2bf7.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Sakura"
+  },
+  {
+    "id": "103",
+    "slug": "aisha",
+    "name": "Aisha",
+    "description": "A water shaman found dormant in a lake of ancient Altria. Lada is said to have brought her out of the lake in order to chase Orden. She is extremely lazy and sluggish, something Aclla isn't very fond of...",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "65",
+      "dex": "40",
+      "int": "80",
+      "sen": "70"
+    },
+    "icon": "79a04cffcc1bf6472cbbf598c7283c6d.jpg",
+    "portrait": "3660e5b650afe99ab275eaca12b0fe58.png",
+    "background": "3fdc9f010edc30992f42b6cd7ca8fc1b.jpg",
+    "images": [
+      {
+        "thumbnail": "7975509218dbdf64de717b7c6fb06984.png",
+        "src": "81db157cbdb44a8708682b47debb730c.png"
+      },
+      {
+        "thumbnail": "adf7b14c552d4f568ee0f0a357bc782e.png",
+        "src": "d1f4cb7451ce0a72a5081d5040aacd02.png"
+      },
+      {
+        "thumbnail": "2de542dba9561708796c79c554e34c3b.png",
+        "src": "e06e6fc4ada298302987d5574e4b3940.png"
+      }
+    ],
+    "screenshots": [
+      "ba86531160ab6e1cadc4de7a5491a18d.jpg",
+      "ef463d61b328fba70c6cb90b2ceca79a.jpg",
+      "aa635879371bd86fdb22571c21ef54eb.jpg",
+      "a39773895aa1494be8254590b584f173.jpg",
+      "f9dba862dea4b529fa98632bfe9d0149.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Aisha"
+  },
+  {
+    "id": "104",
+    "slug": "sakurahime",
+    "name": "Sakura Hime",
+    "description": "Youngest daughter of the [Yoshino], a noble family from the Island Nation of the Far East. She is graceful and elegant, much like a cordial princess.",
+    "status": {
+      "str": "80",
+      "agi": "60",
+      "hp": "80",
+      "dex": "50",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "519fcad0b02270281a07c209e05d80f5.jpg",
+    "portrait": "9ab14bf6caeba8872a4157afcf1a3023.png",
+    "background": "128772cfb2dd22d6f5f2e6e943f06ebb.jpg",
+    "images": [
+      {
+        "thumbnail": "e6150e2174d62b32171286aa99d1c1de.png",
+        "src": "eda5605530bf146b35574ab02dce72c0.png"
+      },
+      {
+        "thumbnail": "c09fb60dd4919a90dd626dccf2c007e3.png",
+        "src": "5ec402ed4bbb38a01286eb4e456a5b43.png"
+      },
+      {
+        "thumbnail": "cb674f1df0c6ca0a32cb903d7768956a.png",
+        "src": "f0eb15807e91f3654e7e240775891ab5.png"
+      }
+    ],
+    "screenshots": [
+      "39af020eeae47125ca0b303fa351b0c8.jpg",
+      "714d16d5579a0bedc09ff7524d223f94.jpg",
+      "82f1c79c810c23e930cc7917a54a8839.jpg",
+      "9f789121d600e0f90b6c69bea63665e4.jpg",
+      "7347fafee7ba8ae6d929c5a71aba41bc.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Sakura%20Hime"
+  },
+  {
+    "id": "105",
+    "slug": "navas",
+    "name": "Navas",
+    "description": "Navas, a woman looking to take control of The Abyss. Her goal is to obtain the power of the human who defeated the ultimate devil.",
+    "status": {
+      "str": "40",
+      "agi": "40",
+      "hp": "50",
+      "dex": "50",
+      "int": "90",
+      "sen": "80"
+    },
+    "icon": "b558f7a9043ac1d4e5105723ca3cedca.jpg",
+    "portrait": "94c0034148e4bef2e10b5dd9e6c82b42.png",
+    "background": "2ecf96f5a1631f156fb711929d66e483.jpg",
+    "images": [
+      {
+        "thumbnail": "7feb2beb88c578cc8ea86df9b7e9f7d3.png",
+        "src": "127ae38b072690f7eb1502268f5b22b0.png"
+      },
+      {
+        "thumbnail": "bd314f42a901a3a7735e4cfbd7446de7.png",
+        "src": "307b7ded155325bc84b91e64471e10d3.png"
+      },
+      {
+        "thumbnail": "e6fc640993eb01dd48f10aa78bab3151.png",
+        "src": "3343e61d42a9eef3ea4e634ca1c79d45.png"
+      }
+    ],
+    "screenshots": [
+      "5d0b17d03b8f772a6dd52d971a23b16a.jpg",
+      "41c558678b84b1cfd7a4cc9542ea3b56.jpg",
+      "3b2d68d61a307023a80d3db2e63d6ad1.jpg",
+      "ba750bbb892be0ff148d78031d0e6b9d.jpg",
+      "1590a481630805d90d88412315934fe6.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Navas"
+  },
+  {
+    "id": "106",
+    "slug": "lu",
+    "name": "Lu",
+    "description": "Descendant of the fallen civilization of ancient Altria, he now works under the Karima, the current rulers of Altria. Lu loves food and the intuitive rules of 'survival of the fittest'.",
+    "status": {
+      "str": "70",
+      "agi": "50",
+      "hp": "90",
+      "dex": "30",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "e63a78491c0dda598eeb1bcd1d82a529.jpg",
+    "portrait": "a94be30c3b844b13d8f98cdfe054fe4b.png",
+    "background": "42daf6019202c9b44c64927a74ec185e.jpg",
+    "images": [
+      {
+        "thumbnail": "274daf6fd8828b49258c86efe9a31523.png",
+        "src": "4a0d4b85d08f63a951cd8ffa45844e15.png"
+      },
+      {
+        "thumbnail": "cd397aa16dd4260893df9e4471120bb2.png",
+        "src": "8ff451b1112a5c8d59ff8400d8ad47ec.png"
+      },
+      {
+        "thumbnail": "299bd447dcfccdab5e82bd2ce782bdcd.png",
+        "src": "eb391c77c4d6a2d1c4f56df7cb9b9b75.png"
+      }
+    ],
+    "screenshots": [
+      "6b6ee34eb9ba0bcd8395755baf6d9500.jpg",
+      "7707ca6bb8c2ceb7ad771c12f63c96f1.jpg",
+      "020e4985f15d4ced7eadb80deba46e42.jpg",
+      "34fa503c1b804b608829fbaf2a7070ce.jpg",
+      "8c83a34a59857d11cc5811c53b83ef10.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Lu"
+  },
+  {
+    "id": "107",
+    "slug": "guardianlu",
+    "name": "Guardian Lu",
+    "description": "Guardian of the [Kepeluna], a clan that worships the bull. A man of innocent, easygoing nature, he enjoys protecting those weaker than him.",
+    "status": {
+      "str": "85",
+      "agi": "50",
+      "hp": "75",
+      "dex": "30",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "81fa17638aa15450986763d033496ab0.jpg",
+    "portrait": "88216dab9eba0d86f359380edf11b21c.png",
+    "background": "933d098c291c9a564cdc138c23de06e7.jpg",
+    "images": [
+      {
+        "thumbnail": "952846fa0016ea763661e15c9af287c6.png",
+        "src": "377571a7b1a92156306cd45dcd0376d7.png"
+      },
+      {
+        "thumbnail": "dd6359ba3953dd48d26442200359bfb8.png",
+        "src": "2ae7a560242784dd8d46a9ebab73a2c3.png"
+      },
+      {
+        "thumbnail": "44e0ad022234655f7f4cabc209e3a1fe.png",
+        "src": "eca4253937612ac246f9fb5ce44e2ef6.png"
+      }
+    ],
+    "screenshots": [
+      "ad53d8b7f072e2ade8418b7ec12011c6.jpg",
+      "bfcc03876ad547207911b21223ea8be1.jpg",
+      "76f0d9cfc65a55d7e8e820382106c9b7.jpg",
+      "99e453adcc8b4470623084f990a8ab72.jpg",
+      "ef2f9bff5acb2c5dee0daa9cb2be8683.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Guardian%20Lu"
+  },
+  {
+    "id": "108",
+    "slug": "zaved",
+    "name": "Zaved",
+    "description": "Zaved was an assistant to the alchemist Karin before he came to Granado Espada at the request of Teresia. After he was arrival he has left to venture Porto Bello together with [Leng].",
+    "status": {
+      "str": "35",
+      "agi": "50",
+      "hp": "55",
+      "dex": "50",
+      "int": "85",
+      "sen": "65"
+    },
+    "icon": "95094864f2dcab87d750c10366f79c24.jpg",
+    "portrait": "4335624f489ab72755a8cfa1a2dd323c.png",
+    "background": "1c02936b93cef46c051622598ca8a0a0.jpg",
+    "images": [
+      {
+        "thumbnail": "28b89372cf675621b7741fd5cb55ccbc.png",
+        "src": "dbfc6b8f174667611102b551518368db.png"
+      },
+      {
+        "thumbnail": "4e91cc608314b0a3cab2bd29d4c0c098.png",
+        "src": "d2a7022859938d6fd28c7a6b57feb985.png"
+      },
+      {
+        "thumbnail": "90b69a8aad93e812fa8995ad3ca21fe9.png",
+        "src": "aa0ee32dffe206d57448f0dbd3ae5118.png"
+      }
+    ],
+    "screenshots": [
+      "4b934c7bc4db4f2206a1dff118bbab8d.jpg",
+      "d612ab7ff751b3423e447bcf79bca275.jpg",
+      "d38757ab3fdc5c4f3a76890147683571.jpg",
+      "14af441484233afdbb58efe3bfe9a2cf.jpg",
+      "4f92c5d99faaf632badddd070f3774f9.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Zaved"
+  },
+  {
+    "id": "109",
+    "slug": "miha",
+    "name": "Miha",
+    "description": "Descendant of the Taoist fox tribe from Mount Moonlight. Speaking to an old visitor of Godmother's made him curious about the outside world. Now in the New World, he's gathering experience as a mercenary.",
+    "status": {
+      "str": "30",
+      "agi": "70",
+      "hp": "60",
+      "dex": "50",
+      "int": "80",
+      "sen": "50"
+    },
+    "icon": "eef7fe9b895d3aaed49419b3eede1f5c.jpg",
+    "portrait": "5c5b08349722194f1f0ebc87f2c31c02.png",
+    "background": "99c899e163a702316188cd4157064e97.jpg",
+    "images": [
+      {
+        "thumbnail": "4c308bc281528f623476fddb17258e73.png",
+        "src": "d189ab19443d26d3652745d5b7c9634d.png"
+      },
+      {
+        "thumbnail": "cd4c64edb48f9ef96f4133f36bdcbecc.png",
+        "src": "2c9440edf5cc58ef4d999cf66506bd2e.png"
+      },
+      {
+        "thumbnail": "f670b8ec7148ebfe089c49a555f3f2ce.png",
+        "src": "fbba99107e3b0dcf3d3e45b1a8aacdf4.png"
+      }
+    ],
+    "screenshots": [
+      "0cca2e4a217d65d9605fbb110f54581b.jpg",
+      "1760d3957e89b0cc191e661d667853bd.jpg",
+      "ca35a91e2c83dd6925df1dc28f980d9c.jpg",
+      "ef9d8247e9bffa22450724fbcdd2d551.jpg",
+      "0d1c1e94e7ffe8ec98ba3fb482acbb31.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Miha"
+  },
+  {
+    "id": "110",
+    "slug": "miho",
+    "name": "Miho",
+    "description": "Descendant of the Taoist fox tribe from Mount Moonlight. Headed West to find her escaped brother Miha and found herself in The Red Hat, the place where all knowledge gathers. It is unknown what will become of Miha once Miho finds him.",
+    "status": {
+      "str": "30",
+      "agi": "70",
+      "hp": "50",
+      "dex": "50",
+      "int": "90",
+      "sen": "50"
+    },
+    "icon": "121a63c34be253696f8b735b63935cfa.jpg",
+    "portrait": "4dd7780d2c6e1044fb33d2c6d42ce139.png",
+    "background": "92fd8640676961d3f05fb4efdac3f336.jpg",
+    "images": [
+      {
+        "thumbnail": "20f79e0f0d55850656029c700d42bff2.png",
+        "src": "9b35ea37a62f304faf8a0d0015ada0b6.png"
+      },
+      {
+        "thumbnail": "e3d321baa3c619d912f68d5048977c11.png",
+        "src": "04b67d7464f3f409158708cd89827f27.png"
+      },
+      {
+        "thumbnail": "084e3c42dae111c6f51d3faa5f2514d1.png",
+        "src": "a0e4746e77b005b08f9293569825174f.png"
+      }
+    ],
+    "screenshots": [
+      "4784eae40d027fbfef710cfba8aa1fc7.jpg",
+      "651fa23e0c50e42eda7158f126064b5d.jpg",
+      "ecfc6e375f3c3caeb7ab27cf5dc8c552.jpg",
+      "5f3baeeab1459cc85320b9fb8b1f0ba7.jpg",
+      "c6f25c9d03a002abc6b0440545ad9540.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Miho"
+  },
+  {
+    "id": "111",
+    "slug": "sergeantbarrol",
+    "name": "Sergeant Barrol",
+    "description": "Sergeant of the Bristia armed forces. It may look like all he does is wander around drunk, but Barrol continues to perform all of his duties in the army. He now seems ready to turn a new leaf ahead of the war between Bristia and Vespanola.",
+    "status": {
+      "str": "40",
+      "agi": "60",
+      "hp": "60",
+      "dex": "90",
+      "int": "50",
+      "sen": "40"
+    },
+    "icon": "30b3ea99ea32052f1efaa1d8ab9348f8.jpg",
+    "portrait": "5e173ef439f89ae51e7942772f28a162.png",
+    "background": "ecf4219a8cf1686eea9040fee2039d34.jpg",
+    "images": [
+      {
+        "thumbnail": "b7213083879318a3df1119e4b3d96453.png",
+        "src": "180d4b772248f08bd3d36cd2aaf212d4.png"
+      },
+      {
+        "thumbnail": "8534ff79d1b44c678955604c5569b165.png",
+        "src": "453e9964d8ff5e633be4bc6381252703.png"
+      },
+      {
+        "thumbnail": "046d56def1101f7f459f90b6f6719325.png",
+        "src": "c871f8a0d08bdc3939a0f028f8e2b3a2.png"
+      }
+    ],
+    "screenshots": [
+      "ee67993875d95eae19160923ac51c730.jpg",
+      "6cce43b76aaa183d4ef07cf52f64267c.jpg",
+      "70d3b4114edd479b3b73f66625ea0def.jpg",
+      "452994f120a9ac8f1ef87caf14ea1320.jpg",
+      "c995b9e4bccf4318c4eb2c3257a13090.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Sergeant%20Barrol"
+  },
+  {
+    "id": "112",
+    "slug": "cassandra",
+    "name": "Cassandra",
+    "description": "Leader of the forces guarding Quiritatio. The arrival of Orden and the pioneers to Quiritatio opened her eyes to the concept of emotions and led her to the outside world.",
+    "status": {
+      "str": "80",
+      "agi": "60",
+      "hp": "80",
+      "dex": "50",
+      "int": "40",
+      "sen": "30"
+    },
+    "icon": "9a3e1e8556fccc9965026b7233bc1077.jpg",
+    "portrait": "e8d00813f1e4898259c4347fed77fc5e.png",
+    "background": "387827fbb2bf7eec52b583643c4f11ef.jpg",
+    "images": [
+      {
+        "thumbnail": "29e46048191e85d5ba2598cb16a3ab25.png",
+        "src": "e032b3ad8d6273d39d83e50fca9bb3bd.png"
+      },
+      {
+        "thumbnail": "bdc53cd048b2033d1f18ab00f2561e65.png",
+        "src": "9738f92b7cb370ceab9e3ebcbeaf2563.png"
+      },
+      {
+        "thumbnail": "eae82a8efdb2e0726638660e2c30d88c.png",
+        "src": "58c53b1a0012faec72c4af750f3674fd.png"
+      }
+    ],
+    "screenshots": [
+      "67ed64fc8ad5ddb4455ac43c790c04e2.jpg",
+      "2ba40decf70131911ab12e60a2509c6f.jpg",
+      "c4442c7dae8c772848d72bc6b0b06061.jpg",
+      "85a31038343fc052f7d53c5ff6786abb.jpg",
+      "be7b763f0c535320690d9290d13aa817.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Cassandra"
+  },
+  {
+    "id": "113",
+    "slug": "moon",
+    "name": "Moon",
+    "description": "Burlon carries on the will of the Waltz brothers. He heads for the New World Altria in search of the Sainquis Sisters, carrying with him his Pocket Chain Watch and a rifle he received from the Waltz brothers.",
+    "status": {
+      "str": "30",
+      "agi": "50",
+      "hp": "75",
+      "dex": "90",
+      "int": "50",
+      "sen": "50"
+    },
+    "icon": "759ba95760f444fdda8080fab7ff52a2.jpg",
+    "portrait": "8af50f97d2bc3d039e38895f8fb82bc8.png",
+    "background": "d6cf07394b56651f0b81a4ba412a0ab2.jpg",
+    "images": [
+      {
+        "thumbnail": "50366b24ee570180ccef6fa0c265dbd2.png",
+        "src": "affe3a50ab4c9f64a7dabb4f57dbe5f5.png"
+      },
+      {
+        "thumbnail": "609d0c680d664ba4a380d2027579565c.png",
+        "src": "aac370137c8b8041601f4044edc3e37e.png"
+      },
+      {
+        "thumbnail": "cb3c7ea2698e264df306cdf718b15960.png",
+        "src": "e56736674ff83486c90a60839a4897fc.png"
+      }
+    ],
+    "screenshots": [
+      "bd2ef3ebfc3d949e3510a1a0c4db0091.jpg",
+      "3613bc423eb2920209afe824c1330fd7.jpg",
+      "0cd1b74fb1caf059fd5d92eaca0989dc.jpg",
+      "c8a4ea6567498aadf7becb98befbd8ec.jpg",
+      "a4ddd2bda7807904fdee42588d9432b8.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Moon"
+  },
+  {
+    "id": "114",
+    "slug": "nike",
+    "name": "Nike",
+    "description": "The last of the Holy Knights defending the Twisted Armonia, she fights against the Abyss Army fueled by her anger against the Abyss.",
+    "status": {
+      "str": "85",
+      "agi": "55",
+      "hp": "75",
+      "dex": "30",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "45b2e1797bd5c38b9f3176eb09ba9848.jpg",
+    "portrait": "e654eb4122cfd6767cd27dac781aed81.png",
+    "background": "9d51ac44f50934d0cddf8abd1b50c6c4.jpg",
+    "images": [
+      {
+        "thumbnail": "17bdce6b298c2b7f062de6302cf891d9.png",
+        "src": "08afae1666cc93c6be6f5f4366d50147.png"
+      },
+      {
+        "thumbnail": "910f42b43abae6227540ef638e8adcec.png",
+        "src": "cf16b6ee47721c83a58c23e349be9bbd.png"
+      },
+      {
+        "thumbnail": "bdfd93143c40fe3d6972f527d08d72bb.png",
+        "src": "e552764f54a2d48b9667ecf6a0251402.png"
+      }
+    ],
+    "screenshots": [
+      "05448d0cb2216b34ccb689fb620e94b1.jpg",
+      "beadf715f13012807f837ca151a123a0.jpg",
+      "94c220f1ac9cd838d5d478cc53d01ed2.jpg",
+      "3a05b0eb69169ff51a373b9463b05789.jpg",
+      "185fd8adb475890411ba24325848b965.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Nike"
+  },
+  {
+    "id": "115",
+    "slug": "archbishop",
+    "name": "Archbishop",
+    "description": "The last archbishop of the distorted Armonia. He is in a hurry to prevent the end of the world and to save its people.",
+    "status": {
+      "str": "40",
+      "agi": "50",
+      "hp": "70",
+      "dex": "50",
+      "int": "90",
+      "sen": "40"
+    },
+    "icon": "4bec525d675bbe3b1d7d31dce4f29980.jpg",
+    "portrait": "029d222c93af80faccce70edf7a36ac7.png",
+    "background": "bcdb5cd991e52b25cf779f1f8f2954c8.jpg",
+    "images": [
+      {
+        "thumbnail": "893fd3578440a9b021e011864c6f53c2.png",
+        "src": "44c871827bca993bea44ec7dfadc9aa2.png"
+      },
+      {
+        "thumbnail": "38ef8c55198e123d5a3e0e13ee1a57ac.png",
+        "src": "1da2f76497650eca9991be81666e139a.png"
+      },
+      {
+        "thumbnail": "fa5a1846631309594608cc2a03ea29a7.png",
+        "src": "5d877fec7fb849201ca9f319beeaa15a.png"
+      }
+    ],
+    "screenshots": [
+      "bda03597305d46e39b42f8af906bbd11.jpg",
+      "6d307ba2fb4dc33ee58bdf9574e4abdf.jpg",
+      "702a90a5fe4c0e0da255afbccf752da4.jpg",
+      "b9f9deb04b226bd926fbd6ef8ab88f31.jpg",
+      "465e27703b156381d5fbfe7a708f3090.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Archbishop"
+  },
+  {
+    "id": "116",
+    "slug": "ornella",
+    "name": "Ornella",
+    "description": "The savior of Twisted Armonia. A man with the heart of gold who is watched over by god. He sets an example for people to follow and supports those around him in times of need. He can be found praying in the Cathedral.",
+    "status": {
+      "str": "30",
+      "agi": "40",
+      "hp": "60",
+      "dex": "50",
+      "int": "90",
+      "sen": "70"
+    },
+    "icon": "3d3e0a9b66504faecd179d6633245815.jpg",
+    "portrait": "84beb9d0ddcb8babcaead9f17ec1522d.png",
+    "background": "117e44b852e3f0ac455ebfcfef1aa4ae.jpg",
+    "images": [
+      {
+        "thumbnail": "2b8c3e37aa35fb2d0a1afc2cc19971fc.png",
+        "src": "d984ffb08da56e14c492ea65701be2de.png"
+      },
+      {
+        "thumbnail": "e7198b0d35b345674c6dcb742df80bee.png",
+        "src": "7a2352ad296cd2b38c0aa55077425ef5.png"
+      },
+      {
+        "thumbnail": "8b71ef95689dfa6e8fe5219e19096d4a.png",
+        "src": "1969af5e23b13f1b2660e21eacb105b2.png"
+      }
+    ],
+    "screenshots": [
+      "1d7c48b05ced5821266c0f91e29b870f.jpg",
+      "0fa80e641ba87a3a1e97046f3818be90.jpg",
+      "cd98992b571fd9b4da3fd2e5a8923df1.jpg",
+      "fa37caef4e228467c7209dba1b33c2cd.jpg",
+      "52e70d339d6fd8d717e7cfde41199237.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Ornella"
+  },
+  {
+    "id": "117",
+    "slug": "charlotte",
+    "name": "Charlotte",
+    "description": "One of the masters of the Five Elements who was also known as the Star Arbiter, the Master of Fire. She sought out to live amongst the pioneers, abandoing all she had inherited from the ancient god in order to experience the world.",
+    "status": {
+      "str": "30",
+      "agi": "70",
+      "hp": "70",
+      "dex": "40",
+      "int": "85",
+      "sen": "50"
+    },
+    "icon": "8375c09e098d70e43e57d12d16f99d48.png",
+    "portrait": "f1966d0296a231a9ddc2e4768fb85b35.png",
+    "background": "cbea141f199877717f29c8b734c3771d.jpg",
+    "images": [
+      {
+        "thumbnail": "fe6885cddc0e6f173ef3e34178a91b14.png",
+        "src": "42b24886f579a1cb8207e889ac054130.png"
+      },
+      {
+        "thumbnail": "7a811b20fb9b5acacab7a797ed2bd799.png",
+        "src": "fd109ec2a2e82ea0f132eed39ca58122.png"
+      },
+      {
+        "thumbnail": "72a63d4e40c04f915eca06fd15489971.png",
+        "src": "e0b5e63021a9992d1b6a38af7e546bb3.png"
+      }
+    ],
+    "screenshots": [
+      "8b73f859819db8cc50daf8db3e563251.jpg",
+      "ce2040fed2b87229be77da8fe6895745.jpg",
+      "fa88cd05c8ad56e1c9d87edec9a585fe.jpg",
+      "247304618a35ba1a24fbfb75494c6aa6.jpg",
+      "3c7be37a7ff7a7540710120608cf3049.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Charlotte"
+  },
+  {
+    "id": "118",
+    "slug": "canna",
+    "name": "Canna",
+    "description": "The reflected image of the Savior seen through the Abyss Mirror, fueled by only its own desires and hatred. Despite this, it does not do anything that goes beyond the boundaries of morality.",
+    "status": {
+      "str": "30",
+      "agi": "40",
+      "hp": "60",
+      "dex": "50",
+      "int": "95",
+      "sen": "70"
+    },
+    "icon": "d1b28e55432439c7a521c0a914824440.jpg",
+    "portrait": "f40743de67914a2a8856303a92c84a21.png",
+    "background": "e256b6adefa843133a8ce945c0b32ac5.jpg",
+    "images": [
+      {
+        "thumbnail": "fcc396e166dbd4e7f0bd00e119ab183c.png",
+        "src": "de82b81ee7b5584d43faff7e7de101c3.png"
+      }
+    ],
+    "screenshots": [
+      "67ce6168217d3599a7f8522d678e104f.jpg",
+      "c7c602d0062c7a1e9fac9b0de449bae2.jpg",
+      "aaed65c719888549f27e634ac74fb5e6.jpg",
+      "ae6dd75d756f9a0dd5e4133f6426fd47.jpg",
+      "484a036d3a4658fff4a37b2d8798b6e7.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Canna"
+  },
+  {
+    "id": "119",
+    "slug": "cadetromina",
+    "name": "Cadet Romina",
+    "description": "Romina when she was a cadet. A model-cadet to both her peers and juniors at the academy. She tends to take a more supportive role as a cadet rather than fight in the forefront of the battle.",
+    "status": {
+      "str": "40",
+      "agi": "60",
+      "hp": "60",
+      "dex": "85",
+      "int": "40",
+      "sen": "55"
+    },
+    "icon": "5163aee85b1e6157cb82779a92b03740.jpg",
+    "portrait": "f4bbd5487085588d5fa2628f6c1e5463.png",
+    "background": "9e0f04afdb301170645f48f59478a0e4.jpg",
+    "images": [
+      {
+        "thumbnail": "922e1f6ea5a191f47712a4e40f76de37.png",
+        "src": "ca399622ee5832b87e5bd53ae374757d.png"
+      },
+      {
+        "thumbnail": "648bd0e4932fb81eac3eac4f976193a7.png",
+        "src": "97e728225278588cec6a1c4600f0f9c5.png"
+      },
+      {
+        "thumbnail": "7c384c0d1edd634c1d91e2dce1c359a1.png",
+        "src": "53ba278929c79574f7e2d1f0926aa9a2.png"
+      }
+    ],
+    "screenshots": [
+      "57cce16dd6b18dd657a05ac51a36edaf.jpg",
+      "9e6a82bae92e270879e7b297a8567b30.jpg",
+      "da1a010e696e23bf95f34f3c5abff524.jpg",
+      "5539dd8b5c0d3d478e7dc06356ae2390.jpg",
+      "0ca15baaac902a123873c5a482279895.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Cadet%20Romina"
+  },
+  {
+    "id": "120",
+    "slug": "hildegard",
+    "name": "Hildegard",
+    "description": "Archbishop who has returned to position due to Archbishop Vega going missing. She is known to rule with an iron-fist and hence feared by the members of the church. Despite her reputation, she is a righteous woman who protects the weak.",
+    "status": {
+      "str": "30",
+      "agi": "50",
+      "hp": "70",
+      "dex": "50",
+      "int": "90",
+      "sen": "50"
+    },
+    "icon": "b328a148e7a904d75065cc5cb59b33a9.png",
+    "portrait": "543cecbb9601494f2f046f5e0125b640.png",
+    "background": "3a308c7b674828cb035904a4ff34b00e.jpg",
+    "images": [
+      {
+        "thumbnail": "4ecf1acda0a81431f161972e4c11035a.png",
+        "src": "d95e728f385160f121eba9b31ce59ff3.png"
+      },
+      {
+        "thumbnail": "9efa2dc8cded03d7a863d3923000df16.png",
+        "src": "f295ab3b0f3f8187152e73108a1ff2d0.png"
+      },
+      {
+        "thumbnail": "43b68fc86d14c3504cdd26f4b9cf09ab.png",
+        "src": "087a408c200e7d80c854bb1055ff1e08.png"
+      }
+    ],
+    "screenshots": [
+      "4283c69b331d50f8bec805a99a460082.jpg",
+      "37591b1b6da4cafa275d68d8fc180713.jpg",
+      "1501b898259db719780fad1648480361.jpg",
+      "1f703b272b4944b2814e6f1390600e74.jpg",
+      "a778ba4a97b3c1a47e7cd3fc82204f34.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Hildegard"
+  },
+  {
+    "id": "121",
+    "slug": "freya",
+    "name": "Freya",
+    "description": "The queen of Valkyrie, who once ruled Valkyries. It is said that she became a human due to some sort of incident and lost most of her memory and power.",
+    "status": {
+      "str": "80",
+      "agi": "70",
+      "hp": "60",
+      "dex": "50",
+      "int": "40",
+      "sen": "40"
+    },
+    "icon": "04f253933ccde4810846c692bbf897ec.jpg",
+    "portrait": "4ef2ca2d0aacf75a7c3392d347a4634a.png",
+    "background": "cd0bf9a163c74c53846930cf769eb49f.jpg",
+    "images": [
+      {
+        "thumbnail": "f36bed475e9c800d5aceb2c8459975ff.png",
+        "src": "6e16e64a7d5749a0391a9d8980a219e5.png"
+      },
+      {
+        "thumbnail": "d6197311ff5c9a8bcfd66dfcb5414695.png",
+        "src": "90f0a319019f88d80be96cf5b4ff437b.png"
+      },
+      {
+        "thumbnail": "17cc27da9756627047061a514b300ef7.png",
+        "src": "96009b84b8b03239c1ebacd305ee378a.png"
+      }
+    ],
+    "screenshots": [
+      "6a655bbebe69293a1d8d5305a29b12de.jpg",
+      "22dd538d301c267fe9fa57e13b976555.jpg",
+      "16164571272bebb2a51daa2871da1c59.jpg",
+      "bd9931b57813bf6d7a2dc4e291297836.jpg",
+      "0babbd98d8d0b85f9e8b4e8e940ff6b8.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Freya"
+  },
+  {
+    "id": "122",
+    "slug": "resistancejd",
+    "name": "Resistance JD",
+    "description": "JD loses everything by the hands of the Blood Navy after the defeat in the battle for Bristia's independence. He establishes a resistance group with Caisse and others who had scattered after the last battle. However, the resistance eventually breaks in half with each leader having their own agenda. JD prepares to emancipate Bristia in his way with his comrades.",
+    "status": {
+      "str": "85",
+      "agi": "65",
+      "hp": "74",
+      "dex": "45",
+      "int": "40",
+      "sen": "40"
+    },
+    "icon": "94423f03e9343ef3f0bd785cbd8bec08.jpg",
+    "portrait": "da2a36c164e477d3254e31a984a81415.png",
+    "background": "34103078c136b79701c750f96b18f5e2.jpg",
+    "images": [
+      {
+        "thumbnail": "dae756868dc5ff47adddea41904e780c.png",
+        "src": "8d536a56fe5188216b3abe21b74e9674.png"
+      },
+      {
+        "thumbnail": "3dcd35cec5565851381df31a1452ae25.png",
+        "src": "1d008405717c6b157b6d643051a58414.png"
+      }
+    ],
+    "screenshots": [
+      "343ff994dde066bb39af7e54628ff4e6.jpg",
+      "32ce932bf2e54a8665eb384f74c2ef53.jpg",
+      "5e7096447ec40089186ac578a1f46bf9.jpg",
+      "9bd25aaf8c82fb0bfdb6570e67e9f006.jpg",
+      "d45f34afbbf382e05bcfcb82de3197a2.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Resistance%20JD"
+  },
+  {
+    "id": "123",
+    "slug": "resistancecaisse",
+    "name": "Resistance Caisse",
+    "description": "After a crushing defeat in a battle for Bristia's independence, Caisse's support base has been drastically weakened. Caisse tries desperately to develop technology after the war, while JD has rather different opinions concerning independence. The two determine to go their separate ways.",
+    "status": {
+      "str": "35",
+      "agi": "80",
+      "hp": "40",
+      "dex": "75",
+      "int": "60",
+      "sen": "50"
+    },
+    "icon": "82039670b26412fea55457e85deaa103.jpg",
+    "portrait": "7244cb9040d83731a99b87c511404772.png",
+    "background": "89d3584d127967e825ed97f2d7ad055e.jpg",
+    "images": [
+      {
+        "thumbnail": "88883ae8b20712ee4f2277fdd63093ea.png",
+        "src": "1732d1a377e7f4cb38c407634c63e156.png"
+      },
+      {
+        "thumbnail": "7cf1a116a1c82931b068ce57213ac66b.png",
+        "src": "972f919a982d764a3797b9d89ebb54f6.png"
+      }
+    ],
+    "screenshots": [
+      "bf366d81780a496773e9e45fff6dad11.jpg",
+      "dbf95c4478839acf1fbb81bd09e055d1.jpg",
+      "09b9caca8beed4350a9299458eb27c19.jpg",
+      "8683521327f45996114d6d2ff968467e.jpg",
+      "47930fc432a7edff395810654ba4e9ed.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Resistance%20Caisse"
+  },
+  {
+    "id": "124",
+    "slug": "resistanceheyran",
+    "name": "Resistance Heyran",
+    "description": "She lost everything she had on the last battle of the Independence War. Her country, peers, and herself. She became one of JD’s hawks when Resistance got divided and now is sustaining herself with the great cause of independence and personal vengeance assassinating main figures of Blood Navy.",
+    "status": {
+      "str": "80",
+      "agi": "70",
+      "hp": "65",
+      "dex": "50",
+      "int": "40",
+      "sen": "40"
+    },
+    "icon": "978ebd0ef583a424bb61ea9a38532807.jpg",
+    "portrait": "f89108cd6f8a2de0d73164d971a427b1.png",
+    "background": "8f2b087ee3f6b616a107e805b0c8afbd.jpg",
+    "images": [
+      {
+        "thumbnail": "6341485ef67d43ef48936033e71f33b8.png",
+        "src": "c4b998b0f977ce08fc707375e8b05b18.png"
+      },
+      {
+        "thumbnail": "8afa80829b15f689db42ecdc0794a8f1.png",
+        "src": "89eba4a74a000a67bebff33dbed2f8a3.png"
+      }
+    ],
+    "screenshots": [
+      "5ab4002f7ca57891c0f952e72b0452de.jpg",
+      "8d476fd1cc6d1407605b7fa9f5e89354.jpg",
+      "b39fb0dfbc69df23c816b10480b3992c.jpg",
+      "554ba8503468856277f870cdc6398e03.jpg",
+      "f6cfb276b958ef7286aa53ca01fc9002.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Resistance%20Heyran"
+  },
+  {
+    "id": "125",
+    "slug": "chungha",
+    "name": "Chung Ha",
+    "description": "A centurion of a special army in Coria. She was placed in the army by the White Dragon after losing her family by the hands of the bandits.\nAt start, she was an ordinary person. But one day, she started to hear voices and use powers of the vindictive ghosts. She made herself known by using the power.\nDue to an unexpected truth heard in battle, she sets out to track the White Dragon to the new continent...",
+    "status": {
+      "str": "70",
+      "agi": "85",
+      "hp": "60",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "29fbd612d93ac59894dc1c280128c30b.jpg",
+    "portrait": "b18dd66eaeb8ac74043e9fcfb5922041.png",
+    "background": "017fbe93aaaa8dc6bea362e9fda54632.jpg",
+    "images": [
+      {
+        "thumbnail": "817a6ee436183a3f18bd65e7b2907ef6.png",
+        "src": "0c2f149080c2f90e4ad1783867f502b7.png"
+      },
+      {
+        "thumbnail": "d47abf3ba8abb7c998a481329497f9e2.png",
+        "src": "f2162510bf36c8efe690c84437b7cce4.png"
+      }
+    ],
+    "screenshots": [
+      "0e8e5d9811ffec32a20202ce4d5d9316.jpg",
+      "8fb122be02c24db21c1695578995ed94.jpg",
+      "4f705b19605c7ef4fdbddc9ca0748d16.jpg",
+      "4f156c3b6fb062f4eaecfe5a108ea581.jpg",
+      "f2bfbf74fdbdbe6c7ed1a2b9406b3538.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Chung%20Ha"
+  },
+  {
+    "id": "126",
+    "slug": "tom",
+    "name": "Tom",
+    "description": "A surgeon of Burlon who saved a professional killer in the past and medically takes care of the people abandoned in the present. He used to work in the old-continent but heads his way to the new continent after a call from Moon. Sometimes, he seems to recollect someone along with the past.",
+    "status": {
+      "str": "80",
+      "agi": "65",
+      "hp": "70",
+      "dex": "45",
+      "int": "45",
+      "sen": "40"
+    },
+    "icon": "4e0e35ae0c8ed4cc8434b86d868a5047.jpg",
+    "portrait": "c25d8faea7f905f49d681cc33b85d6dd.png",
+    "background": "e81df79cfa9443dfdc72b0c573ffad3a.jpg",
+    "images": [
+      {
+        "thumbnail": "fca79f5333beae18b0744e7447ac2aaa.png",
+        "src": "5f422fcb5c8eea45afc696e8e7d76cae.png"
+      },
+      {
+        "thumbnail": "3e99057e4fc0502c55f5ae66866faa35.png",
+        "src": "9f57a9351c746e9b786c2ca8a2b80f75.png"
+      },
+      {
+        "thumbnail": "be230e515d41c9a3541e162620a3f6b9.png",
+        "src": "701481b3cd5c6efb7e3fda89c4f749eb.png"
+      }
+    ],
+    "screenshots": [
+      "e69fd12e4ca95dd8541013f8975c2e00.jpg",
+      "cb20758555983fbdce8a2a2faf107b9b.jpg",
+      "77490478cb45f14e3e4d6a26cb088bb5.jpg",
+      "2bdbf78302a3e5eade77b764193c7408.jpg",
+      "a641e4104f5219297f29e5a882ef820f.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Tom"
+  },
+  {
+    "id": "127",
+    "slug": "christina",
+    "name": "Christina",
+    "description": "Commander of Vespanola Special Force. She is sent to the chanceful land of Ailis with the commander of the legion, Valdoro, for inspection. However, it turns out her attention is all into exploring the munitions factory instead of the inspection...",
+    "status": {
+      "str": "50",
+      "agi": "60",
+      "hp": "60",
+      "dex": "80",
+      "int": "50",
+      "sen": "40"
+    },
+    "icon": "0bd8ba6871ad968f2309d0d30bbb0bbf.jpg",
+    "portrait": "b9b552d7d182774904d7a20ce302072c.png",
+    "background": "281735f6cb181567a7020d26919a31aa.jpg",
+    "images": [
+      {
+        "thumbnail": "19aeac99cbe8bf1a48735fd17d987a65.png",
+        "src": "6acf6dad12d64081a53f5fc4958fa80d.png"
+      },
+      {
+        "thumbnail": "0077d60589318676d7868397d961dc3a.png",
+        "src": "80ff6be94d165afac51be5001c288dcb.png"
+      },
+      {
+        "thumbnail": "da38572e9e6cc76fb55cd10d16e614ec.png",
+        "src": "fb1da54318bde53a50870927f7ce2260.png"
+      }
+    ],
+    "screenshots": [
+      "874da77e1b59fbbc30d2267b4a03e052.jpg",
+      "e1e49c8d872ffd10eeb6bd6a6cb14d05.jpg",
+      "08d006fe6b474188337bd738969244fe.jpg",
+      "49647bc43b196b6904aed741bcc0fd89.jpg",
+      "80ea121ebd0f14647b2566a9c63d4744.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Christina"
+  },
+  {
+    "id": "128",
+    "slug": "guardianania",
+    "name": "Guardian Ania",
+    "description": "A guardian who came back to Errac after foreseeing the future of Errac from Quiritatio, the nexus of the ancient knowledge. The guardian is focused on defending the Errac from upcoming disaster.",
+    "status": {
+      "str": "60",
+      "agi": "85",
+      "hp": "65",
+      "dex": "40",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "a0f6a1f4e02aa75ddd31f1c943b10def.png",
+    "portrait": "2aed8bb4aecae13f7ff1c7f91775f38f.png",
+    "background": "3c6f00c084f58fbb4824c7ea745a271a.jpg",
+    "images": [
+      {
+        "thumbnail": "6b8dec2566889da4a660a3b9278af103.png",
+        "src": "348e8e3d1d892bca5a391c59936de940.png"
+      },
+      {
+        "thumbnail": "10cf4a85f1a0d67ea44358d842a01047.png",
+        "src": "4de6772df4d9835663ceae6c7166f5ae.png"
+      },
+      {
+        "thumbnail": "7ffa0c8cfb5c1d30e67ce6592ff8ad90.png",
+        "src": "526d909f5b5244b81463341d7d81deac.png"
+      }
+    ],
+    "screenshots": [
+      "58a366198b8311932c94b36b3e00d5c8.jpg",
+      "042cb2b1b6330196dc85d592e5448c7c.jpg",
+      "3152a97c51ff3b2c80d2e86e2c01e8ae.jpg",
+      "e2358498601bae3b2d90f2c2576245e2.jpg",
+      "0a745361c5f6083ae14f801e81aed68c.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Guardian%20Ania"
+  },
+  {
+    "id": "129",
+    "slug": "guardiannar",
+    "name": "Guardian Nar",
+    "description": "Guardian Nar, who bears the martial arts of the Castilla tribe learnt from Quiritatio, is committed to protecting Errac so that no one else will experience the disaster and the pain he has suffered due to [Fire Rhodolite].",
+    "status": {
+      "str": "80",
+      "agi": "40",
+      "hp": "100",
+      "dex": "40",
+      "int": "30",
+      "sen": "50"
+    },
+    "icon": "15fb799cb7880434764bb0b51d438cb1.png",
+    "portrait": "e12bddbdb23bb19bf47dc9673f19f965.png",
+    "background": "5b3cdbc15f3302fe5734228b285ac872.jpg",
+    "images": [
+      {
+        "thumbnail": "6db69e6034b9c123674346a80ae4d762.png",
+        "src": "70536fda267057cfd6ea06a78d37b88d.png"
+      },
+      {
+        "thumbnail": "e66d26d34db2e1bc974d23b3d3d6db0b.png",
+        "src": "af1d6666fe4f772871ee2b924e97e193.png"
+      },
+      {
+        "thumbnail": "d470438d8e2f016902d0f19ab2123052.png",
+        "src": "4f0c07bf29b0bd3e061759538b082534.png"
+      }
+    ],
+    "screenshots": [
+      "88361970d1f9b4cf988a50ae30d65893.jpg",
+      "f202c35d5100a3bb59935e2fe51596a0.jpg",
+      "c122fed921cdfbc62b2f28e8eca57de8.jpg",
+      "83bfaeb7f6d98ec0db2851e8ffa2d32a.jpg",
+      "72c7db327b4a0ce1572906bbe8fe354a.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Guardian%20Nar"
+  },
+  {
+    "id": "130",
+    "slug": "violet",
+    "name": "Violet",
+    "description": "Successor of the family renowned throughout the continent, the Valerons. She was adopted by Arpe Valeron, who recognized her talent during her time at the orphanage. They say that she inherits Valeron's esoterica but she actually does not seem to be much interested in it...",
+    "status": {
+      "str": "80",
+      "agi": "40",
+      "hp": "80",
+      "dex": "50",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "b06d5066929be0f35d0cc0fb6d8fcb1f.png",
+    "portrait": "6b6008def9fd5ff1d979e40a73c9b61d.png",
+    "background": "36776b6890fbc4f575e77f28b93c02ec.jpg",
+    "images": [
+      {
+        "thumbnail": "51fa78946d83aba9ce7ca17ce3b005fe.png",
+        "src": "e6b744ccaa70a9e202a20ce1e3f3c109.png"
+      },
+      {
+        "thumbnail": "d91956547a01ec1c153f7e3b66ea5f2c.png",
+        "src": "ce7b967fd939041ea1f47fe3def1b261.png"
+      },
+      {
+        "thumbnail": "1fc4689aad402f5686e1dc2257ac6106.png",
+        "src": "f7e99709c658017e19d4acd901fbaa3f.png"
+      }
+    ],
+    "screenshots": [
+      "cb24236873cec4cac88b62fdaed533e9.jpg",
+      "57eececcd62a811d482de69b081d4b16.jpg",
+      "8d88af2184c4b564beb9da751eff7569.jpg",
+      "1f5f881e93409931bd0eb18e9cebef64.jpg",
+      "350cb0a105883c4335cece6e6b1d955a.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Violet"
+  },
+  {
+    "id": "131",
+    "slug": "fenrir",
+    "name": "Fenrir",
+    "description": "A member of [Centrion Wolf], Special Knights of the Eastern Front in Illier. Desiring for peace that will come one day, she is burning with will to protecting her country.",
+    "status": {
+      "str": "85",
+      "agi": "40",
+      "hp": "80",
+      "dex": "50",
+      "int": "40",
+      "sen": "50"
+    },
+    "icon": "91fe39df091b11d7d75577f4dfc075c2.png",
+    "portrait": "a1a3513a499abc63d09338ebaa301989.png",
+    "background": "1161a5742f30dfe03b6ccc103f4c1b55.jpg",
+    "images": [
+      {
+        "thumbnail": "4204544a02c6ec25469c60e7b22428c1.png",
+        "src": "c68b99be0bd9c5e3510d2f891bd7e9ec.png"
+      },
+      {
+        "thumbnail": "00ecd7aeab05b9225033577c84386da2.png",
+        "src": "f818a05af5a869dac4c2b35e066b372d.png"
+      },
+      {
+        "thumbnail": "eba34188141448f27002b82a029e76a3.png",
+        "src": "001240e511bfc60f073a8227fe58b7be.png"
+      }
+    ],
+    "screenshots": [
+      "0fda512ad3c322f63bee211aaafdb0e6.jpg",
+      "63bc3f588a4b35464f163121a26045aa.jpg",
+      "c2a6614e58b33a777a4ca9b97bba52f2.jpg",
+      "9b54a634c56f35259bfe94b39941a4a0.jpg",
+      "5e117cd8a3bf2357fffb17e7f9b9ba43.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Fenrir"
+  },
+  {
+    "id": "132",
+    "slug": "sharonthesage",
+    "name": "Sharon the Sage",
+    "description": "After Count Cortes' death, Sharon asked for compensation for her service. However, the count's heir rejected Sharon's request, who was no longer worthy and rather sent the soldiers to threaten and drive her away. Denied her loyalty, she decides to avenge the count and roams all over the continent looking for helpers to support her...",
+    "status": {
+      "str": "35",
+      "agi": "40",
+      "hp": "40",
+      "dex": "50",
+      "int": "95",
+      "sen": "80"
+    },
+    "icon": "970d3fa629417e86ee2ebfb647d1ec1c.png",
+    "portrait": "f09923561ef6d381c4f2c88878bf9a2b.png",
+    "background": "f20dccf49a65485656d9e7e36c6f43ba.jpg",
+    "images": [
+      {
+        "thumbnail": "a3cff65d7100a00d3a8ce7b6ddbbd6ef.png",
+        "src": "218c526fc52c0e70aabcd98d84adcd05.png"
+      },
+      {
+        "thumbnail": "4e5652675d7c5cef5c382a4c67538548.png",
+        "src": "6a741381cba4fd0ea8efd36801e21548.png"
+      },
+      {
+        "thumbnail": "0d400edff9dbbb9600784299aa368c64.png",
+        "src": "b9f1fe3f246cc62f12a1871504d6733a.png"
+      }
+    ],
+    "screenshots": [
+      "3280ff64b2d1ace7e8d47dc5dc07df34.jpg",
+      "9e4722bf92b17eb308b76a7f068c5e20.jpg",
+      "167efde2b7fec58be829b6387ce2cad0.jpg",
+      "6e81bd16c8c6d1a5e3d6de217b63dbe8.jpg",
+      "bf7887bd11986508adf4f37cb68c9d0b.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Sharon%20the%20Sage"
+  },
+  {
+    "id": "133",
+    "slug": "codenamev",
+    "name": "Code Name V",
+    "description": "M'Boma's biological sister from Absinia. In the battle against Code Name C she reaches the threshold of death but Absinia's power, which was hidden within herself, is awakened. The power merges with the power of Tempest and brings out a new force of lightning.",
+    "status": {
+      "str": "40",
+      "agi": "60",
+      "hp": "60",
+      "dex": "50",
+      "int": "90",
+      "sen": "60"
+    },
+    "icon": "2e661b563c556a1b8cb11917b8996a4f.png",
+    "portrait": "76cbe815e4397d0979b9e81fc3ffb938.png",
+    "background": "44628861d1f771211972bd47a93524a1.jpg",
+    "images": [
+      {
+        "thumbnail": "946e0ce16a1ec2f17068f36331e58fbf.png",
+        "src": "8a053accb8bf84eef76d488383dee897.png"
+      },
+      {
+        "thumbnail": "2a3a2e516eb91ec3504e61920ce682dd.png",
+        "src": "5008649da7840479c3ecf35b91a33ad0.png"
+      },
+      {
+        "thumbnail": "a4661b7b5009b27012ccebdb4a748f00.png",
+        "src": "8b838559d8b7aa2ea0293135be75cbf8.png"
+      }
+    ],
+    "screenshots": [
+      "29f8f7e971566a478afd38c6aa1e9ffb.jpg",
+      "aabc41e94735ef205931080ce6dc5956.jpg",
+      "c4f7c86063483c738922ca9d02237aa7.jpg",
+      "f522ac620ab383192044b31e69d134d7.jpg",
+      "4ea738c2bfcd7111515cbd8a30bfd6a8.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Code%20Name%20V"
+  },
+  {
+    "id": "134",
+    "slug": "codenamec",
+    "name": "Code Name C",
+    "description": "An ice magician and assassin who newly joined the Stratavista. Arrogant but manages to show sincerity to those who fear and awe herself.",
+    "status": {
+      "str": "30",
+      "agi": "50",
+      "hp": "70",
+      "dex": "50",
+      "int": "95",
+      "sen": "40"
+    },
+    "icon": "0a5be4bf6ba103f9534e7e82e12e0f0d.png",
+    "portrait": "97f4d8b9efbb11369eb3f484085d37c1.png",
+    "background": "decce2590f3ee8b5d0922275a7d97ed4.jpg",
+    "images": [
+      {
+        "thumbnail": "d982d0cd9dfc32734d17298f797ad9af.png",
+        "src": "5e10243505cf5ac64a2929c0069c7bf3.png"
+      },
+      {
+        "thumbnail": "5f139bcdc83c950759b70495514236b2.png",
+        "src": "b6036d16b4ea6bb2b97a2657b3658b99.png"
+      },
+      {
+        "thumbnail": "82d30ad5c9293839d5efc52761bbd17b.png",
+        "src": "d1dae3e20466bfc43570c9998bcfbb83.png"
+      }
+    ],
+    "screenshots": [
+      "339d8b6b051c21143d045233e546f3dc.jpg",
+      "91e143129fa2327c0552aff883a9f114.jpg",
+      "01bc1675eb68944dc57cb0903b8539ea.jpg",
+      "2f294a1b96e103529401e9f40a15ccd0.jpg",
+      "84eb487ee9303e0b3cf648ccf28a4574.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Code%20Name%20C"
+  },
+  {
+    "id": "135",
+    "slug": "codenamet",
+    "name": "Code Name T",
+    "description": "The boy who gave up his father's revenge and wished to live a happy life with Lisa. But people's scorn and contempt for his past works and lack of his own social skills isolated him. When he turned 18, he commits murder at the cafe 'Sea Elephant' and disappears",
+    "status": {
+      "str": "55",
+      "agi": "80",
+      "hp": "50",
+      "dex": "75",
+      "int": "40",
+      "sen": "40"
+    },
+    "icon": "86c043dd4ed4b2bb378def24f042b93b.png",
+    "portrait": "64b7034c957f7783226347f766720909.png",
+    "background": "e2c9ef771d48bea1edeb875be28e58cd.jpg",
+    "images": [
+      {
+        "thumbnail": "16035cc902799783852eaf739a8eaf16.png",
+        "src": "d8ee621f6009c40d3545566c4d9c2313.png"
+      },
+      {
+        "thumbnail": "cbfddac5e89d5578879805e71d9abe5e.png",
+        "src": "4b2ff251131803e9da9a4a2c3cd9dd5d.png"
+      }
+    ],
+    "screenshots": [
+      "1ad021af5f98a9993c606851c78c6f7f.jpg",
+      "a25ecbaf6498196c1e3f8816ea606624.jpg",
+      "608ca12573024b83cd6339dfddbb56de.jpg",
+      "5750ea3d4e4fe896b8ed44304bfa0f4f.jpg",
+      "d51c5e59c0a61905bf8608df2db67917.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Code%20Name%20T"
+  }
+]
