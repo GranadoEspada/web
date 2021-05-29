@@ -5183,5 +5183,200 @@
       "d51c5e59c0a61905bf8608df2db67917.jpg"
     ],
     "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Code%20Name%20T"
+  },
+  {
+    "id": "136",
+    "slug": "meisterlorch",
+    "name": "Meister Lorch",
+    "description": "A young man who doesn't mind being expelled from his family for his own goal. Having mastered a unique gun refining and manufacturing techniques while wandering the New Continent, he is also working on these skills for the pioneers in a private workshop established by Auch for him.",
+    "status": {
+      "str": "30",
+      "agi": "85",
+      "hp": "60",
+      "dex": "85",
+      "int": "40",
+      "sen": "40"
+    },
+    "icon": "36e705d0895b963198d842d5b29571b7.jpg",
+    "portrait": "dbdd8ddf60edb43cba2180f8f317e3ba.png",
+    "background": "d645c7cd141fd14d98f169128cfe741b.jpg",
+    "images": [
+      {
+        "thumbnail": "fdef3600d7c10f2db2df0c1c504dcac7.png",
+        "src": "527bf167d16582a38129a7200524dc60.png"
+      },
+      {
+        "thumbnail": "f044f2bfa96b9d8cd18090a75ff09bdf.png",
+        "src": "ea8f2eaa86d375eba18b77a6f2eab7cb.png"
+      },
+      {
+        "thumbnail": "98bfd69a9cc728553e30ae992afefc4c.png",
+        "src": "0b4596bc39f1a570abae03c088bc7acf.png"
+      }
+    ],
+    "screenshots": [
+      "1b90116621e0208f5d14ecc0a9839c9b.jpg",
+      "e2daadfb931851753781e784250ceb91.jpg",
+      "b97a10f7419913e188a1c8b5455b36c3.jpg",
+      "b36d4629f9831794d30da5058b8d3640.jpg",
+      "c168b7f0217c3c649008df8870e07be0.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Meister%20Lorch"
+  },
+  {
+    "id": "137",
+    "slug": "conductorrio",
+    "name": "Conductor Rio",
+    "description": "Rio, who has already gained fame throughout Orpesia for his musicality, now leads a band of his own. He returned to Granado Espada to reflect on himself, who had settled for a comfortable and luxurious life, and to cheer for the tired Pioneers again. He leads his band around the country, holding performances here and there.",
+    "status": {
+      "str": "30",
+      "agi": "50",
+      "hp": "60",
+      "dex": "40",
+      "int": "80",
+      "sen": "80"
+    },
+    "icon": "a7dda6fe4bca88ae1f39d1bbf64dc724.png",
+    "portrait": "c7512ad186ecf8370c32cb7f13b09368.png",
+    "background": "3fc931e137907d0c12b905e80ad7b294.jpg",
+    "images": [
+      {
+        "thumbnail": "d97bf36b11bf5ce3020f857a3217f196.png",
+        "src": "f2814687289538c461f54ccbeac66bd7.png"
+      },
+      {
+        "thumbnail": "a424a1c0be558dd17132e089596ea60d.png",
+        "src": "e9d91c7b44385ab4130ee6a0d1db72e4.png"
+      },
+      {
+        "thumbnail": "e93ef7c4ac9b938faf75558d1f950067.png",
+        "src": "fee0a6b7057f18b58a5df7ee33c7fefc.png"
+      }
+    ],
+    "screenshots": [
+      "095a0acde88cb5970d6f461f874579f3.jpg",
+      "6765a7ad43d423ee6f46791cf8ef677f.jpg",
+      "32fd1491f24c4aaf52b46cc845ee5e37.jpg",
+      "66fdbfc4610bb92fbd80e2a35ce2d717.jpg",
+      "0831f0e993aa77696780fc6f018b003c.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Conductor%20Rio"
+  },
+  {
+    "id": "138",
+    "slug": "sherry",
+    "name": "Sherry",
+    "description": "A dancer who was once one of the many hands of Arsene. After the fall of Arsene Circus, she joined Noche Estelada led by Conductor Rio, hiding her identity and collecting information.",
+    "status": {
+      "str": "70",
+      "agi": "80",
+      "hp": "50",
+      "dex": "40",
+      "int": "40",
+      "sen": "60"
+    },
+    "icon": "7a5569d1d04f663fe11bac8338ba0b58.png",
+    "portrait": "773d7e5ea04cec70ce41580dee199d5f.png",
+    "background": "fbd8df653f863e58e49b4dffec03d33a.jpg",
+    "images": [
+      {
+        "thumbnail": "0b71130c0fb44dbd8106dd6c1bc26998.png",
+        "src": "96b1dc3cfd13c39cc96a739f03a5e150.png"
+      },
+      {
+        "thumbnail": "7a26e6e91356aed8b4f8b1e351dc62ac.png",
+        "src": "b80f5ec3118bb6251320201e6c79f096.png"
+      },
+      {
+        "thumbnail": "268374c215ae705d6d3209c9696d584b.png",
+        "src": "2b4638ae5ba3ac61de66dddafa2a7046.png"
+      }
+    ],
+    "screenshots": [
+      "e6774ed8b71d10a5318c22e532047c3e.jpg",
+      "7ed20892e25afb3c98100704b2c5c6d6.jpg",
+      "1301e60d48fbe4412cebb1ef7f247fe5.jpg",
+      "e6e79244c11b990de0b770112a98484a.jpg",
+      "1e87f680eac656a7a060d7967933ec90.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Sherry"
+  },
+  {
+    "id": "139",
+    "slug": "kane",
+    "name": "Kane",
+    "description": "A clown and dancer from the Arsene Circus. After the fall of the Arsene Circus, he moved to the New Continent to collect information about missing Emily with Sherry as a partner.",
+    "status": {
+      "str": "85",
+      "agi": "65",
+      "hp": "55",
+      "dex": "40",
+      "int": "40",
+      "sen": "60"
+    },
+    "icon": "310a0c483b6f1d369be16e58daa28e68.png",
+    "portrait": "eeac95bcb6f34b0f4bc9bbc9784601fd.png",
+    "background": "e3f67171a587d5b66e22cdfe12f6669f.jpg",
+    "images": [
+      {
+        "thumbnail": "a2007d74d7f763e54be86d160304478a.png",
+        "src": "02e4143a8ebbe15a428dbe4d448da336.png"
+      },
+      {
+        "thumbnail": "bd4ea000e52283362c7cb482f83814b8.png",
+        "src": "be57d1b5db58a178b99f4a31a184e5c8.png"
+      },
+      {
+        "thumbnail": "418d438ab20830f8d78ad644210cba52.png",
+        "src": "844ce9ac6265616b99c35615f4f326c7.png"
+      }
+    ],
+    "screenshots": [
+      "714975fc1b9ea2630809573191018aa5.jpg",
+      "d4d9c60e2abd3a1022da6882e6cc996f.jpg",
+      "a04b282cc19852a6078f331685a1f7b9.jpg",
+      "26b98e2ddf2891dc9a80dd66c06ffd9b.jpg",
+      "99c0aec4be655471d05d5b1eb0dac3f1.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Kane"
+  },
+  {
+    "id": "140",
+    "slug": "bianca",
+    "name": "Bianca",
+    "description": "Currently a member of Kalbath and a bounty hunter, she seeks pleasure from planning to make the target trust her until the very last minute by truly caring and giving love, and then murder them ghastly.",
+    "status": {
+      "str": "20",
+      "agi": "70",
+      "hp": "60",
+      "dex": "90",
+      "int": "60",
+      "sen": "40"
+    },
+    "icon": "a09359646ddba91b9c06d1ee64b6e881.png",
+    "portrait": "dda35ca694c673c3d25724be4c17bf6c.png",
+    "background": "ae25b3cd487d938dbac9fb5e54003991.jpg",
+    "images": [
+      {
+        "thumbnail": "efe5489cd1c73c9efec17ef416c43e96.png",
+        "src": "a75b630ff179b2461787dbd694ca7804.png"
+      },
+      {
+        "thumbnail": "1567e985f0f59e82804183283df6c658.png",
+        "src": "e214ddce9cdbae5cba849ec441391f40.png"
+      },
+      {
+        "thumbnail": "b2ee878824c7893bbe936c410c35cf11.png",
+        "src": "5ff55ecbc0da27530e4dc65008b079cd.png"
+      }
+    ],
+    "screenshots": [
+      "d41952b3e3660633c946a65a2cf9bb9a.jpg",
+      "63b2436595cd0c996454086bacaa1bdb.jpg",
+      "2be16dfea58e4703b85e55a2b45a5671.jpg",
+      "83a013fcc398a9172da25a3edc423ee6.jpg",
+      "a12aa5c4b4d61970557012c0af93ec8e.jpg"
+    ],
+    "video": "https://www.youtube.com/c/fatsnake/search?query=NPC%20Bianca"
   }
 ]
